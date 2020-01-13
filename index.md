@@ -3,4 +3,4 @@ layout: index
 title: AI for Fintech Research
 ---
 
-# Hello
+# AI for Fintech Research

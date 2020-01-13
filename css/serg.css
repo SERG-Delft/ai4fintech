@@ -33,6 +33,11 @@ h3 {
   background-color: #00A6D6;
 }
 
+.afr, .myfooter {
+  background-color: #DCDCDC;
+  vertical-align: bottom;
+}
+
 @media(max-width: 992px) {
 
   .navbar {
