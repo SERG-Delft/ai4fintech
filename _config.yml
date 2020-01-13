@@ -1,0 +1,20 @@
+permalink: /:categories/:year/:month/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: rouge
+future: true
+
+title : The Software Engineering Research Group at Delft University of Technology
+tagline:
+author :
+  name : SERG
+  email : gousiosg@gmail.com
+  github : serg-delft
+  twitter : serg_delft
+
+production_url : se.ewi.tudelft.nl
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
