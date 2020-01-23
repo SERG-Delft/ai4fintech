@@ -32,6 +32,7 @@ Ka-Wing Man         | 2019-2020 | MSc thesis | Predicting and detecting vulnerab
 Dinesh Bissesar     | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
 
 <br/>
+
 ## Completed thesis projects
 
 Name | Period | Role | Thesis | Advisors
