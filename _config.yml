@@ -2,11 +2,11 @@ exclude: [".gitignore", "README.md", "Rakefile", ]
 highlighter: rouge
 future: true
 
+relative_permalinks: false
+
 title : AI for Fintech Research
 tagline:
 author :
   name : Arie van Deursen
   github : serg-delft
   twitter : serg_delft
-
-url:           "https://se.ewi.tudelft.nl/ai4fintech"
