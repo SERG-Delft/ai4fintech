@@ -13,8 +13,14 @@ This can be part of the
 - 3d year TU Delft bachelor thesis project (individual)
 - TU Delft master thesis project (individual)
 
-If you are interesting in such a position, checkout the current [tracks](tracks.html) and contact the relevant [people](people.html).
-For general inquiries, please contact Luis Cruz.
+If you are interested in such a position, checkout the current [tracks](tracks.html) and contact the relevant [people](people.html). You will be hired as ING intern during your project, which includes an ING selection procedure. Be sure to contact us at least two months before the intended starting date of your project.
+
+If you study at a different university and you would like to write a research master thesis in the context of one of the AFR tracks, you should ask your university supervisor to contact us. We have limited places available, but are always interested in new research opportunities.
+
+For general inquiries, please contact [Luis Cruz][luis].
+
+[luis]: http://luiscruz.github.io/
+
 
 
 ## Current students
