@@ -19,3 +19,4 @@ AFR participates in the Innovation Center for Artificial Intelligence ([ICAI]) a
 [icai]: https://icai.ai/
 [tudelft]: https://tudelft.nl
 [cumulus park]: https://cumuluspark.nl
+

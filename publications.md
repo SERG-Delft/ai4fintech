@@ -19,3 +19,4 @@ Huijgens, H., Greuter, E., Brons, J., Doorn, E. A. V., Papadopoulos, I., Martine
 
 1. Software Analytics in Continuous Delivery: A Case Study on Success Factors
 Huijgens, H., Spadini, D., Stevens, D., Visser, N. & van Deursen, A., 2018, (Accepted/In press) 12th International Symposium on Empirical Software Engineering and Measurement (ESEM 2018). Association for Computing Machinery (ACM), 10 p. 25 ([pure](https://pure.tudelft.nl/portal/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success-factors(9c5d1df6-e244-4fdc-933d-8bc36f9e3bd4).html))
+
