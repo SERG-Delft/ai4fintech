@@ -8,7 +8,7 @@ title: Vacancies
 TU Delft has vacancies for PhD students in three research tracks:
 
 - Track 4: Deploying ML Models at Scale
-- Track 6: AI-Based Quality, Testing, and Security
+- Track 6: AI-Based Quality, Testing, and Security (See [on line vacancy](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288996/?lang=en))
 - Track 10: Fairness-Aware Machine Learning
 
 For each PhD student, the requirements are:
