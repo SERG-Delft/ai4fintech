@@ -1,21 +1,12 @@
-permalink: /:categories/:year/:month/:title
-
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".gitignore", "README.md", "Rakefile", ]
 highlighter: rouge
 future: true
 
-title : The Software Engineering Research Group at Delft University of Technology
+title : AI for Fintech Research
 tagline:
 author :
-  name : SERG
-  email : gousiosg@gmail.com
+  name : Arie van Deursen
   github : serg-delft
   twitter : serg_delft
 
-url:           "https://serg-delft.github.io/"
-production_url : se.ewi.tudelft.nl
-
-collections:
-  events:
-    output: true
-    permalink: /:collection/:year/:month/:day/:title/
+url:           "https://se.ewi.tudelft.nl/ai4fintech"
