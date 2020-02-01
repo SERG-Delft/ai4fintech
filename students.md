@@ -33,7 +33,7 @@ Martijn Steenbergen | 2019-2020 | MSc thesis | A/B testing              | Kevin 
 MyeongJung Park     | 2019-2020 | MSc thesis | AI model monitoring      | Hennie Huijgens, Arie van Deursen
 Andra-Denis Ionescu | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
 Kyriakos Psarakis   | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
-Yuanhao Xie         | 2019-2020 | MSc thesis | AI Model Lifecycles      | Luis Cruz, Jan Rellermyer
+Yuanhao Xie         | 2019-2020 | MSc thesis | AI Model Lifecycles      | Luis Cruz, Jan Rellermeyer
 Ka-Wing Man         | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
 Dinesh Bissesar     | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
 
