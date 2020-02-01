@@ -27,9 +27,10 @@ Asterios Katsifodimos	| TU Delft 			| Track leader
 Christoph Lofi			| TU Delft 			| Track leader
 Jan Rellermeyer			| TU Delft 			| Track leader
 Annibale Panichella		| TU Delft 			| Track leader
+Claudia Hauff           | TU Delft          | Track leader
 Catholijn Jonker		| TU Delft 			| Track leader
 Catherine Oertel		| TU Delft 			| Track leader
-Cynthia Leim			| TU Delft 			| Track leader
+Cynthia Liem			| TU Delft 			| Track leader
 Nava Tintarev			| TU Delft 			| Track leader
 Elvan Kula 				| ING 				| PhD student
 Ralf Wolter				| ING 				| PhD student
