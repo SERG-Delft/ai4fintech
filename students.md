@@ -27,15 +27,18 @@ For general inquiries, please contact [Luis Cruz][luis].
 
 Name | Period | Role | Topic | Advisors
 --|--|--|--|--
-Wim Spaargaren      | 2019-2020 | MSc thesis | Surveying AI for Fintech | Hennie Huigens, Arie van Deursen
-Mark Haakman        | 2019-2020 | MSc thesis | AI Model Lifecycles      | Luis Cruz, Arie van Deursen
-Martijn Steenbergen | 2019-2020 | MSc thesis | A/B testing              | Kevin Anderson, Arie van Deursen
-MyeongJung Park     | 2019-2020 | MSc thesis | AI model monitoring      | Hennie Huijgens, Arie van Deursen
-Andra-Denis Ionescu | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
+Joaquin van Loon    | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
+Marius Birkhoff     | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
+Remco den Heijer    | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
+Yuanhao Xie         | 2019-2020 | MSc thesis | AI Model Lifecycle       | Luis Cruz, Jan Rellermeyer
+Mark Haakman        | 2019-2020 | MSc thesis | AI Model Lifecycle       | Luis Cruz, Arie van Deursen
 Kyriakos Psarakis   | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
-Yuanhao Xie         | 2019-2020 | MSc thesis | AI Model Lifecycles      | Luis Cruz, Jan Rellermeyer
+Martijn Steenbergen | 2019-2020 | MSc thesis | A/B testing              | Kevin Anderson, Arie van Deursen
+Wim Spaargaren      | 2019-2020 | MSc thesis | Surveying AI for Fintech | Hennie Huigens, Arie van Deursen
+Andra-Denis Ionescu | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
 Ka-Wing Man         | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
 Dinesh Bissesar     | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
+MyeongJung Park     | 2019-2020 | MSc thesis | AI model monitoring      | Hennie Huijgens, Arie van Deursen
 
 <br/>
 
