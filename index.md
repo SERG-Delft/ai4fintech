@@ -12,7 +12,7 @@ With 36 million customers, activities in 42 countries, and a total of 50,000 emp
 
 The core of the AFR consists of 10 [research tracks](tracks.html), in which 10 PhD students work on a range of topics, such as software analytics, data integration, fairness in machine learning, model life cycle management, regulatory compliance, search-based software engineering, and A/B testing. In each track, researchers from TU Delft and engineers from ING will be involved, as well as bachelor and master students from TU Delft.
 
-AFR is bi-located at the [Cumulus Park] campus in Amsterdam and the TU Delft campus in Delft, bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations.
+AFR is bi-located at the TU Delft campus in Delft and at [Cumulus Park](https://www.cumuluspark.com) – the collaborative innovation district in Amsterdam Southeast – bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations.
 
 AFR participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) funded directly by industry. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcom, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.
 
