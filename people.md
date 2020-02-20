@@ -32,14 +32,14 @@ Catholijn Jonker		| TU Delft 			| Track leader
 Catherine Oertel		| TU Delft 			| Track leader
 Cynthia Liem			| TU Delft 			| Track leader
 Nava Tintarev			| TU Delft 			| Track leader
-Elvan Kula 				| ING 				| PhD student
-Ralf Wolter				| ING 				| PhD student
-Adil Akhter				| ING 				| PhD student
-Kevin Anderson			| ING 				| PhD student
-Jerry Brons				| ING 				| PhD student
-Floris den Hengst 		| ING and VU 		| PhD student
-Sara Salimzadeh 		| TU Delft 			| PhD student
-George Siachamis 		| TU Delft 			| PhD student
+Elvan Kula 				| ING 				| PhD candidate
+Ralf Wolter				| ING 				| PhD candidate
+Adil Akhter				| ING 				| PhD candidate
+Kevin Anderson			| ING 				| PhD candidate
+Jerry Brons				| ING 				| PhD candidate
+Floris den Hengst 		| ING and VU 		| PhD candidate
+Sara Salimzadeh 		| TU Delft 			| PhD candidate
+George Siachamis 		| TU Delft 			| PhD candidate
 Hennie Huijgens 		| TU Delft 			| Researcher
 Shemara van der Zwet	| TU Delft 			| Management support
 
