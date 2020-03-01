@@ -14,6 +14,7 @@ This can be part of the
 - TU Delft master thesis project (individual)
 
 If you are interested in such a position, checkout the current [tracks](tracks.html) and contact the relevant [people](people.html). You will be hired as ING intern during your project, which includes an ING selection procedure. Be sure to contact us at least two months before the intended starting date of your project.
+For all projects, it is required to spend at least 4 days per week at the ING CumulusPark campus.
 
 If you study at a different university and you would like to write a research master thesis in the context of one of the AFR tracks, you should ask your university supervisor to contact us. We have limited places available, but are always interested in new research opportunities.
 
@@ -32,13 +33,11 @@ Marius Birkhoff     | 2020      | Software Project | Software delivery predictab
 Remco den Heijer    | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
 Yuanhao Xie         | 2019-2020 | MSc thesis | AI Model Lifecycle       | Luis Cruz, Jan Rellermeyer
 Mark Haakman        | 2019-2020 | MSc thesis | AI Model Lifecycle       | Luis Cruz, Arie van Deursen
-Kyriakos Psarakis   | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
+Kyriakos Psarakis   | 2019-2020 | MSc thesis | Schema integration       | Christoph Lofi, Asterios Katsifodimos
 Martijn Steenbergen | 2019-2020 | MSc thesis | A/B testing              | Kevin Anderson, Arie van Deursen
 Wim Spaargaren      | 2019-2020 | MSc thesis | Surveying AI for Fintech | Hennie Huigens, Arie van Deursen
-Andra-Denis Ionescu | 2019-2020 | MSc thesis | Schema integration       | Asterios Katsifodimos
 Ka-Wing Man         | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
 Dinesh Bissesar     | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
-MyeongJung Park     | 2019-2020 | MSc thesis | AI model monitoring      | Hennie Huijgens, Arie van Deursen
 
 <br/>
 
@@ -46,5 +45,7 @@ MyeongJung Park     | 2019-2020 | MSc thesis | AI model monitoring      | Hennie
 
 Name | Period | Role | Thesis | Advisors
 --|--|--|--|--
-Elvan Kula | 2018-2019 | MSc student | [Releasing Fast and Slow: Characterizing Rapid Releases in a Large Software-Driven Organization](https://repository.tudelft.nl/islandora/object/uuid%3A9660c5a3-6ef8-4c6a-b5cf-3994b60d754b?collection=education) | Georgios Gousios
+Andra-Denis Ionescu | 2019-2020 | MSc thesis | [Reproducing state-of-the-art schema matching algorithms](http://resolver.tudelft.nl/uuid:9f8056e6-cfdf-4240-99e3-5f45947d1fa7)       | Christoph Lofi
+MyeongJung Park     | 2019-2020 | MSc thesis | [A Monitoring System for Machine Learning Models in a Large-Scale Context](http://resolver.tudelft.nl/uuid:42f9cb1d-18fa-4dd0-9436-39d4d202c2e3)      | Hennie Huijgens, Arie van Deursen
 Ernst Mulders | 2018-2019 | MSc student | [Data Driven Decisions: Validating and Supporting a Continuous Experimentation Development Environment](https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education) | Georgios Gousios, Hennie Huijgens
+Elvan Kula | 2018-2019 | MSc student | [Releasing Fast and Slow: Characterizing Rapid Releases in a Large Software-Driven Organization](https://repository.tudelft.nl/islandora/object/uuid%3A9660c5a3-6ef8-4c6a-b5cf-3994b60d754b?collection=education) | Georgios Gousios
