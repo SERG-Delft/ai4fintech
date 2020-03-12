@@ -31,6 +31,8 @@ Related work:
 
 - Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10
 
+**Track leader:** Georgios Gousios
+
 
 ## Track 2: Data Integration
 
@@ -47,6 +49,7 @@ Related work:
 
 - Daniel Vliegenthart, Sepideh Mesbah, Christoph Lofi, Akiko Aizawa, Alessandro Bozzon: Coner: A Collaborative Approach for Long-Tail Named Entity Recognition in Scientific Publications. TPDL 2019: 3-17
 
+**Track leader:** Christoph Lofi
 
 ## Track 3: Serverless Machine Learning
 
@@ -61,6 +64,8 @@ Related work:
 
 - Andreas Kunft, Asterios Katsifodimos, Sebastian Schelter, Sebastian Breß, Tilmann Rabl, Volker Markl: An Intermediate Representation for Optimizing Machine Learning Pipelines. PVLDB 12(11): 1553-1567 (2019)
 
+**Track leader:** Asterios Katsifodimos
+
 ## Track 4: Deploying ML Models at Scale
 
 The deployment of ML-applications brings in a unique set of engineering challenges. In particular if models are re-trained and re-deployed frequently, full automation of all relevant deployment tasks is needed. This includes monitoring and optimization in production, as well as data quality validation. For models requiring explainability, verification of not just outputs but also of the revised explanations will be necessary.
@@ -73,6 +78,7 @@ Software engineering for machine learning: a case study. ICSE (SEIP) 2019: 291-3
 
 - Jimmy Lin and Dmitriy Ryaboy. 2013. Scaling big data mining infrastructure: the Twitter experience. SIGKDD Explor. Newsl. 14, 2 (April 2013), 6-19.
 
+**Track leader:** Jan Rellermeyer
 
 ## Track 5: Continuous Experimentation
 
@@ -93,6 +99,7 @@ The bones of the system: a case study of logging and telemetry at Microsoft. ICS
 
 - Mónica Marrero, Claudia Hauff: A/B Testing with APONE. SIGIR 2018: 1269-1272
 
+**Track leader:** Claudia Hauff
 
 ## Track 6: AI-Based Quality, Testing, and Security
 
@@ -114,6 +121,8 @@ Related work:
 - Maria Kechagia, Xavier Devroey, Annibale Panichella, Georgios Gousios, Arie van Deursen: Effective and efficient API misuse detection via exception propagation and search-based testing. ISSTA 2019: 192-203
 
 
+**Track leader:** Annibale Panichella
+
 ## Track 7: Interactive Agents and Intelligent Orchestration
 
 A part of compliance and due diligence in preventing abuse and fraud is tracking and verifying evidence and compliance documents. This process is labor-intensive, time consuming and error-prone due to its mostly manual nature. While automation seems the solution to this problem pure automation based on machine learning creates the possibility for gaming the system due to the closed nature of such networks and the inherent vulnerability to adversarial machine learning.
@@ -130,6 +139,7 @@ Related work:
 
 - Vincent J. Koeman, Koen V. Hindriks, Catholijn M. Jonker: Automating failure detection in cognitive agent programs. IJAOSE 6(3/4): 275-308 (2018)
 
+**Track leader:** Catholijn Jonker
 
 ## Track 8: Natural Language Processing and Information Retrieval
 
@@ -150,10 +160,11 @@ ING's historic data of already conducted KYC and CDD assessments will provide th
 
 - Felipe Moraes, Kilian Grashoff, Claudia Hauff: On the impact of group size on collaborative search effectiveness. Inf. Retr. Journal 22(5): 476-498 (2019)
 
+**Track leader:** Catherine Oertel
 
 ## Track 9: User Experience and Personalization
 
-In order to be able to optimally serve its customers' needs and demands, ING seeks to offer personalized and relavant customer journeys, on its mobile as well as its web platforms.
+In order to be able to optimally serve its customers' needs and demands, ING seeks to offer personalized and relevant customer journeys, on its mobile as well as its web platforms.
 The underlying system interactions can be short term (one web session) as well as long term, spanning years if not decades, in case of, e.g., mortgages or pensions.
 
 Within this track we seek to develop novel methods and techniques in the areas of user modeling, adaptation, and personalization (UMAP), within the context of banking.
@@ -165,6 +176,7 @@ Related work:
 
 - Yucheng Jin, Nyi Nyi Htun, Nava Tintarev, Katrien Verbert: ContextPlay: Evaluating User Control for Context-Aware Music Recommendation. UMAP 2019: 294-302
 
+**Track leader:** Nava Tintarev
 
 ## Track 10: Fairness-Aware Machine Learning
 
@@ -184,4 +196,5 @@ Related work:
 
 - Nava Tintarev, Judith Masthoff: Explaining Recommendations: Design and Evaluation. Recommender Systems Handbook 2015:353-382
 
+**Track leader:** Cynthia Liem
 
