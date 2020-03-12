@@ -42,16 +42,16 @@ George Siachamis 		    | TU Delft 	  | PhD candidate
 Hennie Huijgens 		    | TU Delft 	  | Researcher
 Shemara van der Zwet	  | TU Delft 	  | Management support
 
-[Arie van Deursen]:(https://avandeursen.com)
-[Luís Cruz]:(https://luiscruz.github.io)
-[Asterios Katsifodimos]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/)
-[Georgios Gousios]:(https://www.gousios.gr)
-[Christoph Lofi]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/christoph-lofi/)
-[Jan Rellermeyer]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer/)
-[Annibale Panichella]:(https://apanichella.github.io)
-[Claudia Hauff]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/claudia-hauff/)
-[Catholijn Jonker]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/catholijn-m-jonker/)
-[Catherine Oertel]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/catharine-oertel/)
-[Cynthia Liem]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem/)
-[Nava Tintarev]:(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/)
+[Arie van Deursen]:https://avandeursen.com
+[Luís Cruz]:https://luiscruz.github.io
+[Asterios Katsifodimos]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/
+[Georgios Gousios]:https://www.gousios.gr
+[Christoph Lofi]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/christoph-lofi/
+[Jan Rellermeyer]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/jan-rellermeyer/
+[Annibale Panichella]:https://apanichella.github.io
+[Claudia Hauff]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/claudia-hauff/
+[Catholijn Jonker]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/catholijn-m-jonker/
+[Catherine Oertel]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/catharine-oertel/
+[Cynthia Liem]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem/
+[Nava Tintarev]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/
 
