@@ -11,9 +11,9 @@
 - date: 2020-02-24
   speaker: Mark Haakman
   title: An Exploratory Study on the Life Cycle of ML Applications
-# - date: 2020-02-10
-#   speaker: Martijn Steenbergen
-#   title:
+- date: 2020-02-17
+  speaker: Martijn Steenbergen
+  title: AB-Testing @ ING
 - date: 2020-02-10
   speaker: Andra Ionescu
   title: Reproducing state-of-the-art schema matching algorithms
