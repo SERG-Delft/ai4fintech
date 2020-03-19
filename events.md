@@ -10,5 +10,5 @@ Within AFR, events are regularly organized, including a weekly team meeting at C
 | When            | Title           | Speaker           |
 | --------------- | --------------- | ----------------- |
 {% for event in site.data.events -%}
-| {{event.date}}  | {{event.title}}. {%- if event.slides %} [(Slides)](event.slides) {%- endif %} | {{event.speaker}} |
+| {{event.date}}  | {{event.title}}. {%- if event.slides %} [(Slides)]({{event.slides}}){:target="_blank"} {%- endif %} | {{event.speaker}} |
 {% endfor  %}
