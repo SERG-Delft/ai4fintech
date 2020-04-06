@@ -99,7 +99,7 @@ The bones of the system: a case study of logging and telemetry at Microsoft. ICS
 
 - Mónica Marrero, Claudia Hauff: A/B Testing with APONE. SIGIR 2018: 1269-1272
 
-**Track leader:** Claudia Hauff
+**Track leader:** Arie van Deursen
 
 ## Track 6: AI-Based Quality, Testing, and Security
 
@@ -160,7 +160,7 @@ ING's historic data of already conducted KYC and CDD assessments will provide th
 
 - Felipe Moraes, Kilian Grashoff, Claudia Hauff: On the impact of group size on collaborative search effectiveness. Inf. Retr. Journal 22(5): 476-498 (2019)
 
-**Track leader:** Catherine Oertel
+**Track leader:** Claudia Hauff
 
 ## Track 9: User Experience and Personalization
 
@@ -176,7 +176,6 @@ Related work:
 
 - Yucheng Jin, Nyi Nyi Htun, Nava Tintarev, Katrien Verbert: ContextPlay: Evaluating User Control for Context-Aware Music Recommendation. UMAP 2019: 294-302
 
-**Track leader:** Nava Tintarev
 
 ## Track 10: Fairness-Aware Machine Learning
 
