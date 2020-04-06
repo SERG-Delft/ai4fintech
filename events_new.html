@@ -1,0 +1,33 @@
+---
+layout: default
+title: events
+---
+Within AFR, events are regularly organized, including a weekly team meeting at Cumulus Park, as well as frequent meet-ups.
+<br/>
+<a href="https://calendar.google.com/calendar/ical/rjncg1frrlmi9o3ocnf0gvquas%40group.calendar.google.com/public/basic.ics" target="_blank">Subscribe to our calendar</a> and do not miss any event.
+
+<ul id="events-upcoming"></ul>
+<ul id="events-past"></ul>
+
+<!-- Source: https://github.com/MilanLund/FormatGoogleCalendar -->
+<script src="{{ base.url | prepend: site.url }}/assets/js/format-google-calendar.min.js"></script>
+<script>
+formatGoogleCalendar.init({
+ calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/rjncg1frrlmi9o3ocnf0gvquas@group.calendar.google.com/events?key=AIzaSyCWtx_CJRcBN9OcuY9XHANYPzN0hK_vVUU',
+ past: true,
+ upcoming: true,
+ sameDayTimes: true,
+ dayNames: true,
+ // pastTopN: -1,
+ // upcomingTopN: 3,
+ itemsTagName: 'li',
+ upcomingSelector: '#events-upcoming',
+ pastSelector: '#events-past',
+ recurringEvents: true, 
+ upcomingHeading: '<h3>Upcoming events</h3>',
+ pastHeading: '<h3>Past events</h3>',
+ format: ['*date*', ': <i>', '*summary*', '</i>. ', '*description*', ' in ', '*location*'],
+ // timeMin: '2016-06-03T10:00:00-07:00',
+ // timeMax: '2020-06-03T10:00:00-07:00'
+});
+</script>
