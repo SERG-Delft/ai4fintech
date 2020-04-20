@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 6
-title: 6 - AI-Based Quality, Testing, and Security
+title: AI-Based Quality, Testing, and Security
 leader: Annibale Panichella 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 7
-title: 7 - Interactive Agents and Intelligent Orchestration
+title: Interactive Agents and Intelligent Orchestration
 leader: Catholijn Jonker
 ---
 
