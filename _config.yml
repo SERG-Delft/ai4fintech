@@ -10,3 +10,8 @@ author :
   name : Arie van Deursen
   github : serg-delft
   twitter : serg_delft
+
+collections:
+  tracks :
+    output: true
+    sort_by: track-id
