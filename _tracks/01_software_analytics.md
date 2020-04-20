@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 1
-title: 1 - Software Analytics
+title: Software Analytics
 leader: Georgios Gousios
 ---
 
