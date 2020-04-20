@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 2
-title: Data Integration
+title: 2 - Data Integration
 leader: Christoph Lofi
 ---
 

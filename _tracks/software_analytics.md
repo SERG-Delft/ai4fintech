@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 1
-title: Software Engineering
+title: 1 - Software Analytics
 leader: Georgios Gousios
 ---
 

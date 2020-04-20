@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 8
-title: Natural Language Processing and Information Retrieval
+title: 8 - Natural Language Processing and Information Retrieval
 leader: Claudia Hauff
 ---
 
