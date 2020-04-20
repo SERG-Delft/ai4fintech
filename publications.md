@@ -11,6 +11,15 @@ All publications of the AI for Fintech Research are available in (green) open ac
 
 
 ## Key Publications
+1. Reinforcement Learning for Personalization: A Systematic Literature Review.
+   den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark:
+   Data Science
+   ([doi](https://doi.org/10.3233/DS-200028))
+
+1. Reinforcement Learning for Personalized Dialogue Management.
+   den Hengst, Floris and Hoogendoorn, Mark and van Harmelen, Frank and Bosman, Joost:
+   2019 IEEE/WIC/ACM International Conference on Web Intelligence (WI), 59-76
+   ([doi](https://doi.org/10.1145/3350546.3352501))
 
 1. Releasing Fast and Slow: An Exploratory Case Study at ING. Kula, E., Rastogi, A., Huijgens, H., van Deursen, A. & Gousios, G., 2019, ESEC/FSE 2019 : Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. Dumas, M. & Pfahl, D. (eds.). New York: ACM DL, p. 785-795 11 p. ([pure](https://pure.tudelft.nl/portal/en/publications/releasing-fast-and-slow(161e54d5-66d2-4dfe-b24b-93fbaacbaf01).html))
 
