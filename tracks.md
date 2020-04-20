@@ -16,6 +16,6 @@ These themes recur in each of the tracks, yet in different proportions, with som
 
 
 {% for track in site.tracks %}
-Track {{track.track-id}}: [{{track.title}}]({{track.url | relative_url}}) {% if track.leader %} ({{track.leader}}) {% endif %}
+[Track {{track.title}}]({{track.url | relative_path}}) {% if track.leader %} ({{track.leader}}) {% endif %}
 
 {% endfor %}
