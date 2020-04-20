@@ -11,7 +11,7 @@ There are two options to build the website locally:
 
 #### Installing and running Jekyll
 
-Jekyll requires Ruby (>=2.4.0). If you have Ruby installed (most recent Linuxes
+Jekyll requires Ruby (>=2.3). If you have Ruby installed (most recent Linuxes
 and Macs do have a correct version of Ruby), you can use the following commands
 to build the web site:
 
@@ -34,7 +34,7 @@ You can use Docker to avoid installing Ruby and/or gems. More instructions
 [here](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)
 
 ```shell
-export JEKYLL_VERSION=4.0.0
+export JEKYLL_VERSION=3.8.4
 
 # Build the web site
 docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll build
