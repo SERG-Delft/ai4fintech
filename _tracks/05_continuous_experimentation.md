@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 5
-title: 5 - Continuous Experimentation
+title: Continuous Experimentation
 leader: Arie van Deursen
 ---
 
