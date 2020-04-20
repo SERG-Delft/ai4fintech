@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 11
-title: Reinforcement Learning in Regulated Domains
+title: 11 - Reinforcement Learning in Regulated Domains
 leader: Frank van Harmelen
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 track-id: 10
-title: Fairness-Aware Machine Learning
+title: 10 - Fairness-Aware Machine Learning
 leader: Cynthia Liem
 ---
 
