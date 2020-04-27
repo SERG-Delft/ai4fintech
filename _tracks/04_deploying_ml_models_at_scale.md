@@ -2,7 +2,7 @@
 layout: default
 track-id: 4
 title: Deploying ML Models at Scale
-leader: Jan Rellermeyer
+leader: Jan Rellermeyer, Luís Cruz
 ---
 
 # Track 4: Deploying ML Models at Scale
