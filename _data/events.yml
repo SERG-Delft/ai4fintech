@@ -1,6 +1,12 @@
-- date: 2020-04-28
-  speaker: Evert-Jan van Doorn, Wouter van 't Hof (I3 Infra Analytics)
-  title: "Applying Granger Causality in Server Incident Analysis"
+- date: 2020-05-11
+  title: "Why fairness can't (and shouldn't) be 'solved' by machine learning"
+  speaker: Cynthia Liem
+- date: 2020-05-07
+  title: "Pitch Night"
+  speaker: Oliviana Bailey
+# - date: 2020-04-28
+#   speaker: Evert-Jan van Doorn, Wouter van 't Hof (I3 Infra Analytics)
+#   title: "Applying Granger Causality in Server Incident Analysis"
 - date: 2020-04-20
   speaker: Enrique Larios
   title: "Selecting third-party libraries: The practitioners' perspective"
