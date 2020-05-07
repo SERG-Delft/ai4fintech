@@ -15,7 +15,7 @@ John Schmitz      			| TU Delft 	  | Steering committee
 Shiler Khedri			      | ING				  | Management
 Mieke Nan       				| ING				  | Management
 Chris Ogbu			       	| ING				  | Management
-Elvan Kula 				      | ING 			  | Management, PhD candidate
+[Elvan Kula] 				      | ING 			  | Management, PhD candidate
 [Luís Cruz] 				    | TU Delft 	  | Coordination and research
 Eric Greuter			      | ING 			  | Track sponsor
 Robert Frank Hofland	  | ING 			  | Track sponsor
@@ -44,6 +44,7 @@ Shemara van der Zwet	  | TU Delft 	  | Management support
 
 [Arie van Deursen]:https://avandeursen.com
 [Luís Cruz]:https://luiscruz.github.io
+[Elvan Kula]:https://www.linkedin.com/in/elvan-kula/
 [Asterios Katsifodimos]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/
 [Georgios Gousios]:https://www.gousios.gr
 [Christoph Lofi]:https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/christoph-lofi/
