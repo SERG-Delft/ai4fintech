@@ -12,9 +12,10 @@ Name | Organization | Role
 Görkem Köseoğlu			    | ING				  | Steering committee
 Rob Manders				      | ING				  | Steering committee
 John Schmitz      			| TU Delft 	  | Steering committee
-Shiler Khedri			      | ING				  | Manamement
+Shiler Khedri			      | ING				  | Management
 Mieke Nan       				| ING				  | Management
 Chris Ogbu			       	| ING				  | Management
+Elvan Kula 				      | ING 			  | Management, PhD candidate
 [Luís Cruz] 				    | TU Delft 	  | Coordination and research
 Eric Greuter			      | ING 			  | Track sponsor
 Robert Frank Hofland	  | ING 			  | Track sponsor
@@ -31,7 +32,6 @@ Pepijn Vuister		 	    | ING 			  | Track sponsor
 [Catherine Oertel]		  | TU Delft 	  | Track leader
 [Cynthia Liem]			    | TU Delft 	  | Track leader
 [Nava Tintarev]			    | TU Delft 	  | Track leader
-Elvan Kula 				      | ING 			  | PhD candidate
 Ralf Wolter				      | ING 			  | PhD candidate
 Adil Akhter				      | ING 			  | PhD candidate
 Kevin Anderson		    	| ING 			  | PhD candidate
