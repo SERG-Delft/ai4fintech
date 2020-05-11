@@ -1,45 +1,71 @@
 - date: 2020-05-11
+  start: 13h00
+  end: 14h00
   title: "Why fairness can't (and shouldn't) be 'solved' by machine learning"
   speaker: Cynthia Liem
   slides: https://surfdrive.surf.nl/files/index.php/s/uRvBSspSV5s9HCA
 - date: 2020-05-07
+  start: 16h00
+  end: 17h30
   title: "Pitch Night"
   speaker: Oliviana Bailey
 # - date: 2020-04-28
 #   speaker: Evert-Jan van Doorn, Wouter van 't Hof (I3 Infra Analytics)
 #   title: "Applying Granger Causality in Server Incident Analysis"
 - date: 2020-04-20
+  start: 13h00
+  end: 14h00
   speaker: Enrique Larios
   title: "Selecting third-party libraries: The practitioners' perspective"
 - date: 2020-04-14
   speaker: Azamat Omuraliev
+  start: 13h00
+  end: 14h00
   title: "Control in Automatic Text Summarization"
   slides: https://surfdrive.surf.nl/files/index.php/s/7zk0yjuyyYnuA3h/download?path=%2FAFR_presentations&files=2020_04_14_AzamatOmuraliev_Control-in-Automatic-Text-Summarization.pdf
 - date: 2020-04-06
   speaker: Sara Salimzadeh
+  start: 13h00
+  end: 14h00
   title: Text to SQL
 - date: 2020-03-23
   speaker: Carolin Brandt
+  start: 13h00
+  end: 14h00
   title:  How to Analyze Build Logs using Chunk Retrieval
   slides: https://surfdrive.surf.nl/files/index.php/s/Pv4sffs1hJVNTtP
 - date: 2020-03-09
+  start: 13h00
+  end: 14h00
   speaker: Claudio Lonzo
+  start: 13h00
+  end: 14h00
   title:  A Fairness-by-design framework for data-driven Automated Decision-making Systems
   slides: https://surfdrive.surf.nl/files/index.php/s/5CcA2UgBCA6VghL
 - date: 2020-03-02
+  start: 13h00
+  end: 14h00
   speaker: Pouria Derakhshanfar
   title:  AI For Test Generation
   slides: https://surfdrive.surf.nl/files/index.php/s/sMiIB39DOI07wWf
 - date: 2020-02-24
+  start: 13h00
+  end: 14h00
   speaker: Mark Haakman
   title: An Exploratory Study on the Life Cycle of ML Applications
 - date: 2020-02-17
+  start: 13h00
+  end: 14h00
   speaker: Martijn Steenbergen
   title: AB-Testing @ ING
 - date: 2020-02-10
+  start: 13h00
+  end: 14h00
   speaker: Andra Ionescu
   title: Reproducing state-of-the-art schema matching algorithms
 - date: 2020-02-03
+  start: 13h00
+  end: 14h00
   speaker: Elvan Kula
   title: When will it be done? The what, who and how of timely software delivery  
   slides: https://surfdrive.surf.nl/files/index.php/s/4HjppYxV9PFgBDd
