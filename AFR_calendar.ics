@@ -4,7 +4,7 @@ layout: none
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:http://se.ewi.tudelft.nl/events
-X-WR-CALNAME:serg
+X-WR-CALNAME:AI for Fintech Research
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
