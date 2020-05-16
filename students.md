@@ -28,6 +28,8 @@ For general inquiries, please contact [Luis Cruz][luis].
 
 Name | Period | Role | Topic | Advisors
 --|--|--|--|--
+Pradyot Patil       | 2020      | MSc thesis | Incident prediction | Elvan Kula, Georgios Gousios
+Thomas Kolenbrander | 2020      | MSc thesis | Major incident detection | Elvan Kula, Georgios Gousios
 Joaquin van Loon    | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
 Marius Birkhoff     | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
 Remco den Heijer    | 2020      | Software Project | Software delivery predictability | Elvan Kula, Georgios Gousios
