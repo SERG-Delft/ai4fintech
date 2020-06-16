@@ -29,6 +29,10 @@ Related work:
   for Personalized Dialogue Management. IEEE/WIC/ACM International Conference on Web Intelligence:
   59-76 (2020) [doi](https://doi.org/10.1145/3350546.3352501)
 
+- van Zeelt, Mickey, Floris den Hengst, and Seyyed Hadi Hashemi. "Collecting High-Quality Dialogue
+  User Satisfaction Ratings with Third-Party Annotators." Proceedings of the 2020 Conference on
+  Human Information Interaction and Retrieval. 2020. [doi](https://doi.org/10.1145/3343413.3377998)
+
 - Floris den Hengst, Eoin Grua, Ali el Hassouni, Mark Hoogendoorn: Reinforcement learning for
   personalization: A systematic literature review. Data Science: 1-4 (2020)
   [doi](https://doi.org/10.3233/DS-200028)
