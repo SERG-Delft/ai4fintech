@@ -1,11 +1,11 @@
 ---
 layout: default
 track-id: 10
-title: Fairness-Aware Machine Learning
+title: Trustworthy AI
 leader: Cynthia Liem
 ---
 
-# Track 10: Fairness-Aware Machine Learning
+# Track 10: Trustworthy AI
 
 More and more software services in the banking domain rely on machine learning.
 This makes it crucial that such services can be considered fair, and not influenced negatively by potential biases in the training data. Here, the banking domain introduces an additional, critical need for fairness, as the bank's algorithms affect customer's abilities to open a bank account, obtain a loan or mortgage, or buy a house.
