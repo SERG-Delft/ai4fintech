@@ -2,7 +2,7 @@
 layout: default
 track-id: 2
 title: Data Integration
-leader: Christoph Lofi
+leader: Asterios Katsifodimos
 ---
 
 # Track 2: Data Integration
