@@ -42,6 +42,8 @@ Jerry Brons				      | ING 			  | PhD candidate
 Floris den Hengst 		  | ING and VU  | PhD candidate
 Sara Salimzadeh 		    | TU Delft 	  | PhD candidate
 George Siachamis 		    | TU Delft 	  | PhD candidate
+Leonhard Applis         | TU Delft    | PhD candidate
+Maliheh Izadi           | TU Delft    | Visiting PhD candidate
 Hennie Huijgens 		    | TU Delft 	  | Researcher
 Shemara van der Zwet	  | TU Delft 	  | Management support
 
