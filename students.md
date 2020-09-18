@@ -26,7 +26,7 @@ For general inquiries, please contact [Luís Cruz].
 Name | Period | Role | Topic | Advisors
 --|--|--|--|--
 Arthur Breurkes     | 2020-2021 | MSc thesis | Data profiling | Christoph Lofi
-David Bisset        | 2020-2021 | MSc thesis | ML-based Software Refactoring | Maurício Aniche
+David van der Leij  | 2020-2021 | MSc thesis | ML-based Software Refactoring | Maurício Aniche
 Purvesh Baghele     | 2020-2021 | MSc thesis | Interpretability Tools for ML Models | Cynthia Liem
 Marlo Ploemen       | 2020-2021 | MSc thesis | Stateful Functions-as-a-Service| Asterios Katsifodimos, Marios Fragkoulis
 Pradyot Patil       | 2020      | MSc thesis | Incident prediction | Elvan Kula, Georgios Gousios
