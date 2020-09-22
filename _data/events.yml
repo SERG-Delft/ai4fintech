@@ -1,3 +1,18 @@
+- date: 2020-10-12
+  start: 13h00
+  end: 14h00
+  title: "AI Model Lifecycle management"
+  speaker: Yuanhao Xie
+- date: 2020-10-05
+  start: 13h00
+  end: 14h00
+  title: "Time Series Clustering at ING"
+  speaker: Evert-Jan van Doorn, Wouter van 't Hof
+- date: 2020-09-22
+  start: 13h00
+  end: 14h00
+  title: "Using Machine Learning for Major Incident Detection"
+  speaker: Thomas Kolenbrander
 - date: 2020-09-14
   start: 14h30
   end: 15h30
