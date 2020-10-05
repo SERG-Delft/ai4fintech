@@ -23,4 +23,4 @@ Related work:
 
 - Nava Tintarev, Judith Masthoff: Explaining Recommendations: Design and Evaluation. Recommender Systems Handbook 2015:353-382
 
-**Track leader:** Cynthia Liem
+**Track leader:** {{ page.leader }}

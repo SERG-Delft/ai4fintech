@@ -20,4 +20,4 @@ Related work:
 
 - Daniel Vliegenthart, Sepideh Mesbah, Christoph Lofi, Akiko Aizawa, Alessandro Bozzon: Coner: A Collaborative Approach for Long-Tail Named Entity Recognition in Scientific Publications. TPDL 2019: 3-17
 
-**Track leader:** Christoph Lofi
+**Track leader:** {{ page.leader }}

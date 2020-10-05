@@ -33,4 +33,4 @@ Related work:
   personalization: A systematic literature review. Data Science: 1-4 (2020)
   [doi](https://doi.org/10.3233/DS-200028)
 
-**Track leader:** Frank van Harmelen
+**Track leader:** {{ page.leader }}

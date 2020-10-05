@@ -24,4 +24,4 @@ Related work:
 
 - Maria Kechagia, Xavier Devroey, Annibale Panichella, Georgios Gousios, Arie van Deursen: Effective and efficient API misuse detection via exception propagation and search-based testing. ISSTA 2019: 192-203
 
-**Track leader:** Annibale Panichella
+**Track leader:** {{ page.leader }}

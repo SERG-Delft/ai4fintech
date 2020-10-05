@@ -22,6 +22,6 @@ Related work:
 
 - Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10
 
-**Track leader:** {% leader %}
-**Ph.D. Student:** {% phd %}
+**Ph.D. Student:** {{ page.phd }}
 
+**Track leader:** {{ page.leader }}

@@ -2,7 +2,7 @@
 layout: default
 track-id: 4
 title: Deploying ML Models at Scale
-leader: Jan Rellermeyer, Luís Cruz
+leader: Jan Rellermeyer
 ---
 
 # Track 4: Deploying ML Models at Scale
@@ -17,4 +17,4 @@ Software engineering for machine learning: a case study. ICSE (SEIP) 2019: 291-3
 
 - Jimmy Lin and Dmitriy Ryaboy. 2013. Scaling big data mining infrastructure: the Twitter experience. SIGKDD Explor. Newsl. 14, 2 (April 2013), 6-19.
 
-**Track leader:** Jan Rellermeyer
+**Track leader:** {{ page.leader }}
