@@ -12,10 +12,13 @@ Given this FinTech context, all tracks have three overarching themes in common:
 2. **Data-driven**: AFR recognizes that data and data management is key to AI-success, emphasizing data that is Findable, Accessible, Interoperable, and Reusable (FAIR).
 3. **Software-defined**: AFR acknowledges that modern banking is software defined, seeking to leverage AI to advance its software development practices, and making these practices ready for the AI-based systems of the future.
 
-These themes recur in each of the tracks, yet in different proportions, with some tracks having a strong focus on the software side, and others a stronger focus on the human side.
+These themes recur in each of the tracks, yet in different proportions, with some tracks having a strong focus on the software side, and others a stronger focus on the data human side.
 
+The current tracks are:
 
 {% for track in site.tracks %}
-Track {{track.track-id}}: [{{track.title}}]({{track.url | relative_url}}) {% if track.leader %} ({{track.leader}}) {% endif %}
+ -  Track {{track.track-id}}: [{{track.title}}]({{track.url | relative_url}}) {% if track.leader %} ({{track.leader}}) {% endif %}
 
 {% endfor %}
+
+<br/>
