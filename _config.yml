@@ -11,6 +11,9 @@ author :
   github : serg-delft
   twitter : Ai4Fintech
 
+baseurl: "ai4fintech" # the subpath of your site, e.g. /blog
+url: "https://se.ewi.tudelft.nl/" # the base hostname & protocol for your site, e.g.
+
 collections:
   tracks :
     output: true

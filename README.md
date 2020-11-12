@@ -21,11 +21,12 @@ gem install bundler
 bundle install
 
 # Build the web site
-bundle exec jekyll build
+
+bundle exec jekyll build --config _config.yml,_config_local.yml
 
 # Run jekyll as web server.
 # Automatically rebuilds after a file change
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload --config _config.yml,_config_local.yml
 ```
 
 #### Running with Docker
@@ -37,5 +38,5 @@ You can use Docker to avoid installing Ruby and/or gems. More instructions
 export JEKYLL_VERSION=3.8.4
 
 # Build the web site
-docker run --rm -p4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll serve
+docker run --rm -p4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll serve --livereload --config _config.yml,_config_local.yml
 ```
