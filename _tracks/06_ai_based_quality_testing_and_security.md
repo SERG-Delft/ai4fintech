@@ -2,7 +2,8 @@
 layout: default
 track-id: 6
 title: AI-Based Quality, Testing, and Security
-leader: Annibale Panichella 
+leader: Annibale Panichella
+phd: Leonhard Applis
 ---
 
 # Track 6: AI-Based Quality, Testing, and Security
@@ -24,4 +25,7 @@ Related work:
 
 - Maria Kechagia, Xavier Devroey, Annibale Panichella, Georgios Gousios, Arie van Deursen: Effective and efficient API misuse detection via exception propagation and search-based testing. ISSTA 2019: 192-203
 
+**Ph.D. Student:** {{ page.phd }}
+
 **Track leader:** {{ page.leader }}
+
