@@ -1,4 +1,10 @@
 - date: 2020-11-26
+  start: 15h00
+  end: 16h00
+  title: "Webinar: Data Management for AI"
+  url: https://mailchi.mp/xdelft/dds-event-26-11-2020
+  speaker: Elvan Kula, Jan Rellermeyer
+- date: 2020-11-26
   start: 12h00
   end: 13h00
   title: "Lunch with ICAI Meetup: AI & the Service Industry in NL"
