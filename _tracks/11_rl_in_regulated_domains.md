@@ -7,9 +7,11 @@ leader: Frank van Harmelen
 
 # Reinforcement Learning in Regulated Domains
 
-Adaptivity and personalization can be of huge benefit in highly regulated domains, including
-banking and finance and healthcare. Strong guarantees on safety of behaviour is a prerequisite for adoption of
-systems in these domains.
+Reinforcement learning is a powerful learning paradigm that can be used to learn how to behave
+optimally from data. It has become increasingly popular over the past decades for various tasks,
+including personalization. However, enforcing safety requirements onto the learned behaviors
+remains an open challenge. Strong guarantees on safety is a prerequisite for adoption of systems
+in practice.
 
 This research is aimed at (a) bridging the gap between regulators’ and agent’s behaviour
 representation, and (b) reinforcement learning under the resulting constraints aimed at the
@@ -32,5 +34,10 @@ Related work:
 - Floris den Hengst, Eoin Grua, Ali el Hassouni, Mark Hoogendoorn: Reinforcement learning for
   personalization: A systematic literature review. Data Science: 1-4 (2020)
   [doi](https://doi.org/10.3233/DS-200028)
+
+- Mickey van Zeelt, Floris Den Hengst, and Seyyed Hadi Hashemi: Collecting High Quality
+  Dialogue User Satisfaction Ratings with Third-Party Annotators. Proceedings of the 2020
+  Conference on Human Information Interaction and Retrieval. (2020)
+  [doi](https://doi.org/10.1145/3343413.3377998)
 
 **Track leader:** {{ page.leader }}
