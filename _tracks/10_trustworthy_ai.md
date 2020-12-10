@@ -7,20 +7,25 @@ leader: Cynthia Liem
 
 # Track 10: Trustworthy AI
 
-More and more software services in the banking domain rely on machine learning.
-This makes it crucial that such services can be considered fair, and not influenced negatively by potential biases in the training data. Here, the banking domain introduces an additional, critical need for fairness, as the bank's algorithms affect customer's abilities to open a bank account, obtain a loan or mortgage, or buy a house.
+More and more software services in the banking domain rely on machine learning. This makes it crucial that the outcomes of the machine learning procedures in these services can be trusted. To be able to assess this, the [7 key requirements of the EU’s Ethics Guidelines for Trustworthy Artificial Intelligence](https://ec.europa.eu/futurium/en/ai-alliance-consultation) (Human agency and oversight; Technical Robustness and safety; Privacy and data governance; Transparency; Diversity, non-discrimination and fairness; Societal and environmental well-being; Accountability) will need concrete operationalization for the Fintech domain.
 
-This calls for machine learning and recommender system approaches that offer ways to quantify and mitigate algorithmic bias.
-An open question at the moment is how fairness constraints can be expressed, and to what extent current approaches like stating desired statistical distributions of key attributes are sufficient.
-Another question is how, given potentially biased ML results, subsequent ranking algorithms can be made aware of this bias so that it can adjust its ranks accordingly.
-Lastly, fairness-aware machine learning calls for a clear ethical framework, which offers a well-defined for humans who are in control.
+In several previous applications of machine learning (and statistical modeling), it has been found that concepts of ‘trust in’ and ‘correctness of’ models are not always clear-cut. Models that seem to perform well according to common performance metrics, may show unexpected behavior in the wild. Seemingly minor researcher degrees of freedom may have major outcomes on final results, and model outcomes may be misinterpreted, even by data scientists.
+
+This calls for stronger quality assurance procedures throughout the machine learning application workflow. The research conducted in this track will focus on enabling and supporting such procedures, which pro-actively should include both humans and algorithms in the decision-making loop.
+
 
 Related work:
 
-- Sarah Bird, Ben Hutchinson, Krishnaram Kenthapadi, Emre Kiciman, Margaret Mitchell: Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned. KDD 2019:3205-3206
+- Jaehun Kim, Julián Urbano, Cynthia C. S. Liem, and Alan Hanjalic, “Are Nearby Neighbors Relatives? Testing Deep Music Embeddings”. Frontiers in Applied Mathematics and Statistics, vol. 5, 2019.
 
-- Sandy Manolios, Alan Hanjalic, Cynthia C. S. Liem: The influence of personal values on music taste: towards value-based music recommendations. RecSys 2019:501-505
+- Jaehun Kim, Andrew M. Demetriou, Sandy Manolios, and Cynthia Liem, “Beyond Explicit Reports: Comparing Data-Driven Approaches to Studying Underlying Dimensions of Music Preferences,” in UMAP 2019.
 
-- Nava Tintarev, Judith Masthoff: Explaining Recommendations: Design and Evaluation. Recommender Systems Handbook 2015:353-382
+- Cynthia C. S. Liem and Chris Mostert, “Can't Trust the Feeling? How Open Data Reveals Unexpected Behavior of High-level Music Descriptors,” in ISMIR 2020.
+
+- Joseph P. Simmons, Leif D. Nelson and Uri Simonsohn, “False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant”. Psychological Science, vol. 22, iss. 11, 2011.
+
+- Himabindu Lakkaraju and Osbert Bastani, ““How do I fool you?”: Manipulating User Trust via Misleading Black Box Explanations,” in AIES 2020.
+
+- Harmanpreet Kaur, Harsha Nori, Samuel Jenkins, Rich Caruana, Hanna Wallach, and Jennifer Wortman Vaughan, “Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning,” in CHI 2020.
 
 **Track leader:** Cynthia Liem
