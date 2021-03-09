@@ -24,4 +24,4 @@ ING's historic data of already conducted KYC and CDD assessments will provide th
 
 - Felipe Moraes, Kilian Grashoff, Claudia Hauff: On the impact of group size on collaborative search effectiveness. Inf. Retr. Journal 22(5): 476-498 (2019)
 
-**Track leader:** Claudia Hauff
+**Track leader:** {{ page.leader }}

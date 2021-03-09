@@ -12,5 +12,5 @@ Subscribe to our calendar: https://se.ewi.tudelft.nl/ai4fintech/AFR_calendar.ics
 | When&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  Title           | Speaker           |
 | --------------- | --------------- | ----------------- |
 {% for event in site.data.events -%}
-| {{event.date}}  | {{event.title}}. {%- if event.slides %} [(Slides)]({{event.slides}}){:target="_blank"} {%- endif %} | {{event.speaker}} |
+| {{event.date}}  | {%- if event.url %}[{{event.title}}]({{event.url}}){:target="_blank"}{%- else %}{{event.title}} {%- endif %}. {%- if event.slides %} [(Slides)]({{event.slides}}){:target="_blank"} {%- endif %} | {{event.speaker}} |
 {% endfor  %}

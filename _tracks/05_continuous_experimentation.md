@@ -24,4 +24,4 @@ The bones of the system: a case study of logging and telemetry at Microsoft. ICS
 
 - Mónica Marrero, Claudia Hauff: A/B Testing with APONE. SIGIR 2018: 1269-1272
 
-**Track leader:** Arie van Deursen
+**Track leader:** {{ page.leader }}

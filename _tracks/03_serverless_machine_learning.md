@@ -18,4 +18,4 @@ Related work:
 
 - Andreas Kunft, Asterios Katsifodimos, Sebastian Schelter, Sebastian Breß, Tilmann Rabl, Volker Markl: An Intermediate Representation for Optimizing Machine Learning Pipelines. PVLDB 12(11): 1553-1567 (2019)
 
-**Track leader:** Asterios Katsifodimos
+**Track leader:** {{ page.leader }}

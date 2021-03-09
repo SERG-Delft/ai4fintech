@@ -5,29 +5,36 @@ title: Publications
 
 # Publications
 
-All publications of the AI for Fintech Research are available in (green) open access via the [TU Delft repository][pure].
+All publications of the AI for Fintech Research are available in (green) open access, mostly via the [TU Delft repository][pure].
 
-[pure]: https://pure.tudelft.nl
-
+[pure]: https://research.tudelft.nl/en/searchAll/index/?search=ai4fintech
 
 ## Key Publications
+
+Key publications (most recent first) include:
+
 1. Reinforcement Learning for Personalization: A Systematic Literature Review.
-   den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark:
-   Data Science
-   ([doi](https://doi.org/10.3233/DS-200028))
+   den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark.
+   _Data Science_, 2020.
+   ([Open Access DOI](https://doi.org/10.3233/DS-200028))
 
 1. Reinforcement Learning for Personalized Dialogue Management.
    den Hengst, Floris and Hoogendoorn, Mark and van Harmelen, Frank and Bosman, Joost:
-   2019 IEEE/WIC/ACM International Conference on Web Intelligence (WI), 59-76
-   ([doi](https://doi.org/10.1145/3350546.3352501))
+   2019 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2019), 59-76
+   ([doi](https://doi.org/10.1145/3350546.3352501), [arxiv](https://arxiv.org/pdf/1908.00286.pdf))
 
-1. Releasing Fast and Slow: An Exploratory Case Study at ING. Kula, E., Rastogi, A., Huijgens, H., van Deursen, A. & Gousios, G., 2019, ESEC/FSE 2019 : Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. Dumas, M. & Pfahl, D. (eds.). New York: ACM DL, p. 785-795 11 p. ([pure](https://pure.tudelft.nl/portal/en/publications/releasing-fast-and-slow(161e54d5-66d2-4dfe-b24b-93fbaacbaf01).html))
+1. Releasing Fast and Slow: An Exploratory Case Study at ING. 
+   Kula, E., Rastogi, A., Huijgens, H., van Deursen, A. & Gousios, G., 2019, ESEC/FSE 2019, ACM, p. 785-795 11 p. 
+   ([doi](https://doi.org/10.1145/3338906.3338978), [preprint](https://research.tudelft.nl/en/publications/releasing-fast-and-slow-an-exploratory-case-study-at-ing))
 
-1. Factors Affecting Cloud Infra-Service Development Lead Times: A Case Study at ING
-Huijgens, H., Greuter, E., Brons, J., Doorn, E. A. V., Papadopoulos, I., Martinez, F. M., Aniche, M., Visser, O. & Deursen, A. V., 2019, (Accepted/In press) Proceedings of the International Conference on Software Engineering (ICSE): Software Engineering in Practice (SEIP). IEEE, 10 p. ([pure](https://pure.tudelft.nl/portal/en/publications/factors-affecting-cloud-infraservice-development-lead-times-a-case-study-at-ing(b18f4405-c784-4bf0-8a25-d71e042f85b1).html))
+1. Factors Affecting Cloud Infra-Service Development Lead Times: A Case Study at ING.
+   Huijgens, H., Greuter, E., Brons, J., Doorn, E. A. V., Papadopoulos, I., Martinez, F. M., Aniche, M., Visser, O. & Deursen, A. V. Proceedings of the ACM/IEEE International Conference on Software Engineering (ICSE): Software Engineering in Practice (SEIP). IEEE, 2019.
+   ([doi](https://doi.org/10.1109/ICSE-SEIP.2019.00033), [preprint](https://research.tudelft.nl/en/publications/factors-affecting-cloud-infra-service-development-lead-times-a-ca))
 
-1. Software Analytics in Continuous Delivery: A Case Study on Success Factors
-Huijgens, H., Spadini, D., Stevens, D., Visser, N. & van Deursen, A., 2018, (Accepted/In press) 12th International Symposium on Empirical Software Engineering and Measurement (ESEM 2018). Association for Computing Machinery (ACM), 10 p. 25 ([pure](https://pure.tudelft.nl/portal/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success-factors(9c5d1df6-e244-4fdc-933d-8bc36f9e3bd4).html))
+1. Akhter, A., Fragkoulis, M., & Katsifodimos, A. (2019). Stateful functions as a service in action. Proceedings of the VLDB Endowment , 12(12), 1890-1893. ([doi](https://doi.org/10.14778/3352063.3352092))
+
+1. Huijgens, H., Spadini, D., Stevens, D., Visser, N., & van Deursen, A. (2018). 
+   Software Analytics in Continuous Delivery: A Case Study on Success Factors. In ESEM' 18: Proceedings of the 12th International Symposium on Empirical Software Engineering and Measurement (pp. 1-10). Association for Computing Machinery (ACM). ([doi](https://doi.org/10.1145/3239235.3240505), [preprint](https://research.tudelft.nl/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success))
 
 
 <!--
