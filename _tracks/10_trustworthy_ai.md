@@ -13,8 +13,7 @@ In several previous applications of machine learning (and statistical modeling),
 
 This calls for stronger quality assurance procedures throughout the machine learning application workflow. The research conducted in this track will focus on enabling and supporting such procedures, which pro-actively should include both humans and algorithms in the decision-making loop.
 
-
-Related work:
+### Related work
 
 - Jaehun Kim, Julián Urbano, Cynthia C. S. Liem, and Alan Hanjalic, “Are Nearby Neighbors Relatives? Testing Deep Music Embeddings”. Frontiers in Applied Mathematics and Statistics, vol. 5, 2019.
 
@@ -28,4 +27,11 @@ Related work:
 
 - Harmanpreet Kaur, Harsha Nori, Samuel Jenkins, Rich Caruana, Hanna Wallach, and Jennifer Wortman Vaughan, “Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning,” in CHI 2020.
 
-**Track leader:** Cynthia Liem
+#### Track leader
+**Cynthia Liem**  
+Assistant Professor, Multimedia Computing Group, TU Delft
+
+#### Advisor (academic & business perspectives)  
+**Flavia Barsotti**  
+Research Coordinator, Model Risk Management, ING Bank  
+IAS Scientific Fellow, University of Amsterdam
