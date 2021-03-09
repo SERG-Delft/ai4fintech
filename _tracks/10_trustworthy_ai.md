@@ -27,11 +27,12 @@ This calls for stronger quality assurance procedures throughout the machine lear
 
 - Harmanpreet Kaur, Harsha Nori, Samuel Jenkins, Rich Caruana, Hanna Wallach, and Jennifer Wortman Vaughan, “Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning,” in CHI 2020.
 
-#### Track leader
+
+### Track leader
 **Cynthia Liem**  
 Assistant Professor, Multimedia Computing Group, TU Delft
 
-#### Advisor (academic & business perspectives)  
+### Advisor (academic & business perspectives)  
 **Flavia Barsotti**  
 Research Coordinator, Model Risk Management, ING Bank  
 IAS Scientific Fellow, University of Amsterdam
