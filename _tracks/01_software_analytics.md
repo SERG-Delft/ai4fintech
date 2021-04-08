@@ -3,6 +3,7 @@ layout: default
 track-id: 1
 title: Software Analytics
 leader: Georgios Gousios
+phd: Elvan Kula
 ---
 
 # Track 1: Software Analytics
@@ -21,4 +22,6 @@ Related work:
 
 - Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10
 
-**Track leader:** Georgios Gousios
+**Ph.D. Student:** {{ page.phd }}
+
+**Track leader:** {{ page.leader }}

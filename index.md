@@ -14,7 +14,7 @@ The core of the AFR consists of 10 [research tracks](tracks.html), in which 10 P
 
 AFR is bi-located at the TU Delft campus in Delft and at [Cumulus Park] – the collaborative innovation district in Amsterdam Southeast – bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations.
 
-AFR participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) funded directly by industry. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcom, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.
+AFR participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) funded directly by industry. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcomm, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.
 
 The scientific director of AFR is [Arie van Deursen][avandeursen], professor in the Software Engineering Research Group ([SERG]) at Delft University of Technology.
 

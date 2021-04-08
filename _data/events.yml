@@ -1,8 +1,60 @@
+- date: 2020-11-26
+  start: 15h00
+  end: 16h00
+  title: "Webinar: Data Management for AI"
+  url: https://mailchi.mp/xdelft/dds-event-26-11-2020
+  speaker: Elvan Kula, Jan Rellermeyer
+- date: 2020-11-26
+  start: 12h00
+  end: 13h00
+  title: "Lunch with ICAI Meetup: AI & the Service Industry in NL"
+  url: https://www.meetup.com/Innovation-Center-for-Artificial-Intelligence/events/274102269/
+  speaker: Elvan Kula, Arie van Deursen, Maarten de Rijke
+- date: 2020-11-09
+  start: 13h00
+  end: 14h00
+  title: "Server-Side Experimentation: common challenges from 12 organisations in The Netherlands"
+  speaker: Kevin Anderson
+- date: 2020-10-26
+  start: 13h00
+  end: 14h00
+  title: "Identifying Informative System Metrics"
+  speaker: Pradyot Patil
+- date: 2020-10-12
+  start: 13h00
+  end: 14h00
+  title: "AI Model Lifecycle management"
+  speaker: Yuanhao Xie
+- date: 2020-10-05
+  start: 13h00
+  end: 14h00
+  title: "Time Series Clustering at ING"
+  speaker: Evert-Jan van Doorn, Wouter van 't Hof
+- date: 2020-09-22
+  start: 13h00
+  end: 14h00
+  title: "Using Machine Learning for Major Incident Detection"
+  speaker: Thomas Kolenbrander
+- date: 2020-09-14
+  start: 14h30
+  end: 15h30
+  title: "Reducing Human Error in Online Controlled Experiments"
+  speaker: Martijn Steenbergen
+- date: 2020-07-20
+  start: 13h00
+  end: 14h00
+  title: "Studying the ML Lifecycle and Improving Code Quality of ML Applications"
+  speaker: Mark Haakman
 - date: 2020-07-06
   start: 13h00
   end: 14h00
   title: "Planning for Potential: Safe and Efficient Reinforcement Learning"
   speaker: Floris den Hengst
+- date: 2020-06-29
+  start: 13h00
+  end: 14h00
+  title: "Story Point Estimation"
+  speaker: Joaquin, Marius and Remco
 - date: 2020-06-22
   start: 13h00
   end: 14h00

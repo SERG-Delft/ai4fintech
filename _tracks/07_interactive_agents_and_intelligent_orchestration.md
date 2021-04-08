@@ -21,4 +21,4 @@ Related work:
 
 - Vincent J. Koeman, Koen V. Hindriks, Catholijn M. Jonker: Automating failure detection in cognitive agent programs. IJAOSE 6(3/4): 275-308 (2018)
 
-**Track leader:** Catholijn Jonker
+**Track leader:** {{ page.leader }}

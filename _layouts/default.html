@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{'/favicon.ico' | absolute_url }}">
 
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="{{ site.author.name }}">
@@ -80,7 +80,7 @@
             <div class="col-md text-md-center">
               <address>
                 <abbr title="Address"><i class="fa fa-map-marker" aria-hidden="true"></i></abbr>
-                <a href="https://cumuluspark.nl">Cumulus Park</a><br/>
+                <a href="https://cumuluspark.com">Cumulus Park</a><br/>
                 Frankemaheerd 1<br/>
                 Amsterdam ZO<br/>
                 The Netherlands
@@ -88,7 +88,7 @@
             </div>
  
             <div class="col-sm float-md-right">
-              <a href="https://cumuluspark.nl">
+              <a href="https://cumuluspark.com">
                 <img src="{{'img/cumuluspark.jpeg' | relative_url}}" height="90" class="d-inline-block align-top" alt="Cumulus Park">
               </a>
             </div>

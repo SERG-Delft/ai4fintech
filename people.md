@@ -19,9 +19,12 @@ Chris Ogbu			       	| ING				  | Management
 [Luís Cruz] 				    | TU Delft 	  | Coordination and research
 Eric Greuter			      | ING 			  | Track sponsor
 Robert Frank Hofland	  | ING 			  | Track sponsor
+Niels Visser            | ING         | Track sponsor
 Marzieh Bakhshandeh 	  | ING 			  | Track sponsor
 Vaidotas Kurlianskas 	  | ING 			  | Track sponsor
-Pepijn Vuister		 	    | ING 			  | Track sponsor
+Doron Reuter  		 	    | ING 			  | Track sponsor
+Flavia Barsotti         | ING         | Track sponsor
+Ruya Gokhan             | ING         | Track sponsor
 [Asterios Katsifodimos]	| TU Delft 	  | Track leader
 [Georgios Gousios]		  | TU Delft 	  | Track leader
 [Christoph Lofi]			  | TU Delft 	  | Track leader
@@ -39,6 +42,8 @@ Jerry Brons				      | ING 			  | PhD candidate
 Floris den Hengst 		  | ING and VU  | PhD candidate
 Sara Salimzadeh 		    | TU Delft 	  | PhD candidate
 George Siachamis 		    | TU Delft 	  | PhD candidate
+Leonhard Applis         | TU Delft    | PhD candidate
+Maliheh Izadi           | TU Delft    | Visiting PhD candidate
 Hennie Huijgens 		    | TU Delft 	  | Researcher
 Shemara van der Zwet	  | TU Delft 	  | Management support
 
