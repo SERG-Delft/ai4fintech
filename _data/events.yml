@@ -1,4 +1,10 @@
 - date: 2020-11-26
+  start: 14h00
+  end: 17h00
+  title: "ICAI 3rd Anniversary"
+  url: https://62afsst.momice.events
+  speaker: Arie van Deursen, Luís Cruz, Asterios Katsifodimos, Manisha Sethia, Bart van Oort
+- date: 2020-11-26
   start: 15h00
   end: 16h00
   title: "Webinar: Data Management for AI"
