@@ -25,12 +25,13 @@ For general inquiries, please contact [Luís Cruz].
 
 Name | Period | Role | Topic | Advisors
 --|--|--|--|--
-{-% for student in site.data.students -%}
-{%- unless student.status contains "Graduated" or student.level == "PhD" or student.status == "" -%}
+{% for student in site.data.students -%}
+{%- unless student.status contains "Graduated" or student.status contains "Finished" or student.level == "PhD" or student.status == "" -%}
 {{student.name}}     | {{student.status}} | {{student.level}} | {{student.topic}} | {{student.supervision}}
 {% endunless -%}
-{%- endfor  -%}
-Arthur Breurkes     | 2020-2021 | MSc thesis | Data profiling | Christoph Lofi
+{%- endfor -%}
+
+
 David van der Leij  | 2020-2021 | MSc thesis | ML-based Software Refactoring | Maurício Aniche
 Purvesh Baghele     | 2020-2021 | MSc thesis | Interpretability Tools for ML Models | Cynthia Liem
 Marlo Ploemen       | 2020-2021 | MSc thesis | Stateful Functions-as-a-Service| Asterios Katsifodimos, Marios Fragkoulis
@@ -45,7 +46,6 @@ Dinesh Bissesar     | 2019-2020 | MSc thesis | Predicting and detecting vulnerab
 
 Name | Period | Role | Thesis | Advisors
 --|--|--|--|--
-
 Kyriakos Psarakis                                   | 2019-2020 | MSc thesis        | [Holistic Schema Matching at Scale](https://repository.tudelft.nl/islandora/object/uuid%3Af4ebeda3-6465-49da-813b-f1e6e0820c60)       | Christoph Lofi, Asterios Katsifodimos
 Martijn Steenbergen                                 | 2019-2020 | MSc thesis        | [Reducing Human Error in Online Controlled Experiments](https://repository.tudelft.nl/islandora/object/uuid%3A2b3802d6-b0e6-4f2d-a5a6-f96198c6eb22)              | Kevin Anderson, Arie van Deursen
 Yuanhao Xie                                         | 2019-2020 | MSc thesis        | [AI Model Lifecycle Management: Systematic Mapping Study and Solution for AI Democratisation](https://repository.tudelft.nl/islandora/object/uuid%3Ab1bf4324-a6ac-49d6-8ecb-ba4449b55d1f)       | [Luís Cruz], Jan Rellermeyer
