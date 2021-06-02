@@ -42,3 +42,5 @@ Name | Period | Role | Thesis       | Advisors
 {{student.name}}     | {{student.status}} | {{student.level}} | [{{student.topic}}]({{student.link}}) | {{student.supervision}}
 {% endif -%}
 {%- endfor -%}
+
+[Luís Cruz]: https://luiscruz.github.io
