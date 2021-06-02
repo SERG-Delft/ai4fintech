@@ -29,32 +29,16 @@ Name | Period | Role | Topic | Advisors
 {%- unless student.status contains "Graduated" or student.status contains "Finished" or student.level == "PhD" or student.status == "" -%}
 {{student.name}}     | {{student.status}} | {{student.level}} | {{student.topic}} | {{student.supervision}}
 {% endunless -%}
-{%- endfor -%}
-
-
-David van der Leij  | 2020-2021 | MSc thesis | ML-based Software Refactoring | Maurício Aniche
-Purvesh Baghele     | 2020-2021 | MSc thesis | Interpretability Tools for ML Models | Cynthia Liem
-Marlo Ploemen       | 2020-2021 | MSc thesis | Stateful Functions-as-a-Service| Asterios Katsifodimos, Marios Fragkoulis
-Pradyot Patil       | 2020      | MSc thesis | Incident prediction | Elvan Kula, Georgios Gousios
-Thomas Kolenbrander | 2020      | MSc thesis | Major incident detection | Elvan Kula, Georgios Gousios
-Ka-Wing Man         | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
-Dinesh Bissesar     | 2019-2020 | MSc thesis | Predicting and detecting vulnerabilities     | Sicco Verwer, Annibale Panichella
+{%- endfor %}
 
 <br/>
 
 ## Completed research projects
 
-Name | Period | Role | Thesis | Advisors
---|--|--|--|--
-Kyriakos Psarakis                                   | 2019-2020 | MSc thesis        | [Holistic Schema Matching at Scale](https://repository.tudelft.nl/islandora/object/uuid%3Af4ebeda3-6465-49da-813b-f1e6e0820c60)       | Christoph Lofi, Asterios Katsifodimos
-Martijn Steenbergen                                 | 2019-2020 | MSc thesis        | [Reducing Human Error in Online Controlled Experiments](https://repository.tudelft.nl/islandora/object/uuid%3A2b3802d6-b0e6-4f2d-a5a6-f96198c6eb22)              | Kevin Anderson, Arie van Deursen
-Yuanhao Xie                                         | 2019-2020 | MSc thesis        | [AI Model Lifecycle Management: Systematic Mapping Study and Solution for AI Democratisation](https://repository.tudelft.nl/islandora/object/uuid%3Ab1bf4324-a6ac-49d6-8ecb-ba4449b55d1f)       | [Luís Cruz], Jan Rellermeyer
-Joaquin van Loon, Marius Birkhoff, Remco den Heijer | 2020      | Software project  | ML-based Story Point Estimation | Elvan Kula, Georgios Gousios
-Mark Haakman                                        | 2019-2020 | MSc thesis        | [Studying the Machine Learning Lifecycle and Improving Code Quality of Machine Learning Applications](http://resolver.tudelft.nl/uuid:38ff4e9a-222a-4987-998c-ac9d87880907)       | [Luís Cruz]
-Wim Spaargaren                                      | 2019-2020 | MSc thesis        | [Systematic literature reviews: A Case Study in FinTech and Automated Tool Support](http://resolver.tudelft.nl/uuid:10488220-f9dc-4888-bf67-15251fa3584e)       | Hennie Huigens, Arie van Deursen
-Andra-Denis Ionescu                                 | 2019-2020 | MSc thesis        | [Reproducing state-of-the-art schema matching algorithms](http://resolver.tudelft.nl/uuid:9f8056e6-cfdf-4240-99e3-5f45947d1fa7)       | Christoph Lofi
-MyeongJung Park                                     | 2019-2020 | MSc thesis        | [A Monitoring System for Machine Learning Models in a Large-Scale Context](http://resolver.tudelft.nl/uuid:42f9cb1d-18fa-4dd0-9436-39d4d202c2e3)      | Hennie Huijgens, Arie van Deursen
-Ernst Mulders                                       | 2018-2019 | MSc thesis        | [Data Driven Decisions: Validating and Supporting a Continuous Experimentation Development Environment](https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education) | Georgios Gousios, Hennie Huijgens
-Elvan Kula                                          | 2018-2019 | MSc thesis        | [Releasing Fast and Slow: Characterizing Rapid Releases in a Large Software-Driven Organization](https://repository.tudelft.nl/islandora/object/uuid%3A9660c5a3-6ef8-4c6a-b5cf-3994b60d754b?collection=education) | Georgios Gousios
-
-[Luís Cruz]: http://luiscruz.github.io/
+Name | Period | Role | Thesis       | Advisors
+-----|--------|------|--------------|----------
+{% for student in site.data.students -%}
+{%- if student.status contains "Graduated" or student.status contains "Finished" -%}
+{{student.name}}     | {{student.status}} | {{student.level}} | [{{student.topic}}]({{student.link}}) | {{student.supervision}}
+{% endif -%}
+{%- endfor -%}
