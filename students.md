@@ -41,6 +41,9 @@ Name | Period | Role | Thesis       | Advisors
 {%- if student.status contains "Graduated" or student.status contains "Finished" -%}
 {{student.name}}     | {{student.status}} | {{student.level}} | [{{student.topic}}]({{student.link}}) | {{student.supervision}}
 {% endif -%}
-{%- endfor -%}
+{%- endfor %}
+
+
+
 
 [Luís Cruz]: https://luiscruz.github.io
