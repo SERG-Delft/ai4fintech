@@ -17,8 +17,9 @@ These themes recur in each of the tracks, yet in different proportions, with som
 The current tracks are:
 
 {% for track in site.tracks %}
- -  Track {{track.track-id}}: [{{track.title}}]({{track.url | relative_url}}) {% if track.leader %} ({{track.leader}}) {% endif %}
-
+{%- unless track.inactive %}
+ -  [{{track.title}}]({{track.url | relative_url}}) {% if track.leader %} ({{track.leader}}) {% endif %}
+{%- endunless %}
 {% endfor %}
 
 <br/>
