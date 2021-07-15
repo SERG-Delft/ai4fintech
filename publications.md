@@ -13,9 +13,11 @@ All publications of the AI for Fintech Research are available in (green) open ac
 
 Key publications (most recent first) include:
 
-1. Data-Driven Extract Method Recommendations: A Study at ING. David van der Leij, Jasper Binda, Robbert van Dalen, Pieter Vallen, Yaping Luo, Maurício Aniche. ESEC/FSE. 2021 ([DOI](https://doi.org/10.1145/3468264.3473927), [arxiv](https://arxiv.org/abs/2107.05396)) 
+1. Data-Driven Extract Method Recommendations: A Study at ING. David van der Leij, Jasper Binda, Robbert van Dalen, Pieter Vallen, Yaping Luo, Maurício Aniche. ESEC/FSE. 2021. ([DOI](https://doi.org/10.1145/3468264.3473927), [arxiv](https://arxiv.org/abs/2107.05396)) 
 
-1. AI Lifecycle Models Need to be Revised. An Exploratory Study in Fintech. Empirical Software Engineering. Mark Haakman, Luís Cruz, Hennie Huijgens, Arie van Deursen. 2021 ([Open Access DOI](https://doi.org/10.1007/s10664-021-09993-1), [arxiv](https://arxiv.org/abs/2010.02716))
+1. AI Lifecycle Models Need to be Revised. An Exploratory Study in Fintech. Empirical Software Engineering. Mark Haakman, Luís Cruz, Hennie Huijgens, Arie van Deursen. 2021. ([Open Access DOI](https://doi.org/10.1007/s10664-021-09993-1), [arxiv](https://arxiv.org/abs/2010.02716))
+
+1. Valentine: Evaluating Matching Techniques for Dataset Discovery. Koutras, C., Siachamis, G., Ionescu, A., Psarakis, K., Brons, J., Fragkoulis, M., Lofi, C., Bonifati, A. & Katsifodimos, A. 37th IEEE International Conference on Data Engineering (ICDE). 2021. ([DOI](https://doi.org/10.1109/ICDE51399.2021.00047), [datasets](https://zenodo.org/record/5084605), [source code](https://github.com/delftdata/valentine))
 
 1.  The Prevalence of Code Smells in Machine Learning projects. Bart van Oort, Luís Cruz, Maurício Aniche, Arie van Deursen. WAIN'21 - 1st Workshop on AI Engineering – Software Engineering for AI. IEEE, 2021. ([DOI](https://doi.org/10.1109/WAIN52551.2021.00011), [arxiv](https://arxiv.org/abs/2103.04146))
 
