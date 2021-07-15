@@ -13,6 +13,8 @@ All publications of the AI for Fintech Research are available in (green) open ac
 
 Key publications (most recent first) include:
 
+1. The Impact of Entity Cards on Learning-Oriented Search Tasks. Sara Salimzadeh, David Maxwell and Claudia Hauff. ICTIR, 2021. **Honorable Mention for Best Student Paper**. ([preprint](https://chauff.github.io/documents/publications/ICTIR2021-Salimzadeh.pdf))
+
 1. Modeling Team Dynamics for the Characterization and Prediction of Delays in User Stories. Kula, E., Deursen, A. V. & Gousios, G. Proceedings IEEE/ACM International Conference on Automated Software Engineering. ACM, 2021. 
 
 1. Data-Driven Extract Method Recommendations: A Study at ING. David van der Leij, Jasper Binda, Robbert van Dalen, Pieter Vallen, Yaping Luo, Maurício Aniche. ESEC/FSE. 2021. ([DOI](https://doi.org/10.1145/3468264.3473927), [arxiv](https://arxiv.org/abs/2107.05396)) 
