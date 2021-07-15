@@ -13,6 +13,8 @@ All publications of the AI for Fintech Research are available in (green) open ac
 
 Key publications (most recent first) include:
 
+1. Modeling Team Dynamics for the Characterization and Prediction of Delays in User Stories. Kula, E., Deursen, A. V. & Gousios, G. Proceedings IEEE/ACM International Conference on Automated Software Engineering. ACM, 2021. 
+
 1. Data-Driven Extract Method Recommendations: A Study at ING. David van der Leij, Jasper Binda, Robbert van Dalen, Pieter Vallen, Yaping Luo, Maurício Aniche. ESEC/FSE. 2021. ([DOI](https://doi.org/10.1145/3468264.3473927), [arxiv](https://arxiv.org/abs/2107.05396)) 
 
 1. AI Lifecycle Models Need to be Revised. An Exploratory Study in Fintech. Empirical Software Engineering. Mark Haakman, Luís Cruz, Hennie Huijgens, Arie van Deursen. 2021. ([Open Access DOI](https://doi.org/10.1007/s10664-021-09993-1), [arxiv](https://arxiv.org/abs/2010.02716))
