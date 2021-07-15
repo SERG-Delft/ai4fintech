@@ -2,6 +2,7 @@
 layout: default
 track-id: 9
 title: User Experience and Personalization
+inactive: true
 ---
 
 # Track 9: User Experience and Personalization
