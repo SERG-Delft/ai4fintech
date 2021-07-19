@@ -11,6 +11,52 @@ All publications of the AI for Fintech Research are available in (green) open ac
 
 ## Key Publications
 
+{% for publication in site.data.publications %}
+
+1. {{publication.title}}.
+  {%- if publication.author %}
+  {{publication.author}}.
+  {%- elsif  publication.authors -%}
+    {%- for author in publication.authors %}
+      {{author}}{% if forloop.last %}.{% else %},{% endif %}
+    {%- endfor -%}
+  {%- endif -%}
+  {% if publication.venue %}
+    {{publication.venue}},
+  {%- endif %}
+    {{publication.year}}.
+  {%- if publication.journal %}
+    {{publication.journal}}.
+  {%- endif -%}
+  {%- if publication.award %}
+    🏆 {{publication.award}}.
+  {%- endif -%}
+  {%- if publication.preprint %}
+    [Preprint]({{publication.preprint}}).
+  {%- endif -%}
+  {%- if publication.doi %}
+    [DOI](https://doi.org/{{publication.doi}}).
+  {%- endif -%}
+  {%- if publication.arxiv %}
+    [Arxiv preprint]({{publication.arxiv}}).
+  {%- endif -%}
+  {%- if publication.source %}
+    [Source code]({{publication.source}}).
+  {%- endif -%}
+  {%- if publication.dataset %}
+    [Dataset]({{publication.dataset}}).
+  {%- endif -%}
+  {%- if publication.slides %}
+    [Slides]({{publication.slides}}).
+  {%- endif -%}
+  {%- if publication.video %}
+    [Video]({{publication.video}}).
+  {%- endif -%}
+{% endfor %}
+
+
+
+
 Key publications (most recent first) include:
 
 1. The Impact of Entity Cards on Learning-Oriented Search Tasks. Sara Salimzadeh, David Maxwell and Claudia Hauff. ICTIR, 2021. **Honorable Mention for Best Student Paper**. ([preprint](https://chauff.github.io/documents/publications/ICTIR2021-Salimzadeh.pdf))

@@ -1,0 +1,139 @@
+- title: The Impact of Entity Cards on Learning-Oriented Search Tasks
+  authors:
+    - Sara Salimzadeh
+    - David Maxwell
+    - Claudia Hauff
+  venue: ICTIR
+  year: 2021
+  award: Honorable Mention for Best Student Paper
+  preprint: https://chauff.github.io/documents/publications/ICTIR2021-Salimzadeh.pdf
+
+- title: Modeling Team Dynamics for the Characterization and Prediction of Delays in User Stories
+  authors:
+    - Kula, E.
+    - Deursen, A. V.
+    - Gousios, G.
+  venue: Proceedings IEEE/ACM International Conference on Automated Software Engineering
+  publisher: ACM
+  year: 2021
+
+- title: "Data-Driven Extract Method Recommendations: A Study at ING"
+  authors:
+    - David van der Leij
+    - Jasper Binda
+    - Robbert van Dalen
+    - Pieter Vallen
+    - Yaping Luo
+    - Maurício Aniche
+  venue: ESEC/FSE
+  year: 2021
+  doi: 10.1145/3468264.3473927
+  arxiv: https://arxiv.org/abs/2107.05396
+
+- title: AI Lifecycle Models Need to be Revised. An Exploratory Study in Fintech
+  authors:
+    - Mark Haakman
+    - Luís Cruz
+    - Hennie Huijgens
+    - Arie van Deursen
+  journal: Empirical Software Engineering
+  year: 2021.
+  doi: 10.1007/s10664-021-09993-1
+  arxiv: https://arxiv.org/abs/2010.02716
+
+- title: "Valentine: Evaluating Matching Techniques for Dataset Discovery"
+  authors:
+    - Christos Koutras
+    - Georgios Siachamis
+    - Andra Ionescu
+    - Kyriakos Psarakis
+    - Jerry Brons
+    - Marios Fragkoulis
+    - Christoph Lofi
+    - Angela Bonifati
+    - Asterios Katsifodimos
+  venue: 37th IEEE International Conference on Data Engineering (ICDE)
+  year: 2021
+  doi: 10.1109/ICDE51399.2021.00047
+  dataset: https://zenodo.org/record/5084605
+  source: https://github.com/delftdata/valentine
+
+- title: The Prevalence of Code Smells in Machine Learning projects
+  author: Bart van Oort, Luís Cruz, Maurício Aniche, Arie van Deursen
+  venue: WAIN'21 - 1st Workshop on AI Engineering – Software Engineering for AI
+  publisher: IEEE
+  year: 2021
+  doi: 10.1109/WAIN52551.2021.00011
+  arxiv: https://arxiv.org/abs/2103.04146
+
+- title: Systematic Mapping Study on the Machine Learning Lifecycle
+  author: Yuanhao Xie, Luís Cruz, Petra Heck, Jan Rellermeyer
+  venue: WAIN'21 - 1st Workshop on AI Engineering – Software Engineering for AI
+  publisher: IEEE
+  year: 2021
+  doi: 10.1109/WAIN52551.2021.00017
+  arxiv: https://arxiv.org/abs/2103.10248
+
+- title: "Reinforcement Learning for Personalization: A Systematic Literature Review"
+  authors:
+   - Floris den Hengst 
+   - Eoin Martino Grua
+   - Ali el Hassouni
+   - Mark Hoogendoorn
+  journal: Data Science
+  year: 2020
+  doi: 10.3233/DS-200028
+
+- title: Reinforcement Learning for Personalized Dialogue Management
+  authors:
+    - den Hengst, Floris
+    - Hoogendoorn, Mark
+    - van Harmelen, Frank
+    - Bosman, Joost
+  year: 2019
+  venue: IEEE/WIC/ACM International Conference on Web Intelligence (WI 2019)
+  doi: 10.1145/3350546.3352501
+  arxiv: https://arxiv.org/pdf/1908.00286.pdf
+
+- title: "Releasing Fast and Slow: An Exploratory Case Study at ING" 
+  authors:
+   - Kula, E.
+   - Rastogi, A.
+   - Huijgens, H.
+   - van Deursen, A.
+   - Gousios, G.
+  year: 2019
+  venue: ESEC/FSE
+  publisher: ACM
+  doi: 10.1145/3338906.3338978
+  preprint: https://research.tudelft.nl/en/publications/releasing-fast-and-slow-an-exploratory-case-study-at-ing
+
+- title: "Factors Affecting Cloud Infra-Service Development Lead Times: A Case Study at ING"
+  authors:
+    - Hennie Huijgens
+    - Eric Greuter
+    - Jerry Brons
+    - Evert A. van Doorn
+    - Ioannis Papadopoulos
+    - Francisco Morales Martinez
+    - Maurício Aniche
+    - Otto Visser
+    - Arie van Deursen
+  journal: "Proceedings of the ACM/IEEE International Conference on Software Engineering (ICSE): Software Engineering in Practice (SEIP)"
+  publisher: IEEE
+  year: 2019
+  doi: 10.1145/3338906.3338978
+  preprint: https://research.tudelft.nl/en/publications/releasing-fast-and-slow-an-exploratory-case-study-at-ing
+
+- title: Stateful functions as a service in action
+  journal: Proceedings of the VLDB Endowment
+  author: Akhter, A., Fragkoulis, M., & Katsifodimos, A.
+  year: 2019
+  doi: 10.14778/3352063.3352092
+  
+- title: "Software Analytics in Continuous Delivery: A Case Study on Success Factors"
+  author: Huijgens, H., Spadini, D., Stevens, D., Visser, N., & van Deursen, A
+  journal: "ESEM' 18: Proceedings of the 12th International Symposium on Empirical Software Engineering and Measurement"
+  year: 2018
+  doi: 10.1145/3239235.3240505
+  preprint: https://research.tudelft.nl/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success
