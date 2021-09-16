@@ -1,3 +1,12 @@
+- title: Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations
+  authors:
+    - Leonhard Applis
+    - Annibale Panichella
+    - Arie van Deursen
+  venue: ASE
+  year: 2021
+  preprint: https://research.tudelft.nl/en/publications/assessing-robustness-of-ml-based-program-analysis-tools-using-met
+
 - title: The Impact of Entity Cards on Learning-Oriented Search Tasks
   authors:
     - Sara Salimzadeh
