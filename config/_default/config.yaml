@@ -1,0 +1,148 @@
+# Configuration of Hugo
+# Guide: https://wowchemy.com/docs/getting-started/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+############################
+## Basic
+############################
+
+# Website name
+title: "Software Engineering Research Group"
+
+# Website URL - Hostname (and path to the root)
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseURL: "https://serg.netlify.app/"
+
+# The time zone (or location), e.g. Europe/Oslo, used to parse front matter dates without such
+# information and in the time function.
+timeZone: "Europe/Amsterdam"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright: "&copy; 2021-{year}"
+
+############################
+## Language
+############################
+
+# Content without language indicator will default to this language.
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+
+# If true, auto-detect Chinese/Japanese/Korean Languages in the content.
+# This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage: false
+
+removePathAccents: true # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+############################
+## Content Types
+############################
+
+# Will disable generation of alias redirects. The motivation with this is to be able to generate
+# 301 redirects using the Netlify _redirects file.
+disableAliases: true
+
+# Enable disabling of all pages of the specified Kinds. Allowed values in this list:
+# "page", "home", "section", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404".
+#disableKinds: []
+
+# Enable generation of robots.txt file.
+enableRobotsTXT: false
+
+# Media types
+#mediatypes:
+
+# Output formats
+outputformats:
+  Calendar:
+    protocol: "https://"
+
+# Outputs per content type
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+  page: [HTML]
+
+# Permalinks
+permalinks:
+  authors: "/author/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
+  research_lines: "/research-lines/:slug/"
+  tags: "/tag/:slug/"
+
+# Taxonomy definitions
+taxonomies:
+  author: "authors"
+  category: "categories"
+  #project: "projects"
+  publication_type: "publication_types"
+  research_line: "research_lines"
+  tag: "tags"
+  venue: "venues"
+
+# Sitemap
+#sitemap:
+
+############################
+## Content
+############################
+
+# Enable Emoji emoticons support for page content; see the Emoji Cheat Sheet.
+enableEmoji: true
+
+# Enable .GitInfo object for each page. This will then update the Lastmod parameter for each page
+# using the last git commit date for that content file.
+enableGitInfo: true
+
+# Text to display for footnote return links.
+footnoteReturnLinkContents: "<sup>^</sup>"
+
+# Default number of elements per page in pagination.
+paginate: 10
+
+# Related content
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: "tags"
+      weight: 100
+    - name: "categories"
+      weight: 70
+
+# The length of text in words to show in a .Summary. Also, see `abstract_length` in `params.yaml`.
+summaryLength: 70 # 30
+
+############################
+## Infra
+############################
+
+ignoreFiles:
+  [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _files$, _cache$]
+
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+
+markup:
+  _merge: deep
+
+# Timeout for generating page contents, in milliseconds (defaults to 10 seconds).
+# Note: this is used to bail out of recursive content generation, if your pages are slow to
+# generate (e.g., because they require large image processing or depend on remote contents)
+# you might need to raise this limit.
+#timout: 10000
+timeout: 600000
+
+############################
+## Modules
+############################
+
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5

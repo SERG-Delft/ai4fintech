@@ -1,0 +1,67 @@
+# Navigation Links:
+# To link a homepage widget, specify the URL as a hash `#` followed by
+# the filename of the desired widget in your `content/home/` folder.
+#
+# The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: SERG
+    weight: 10
+    hasChildren: true
+  - parent: SERG
+    name: About SERG
+    url: "#"
+    weight: 11
+  - parent: SERG
+    name: Organization
+    url: "#"
+    weight: 12
+  - parent: SERG
+    name: Statistics
+    url: "#"
+    weight: 13
+  - name: Members
+    url: "/people"
+    weight: 20
+  - name: Research Lines
+    url: "/research-lines"
+    weight: 25
+  - name: Research
+    weight: 30
+    hasChildren: true
+  - parent: Research
+    name: Projects
+    url: "/project"
+    weight: 31
+  - parent: Research
+    name: Publications
+    url: "/publication"
+    weight: 32
+  - parent: Research
+    name: Tools
+    url: "/tools"
+    weight: 33
+  - parent: Research
+    name: Partners
+    url: "/partners"
+    weight: 34
+  - name: Education
+    weight: 40
+    hasChildren: true
+  - parent: Education
+    name: Teaching
+    url: "/teaching"
+    weight: 41
+  - parent: Education
+    name: Thesis Projects
+    url: "/thesis-projects/"
+    weight: 42
+  - name: Events
+    url: "/event"
+    weight: 50
+  - name: Vacancies
+    url: "/vacancies"
+    weight: 60
+  - name: Contact
+    url: "/#contact"
+    weight: 100
