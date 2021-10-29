@@ -3,7 +3,7 @@
 title: Software Engineering Research Group
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Organizations/Affiliations
 organizations:
@@ -20,8 +20,8 @@ bio: Software Engineering Research Group
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/serg_delft
-    label: Follow SERG on Twitter
+    link: https://twitter.com/ai4fintech?lang=en
+    label: Follow AI4Fintech on Twitter
     display:
       header: true
   - icon: github

@@ -20,6 +20,9 @@ font: "" # No value = inherit font from color theme pack (e.g. minimal)
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: L
 
+# Logo image
+logo : "afr_logo.svg"
+
 ############################
 ## SEO
 ############################
@@ -37,13 +40,13 @@ local_business_type: ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.yaml`.
-org_name: Software Engineering Research Group
+org_name: AI4Fintech
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: Software Engineering Research Group
+description: AI4Fintech
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "serg_delft"
+twitter: "Ai4Fintech"
 
 ############################
 ## Contact details
