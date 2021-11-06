@@ -1,21 +1,18 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
+widget: slider
+headless: true
+weight: 30
 active: true
 
-# This file represents a page section.
-headless: true
+title: ""
+subtitle: ""
 
-# Order that this section appears on the page.
-weight: 30
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval: false
 
-title: About us
+height: 500px
 
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: aiforfintech
 ---
+
+We are the AI for Fintech Research Lab, a research collaboration between ING and Delft University of Technology. We perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech. Our work focuses on developing new AI-driven theories, methods and tools in large-scale data and software analytics. Want to learn more? Or Want to understand our research?

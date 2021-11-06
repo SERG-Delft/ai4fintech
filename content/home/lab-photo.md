@@ -13,8 +13,8 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 500px
+height: 400px
 
 item:
-  - overlay_img: serg-group-photo.jpg
+  - overlay_img: ai4fintech-group-photo.jpg
 ---

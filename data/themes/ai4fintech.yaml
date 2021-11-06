@@ -1,11 +1,14 @@
 # Theme metadata
-name: "tudelft"
+name: "ai4fintech"
 
 # Is theme light or dark?
 light: true
 
 # Primary
 primary: "#00A6D6"
+
+# Secondary
+secondary: "#FF6201"
 
 # Menu
 menu_primary: "#00A6D6"

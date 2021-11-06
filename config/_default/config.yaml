@@ -8,11 +8,11 @@
 ############################
 
 # Website name
-title: "Software Engineering Research Group"
+title: "AI4Fintech"
 
 # Website URL - Hostname (and path to the root)
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL: "https://serg.netlify.app/"
+baseURL: "https://ai4fintech.netlify.app/"
 
 # The time zone (or location), e.g. Europe/Oslo, used to parse front matter dates without such
 # information and in the time function.
@@ -68,20 +68,13 @@ outputs:
 # Permalinks
 permalinks:
   authors: "/author/:slug/"
-  categories: "/category/:slug/"
   publication_types: "/publication-type/:slug/"
-  research_lines: "/research-lines/:slug/"
-  tags: "/tag/:slug/"
 
 # Taxonomy definitions
 taxonomies:
   author: "authors"
-  category: "categories"
-  #project: "projects"
   publication_type: "publication_types"
-  research_line: "research_lines"
-  tag: "tags"
-  venue: "venues"
+
 
 # Sitemap
 #sitemap:

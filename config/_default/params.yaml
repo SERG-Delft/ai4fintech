@@ -8,7 +8,7 @@
 ############################
 
 # Your choice of color theme
-theme: serg
+theme: ai4fintech
 
 # Automatically change light/dark mode based on user's preference?
 day_night: false
@@ -19,9 +19,6 @@ font: "" # No value = inherit font from color theme pack (e.g. minimal)
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: L
-
-# Logo image
-logo : "afr_logo.svg"
 
 ############################
 ## SEO
@@ -113,7 +110,7 @@ main_menu:
   # Display the navigation bar?
   enable: true
   # Align menu links: left (l), center (c), or right (r)
-  align: l
+  align: r
   # Display your site title or `assets/media/logo*` image in the nav bar?
   show_logo: true
   # Show a language chooser (if you have translated your site content)?
@@ -159,9 +156,9 @@ privacy_pack: true
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: "https://github.com/SERG-Delft/serg-www"
+  repo_url: "https://github.com/SERG-Delft/ai4fintech"
   content_dir: "content"
-  repo_branch: main
+  repo_branch: dev
   editable:
     page: false
     post: false

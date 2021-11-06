@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vacancies"
+title: "Management"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-10-29T14:49:19+02:00
-lastmod: 2021-10-29T14:49:19+02:00
+date: 2021-11-06T11:01:31+01:00
+lastmod: 2021-11-06T11:01:31+01:00
 featured: false
 draft: false
 

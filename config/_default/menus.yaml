@@ -5,36 +5,81 @@
 # The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: AI4Fintech
+  - name: "Home"
     weight: 10
   - name: People
     url: "/people"
     weight: 20
-  - name: Tracks
-    url: "/tracks"
-    weight: 25
-  - name: Track 1
-    parent: Tracks
-    url: "/tracks/one"
-    weight: 26
-  - name: Track 2
-    parent: Tracks
-    url: "/tracks/two"
-    weight: 27
-  - name: Track 3
-    parent: Tracks
-    url: "/tracks/three"
-    weight: 28
+  - name: Management
+    parent: People
+    url: "/team/management"
+    weight: 21
+  - name: Stakeholders
+    parent: People
+    url: "/team/stakeholders"
+    weight: 22
+  - name: Track Leaders
+    parent: People
+    url: "/team/track-leaders"
+    weight: 23
+  - name: Students
+    parent: People
+    url: "/team/students"
+    weight: 24
+  - name: Research
+    url: "/research"
+    weight: 30
+  - name: Software Analytics
+    parent: Research
+    url: "/research/software-analytics"
+    weight: 31
+  - name: Data Integration
+    parent: Research
+    url: "/research/data-integration"
+    weight: 32
+  - name: Incident Management
+    parent: Research
+    url: "/research/incident-management"
+    weight: 33
+  - name: Ml Models at Scale
+    parent: Research
+    url: "/research/ml-models-at-scale"
+    weight: 34
+  - name: Reinforcement Learning
+    parent: Research
+    url: "/research/reinforcement-learning"
+    weight: 36
+  - name: AI-based Quality and Testing
+    parent: Research
+    url: "/research/ai-based-quality-and-testing"
+    weight: 37
+  - name: Natural Language Processing
+    parent: Research
+    url: "/research/natural-language-processing"
+    weight: 38
+  - name: Trustworthy AI
+    parent: Research
+    url: "/research/trustworthy-ai"
+    weight: 39
+  - name: Quantum Computing
+    parent: Research
+    url: "/research/quantum-computing"
+    weight: 40
   - name: Publications
     url: "/publication"
-    weight: 32
+    weight: 50
   - name: Events
     url: "/events"
-    weight: 33
-  - name: Students
-    url: "/students"
-    weight: 34
-  - name: Vacancies
-    url: "/vacancies"
-    weight: 41
+    weight: 60
+  - name: About
+    url: "/about"
+    weight: 70
+  - name: General Information
+    parent: About
+    url: "/about/general-information"
+    weight: 71
+  - name: New Students
+    parent: About
+    url: "/about/new-students"
+    weight: 72
 
