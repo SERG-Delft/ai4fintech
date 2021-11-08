@@ -67,7 +67,7 @@ outputs:
 
 # Permalinks
 permalinks:
-  authors: "/author/:slug/"
+  authors: "/members/:slug/"
   publication_types: "/publication-type/:slug/"
 
 # Taxonomy definitions
@@ -119,7 +119,7 @@ ignoreFiles:
 
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
 
 markup:

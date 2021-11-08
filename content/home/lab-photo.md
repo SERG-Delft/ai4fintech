@@ -1,5 +1,5 @@
 ---
-widget: slider
+widget: blank
 headless: true
 weight: 25
 active: true
@@ -7,14 +7,13 @@ active: true
 title: ""
 subtitle: ""
 
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: false
-
-# Minimum slide height.
-# Specify a height to ensure a consistent height for each slide.
-height: 400px
-
-item:
-  - overlay_img: ai4fintech-group-photo.jpg
+design:
+  columns: "1"
+  background:
+    image: ai4fintech-group-photo.jpg
+    image_parallax: false
+    image_position: top
+    image_size: cover
+  spacing:
+    padding: ["12vw", "0", "12vw", "0"]
 ---

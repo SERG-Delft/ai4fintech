@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/*************************************************
+ *  Alumni Table
+ **************************************************/
+
+table {
+  overflow-x: auto !important;
+  width: auto !important;
+}
+@media (min-width: 991.98px) {
+  table.table-sm th,
+  table.table-sm td {
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+}
+
+.bg-table-primary {
+  background-color: $sta-primary;
+}

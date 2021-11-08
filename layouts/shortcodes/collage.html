@@ -1,0 +1,58 @@
+{{/* Collage Shortcode. */}}
+{{/* Loads collage images from media library. */}}
+
+{{/* Get album folder or default to `media/albums/gallery/`. */}}
+{{ $album := (.Get "album") | default "gallery" }}
+{{ $album_path := path.Join "media" "albums" $album "*" }}
+
+{{/* Collage options */}}
+{{ $sort_order := .Get "order" | default "asc" }}
+{{ $resize_options := .Get "resize_options" | default "x190" }}
+
+<style>
+  div.collage {
+    margin: 5px;
+    float: left;
+    width: 1250px;
+  }
+  
+  div.collage img {
+    width: 100%;
+    height: auto;
+    padding: 50px 100px 50px 100px;
+  }
+  
+  div.desc {
+    text-align: center;
+    color: #000;
+    padding: 0px 0px 20px 0px;
+  }
+
+  div.collage a {
+    float: left;
+  }
+  </style>
+
+<div class="collage">
+
+  {{/* Attempt to automatically load collage images from page bundle */}}
+  {{ $images := resources.Match $album_path }}
+  {{ range (sort $images "Name" $sort_order) }}
+    {{ $image := .Resize $resize_options }}
+    {{/* Check if the user set a caption for this image */}}
+    {{ $filename := path.Base .Name }}
+    {{ $caption := "" }}
+    {{ if $.Page.Params.gallery_item }}
+      {{ range (where (where $.Page.Params.gallery_item "album" $album) "image" $filename) }}
+        {{ $caption = .caption }}
+      {{ end }}
+    {{ end }}
+    <a>
+      <img src="{{ $image.RelPermalink }}" loading="lazy" alt="{{ plainify $caption | default $filename }}" width="{{ $image.Width }}" height="{{ $image.Height }}">{{/* Width & height (or low res src) required for lazy loading. */}}
+      <div class="desc">{{ $caption }}</div>
+    </a>
+  {{else}}
+    {{ errorf "Unable to load collage `%s` in `%s`." $album_path .Page.File.Filename }}
+  {{end}}
+
+</div>

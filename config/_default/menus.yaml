@@ -66,7 +66,7 @@ main:
     url: "/research/quantum-computing"
     weight: 40
   - name: Publications
-    url: "/publication"
+    url: "/publications"
     weight: 50
   - name: Events
     url: "/events"
