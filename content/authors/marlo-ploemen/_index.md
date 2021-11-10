@@ -1,14 +1,14 @@
 ---
 # Display name
-title: "Arie van Deursen"
+title: "Marlo Pleomen"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Scientific Director
+role: 
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
 member_start: 
-member_end:
+member_end: 01-01-2021
 
 # Organizations/Affiliations
 organizations:
@@ -30,16 +30,16 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 # For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 # form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/avandeursen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-  - icon: linkedin-in
-    icon_pack: fab
-    link: https://www.linkedin.com/in/avandeursen/?originalSubdomain=nl
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=jjCkWXgAAAAJ&hl=en
+# social:
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/avandeursen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+#   - icon: linkedin-in
+#     icon_pack: fab
+#     link: https://www.linkedin.com/in/avandeursen/?originalSubdomain=nl
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.com/citations?user=jjCkWXgAAAAJ&hl=en
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -56,5 +56,4 @@ highlight_name: true
 #   - Assistant Professor
 #   - Full Professor
 user_groups:
-  - Management
 ---

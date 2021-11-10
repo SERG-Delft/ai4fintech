@@ -1,9 +1,9 @@
 ---
 # Display name
-title: "Arie van Deursen"
+title: "Patrick Altmeyer"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Scientific Director
+role: Trustworthhy AI
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
@@ -33,13 +33,10 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/avandeursen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+    link: https://twitter.com/paltmey?lang=en
   - icon: linkedin-in
     icon_pack: fab
-    link: https://www.linkedin.com/in/avandeursen/?originalSubdomain=nl
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=jjCkWXgAAAAJ&hl=en
+    link: https://www.linkedin.com/in/patrick-altmeyer-a2a25494/?originalSubdomain=nl
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -56,5 +53,5 @@ highlight_name: true
 #   - Assistant Professor
 #   - Full Professor
 user_groups:
-  - Management
+  - PhD Students
 ---
