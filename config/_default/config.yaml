@@ -74,6 +74,7 @@ permalinks:
 taxonomies:
   author: "authors"
   publication_type: "publication_types"
+  projects: "projects"
 
 
 # Sitemap

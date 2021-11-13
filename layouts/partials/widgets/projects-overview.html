@@ -1,0 +1,90 @@
+{{/* Projects Overview Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $icon := $page.Params.design.icon_name | default "fas fa-pencil-alt fa-8x" }}
+{{ $open := $page.Params.content.open | default false }}
+
+<style>
+  .project {
+    float: left;
+    text-align: left;
+    border-radius: 20px;
+    text-decoration: none;
+  }
+
+  .project i {
+    display: flex;
+    vertical-align: middle;
+    line-height: normal;  
+    padding-top: 2%;
+    color: #FF6201;
+  }
+
+  .project p {
+    font-size: large;
+  }
+
+  .project-text h2{
+    color: #00A6D6;
+  }
+
+  .project-authors {
+    font-size: larger;
+    margin-bottom: 0;
+  }
+
+  .project-extra {
+    font-size: small;
+  }
+</style>
+
+<div class="row justify-content-center people-widget">
+  {{ with $page.Title }}
+  <div class="col-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ $all_projects := (where site.Pages "Section" "projects") }}
+  {{ range $page.Params.content.tracks }}
+  {{ $selected_projects := where $all_projects ".Params.tracks" "intersect" (slice .) }}
+  {{ $projects := where $selected_projects ".Params.active" "=" true }}
+  {{ $projects := where $selected_projects ".Params.open" "="  $open }}
+
+  {{ if $projects | and (gt (len $page.Params.content.tracks) 1) }}
+  <div class="col-12">
+    <h2 class="mb-4">{{ . | markdownify }}</h2>
+  </div>
+  {{end}}
+
+  {{ range $projects }}
+
+  {{/* Get link to user's profile page. */}}
+  {{ $link := "" }}
+  {{ with site.GetPage (printf "/projects/%s" (path.Base (path.Split .Path).Dir)) }}
+  {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="col-12 project">
+    <div class="row">
+      <i class="col-2 {{ $icon }}"></i>
+
+      <div class="col-10 project-text">
+        <h2>{{with $link}}<a>{{end}}<b>{{ .Title }}</b>{{if $link}}</a>{{end}}</h2>
+        <p class="project-authors"><b>{{ (delimit .Params.Authors ", " "") }}</b></p>
+        <p class="extra-information">{{ .Params.Bonus }}</p>
+        <p>{{with $link}}<a>{{end}}{{ .Description }}{{if $link}}</a>{{end}}</p>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>
