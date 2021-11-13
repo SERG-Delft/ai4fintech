@@ -26,4 +26,4 @@ design:
         padding: ["0", "10vw", "0", "10vw"]
 ---
 
-{{<collage album="mision" resize_options="200x150" >}}
+{{<collage album="mision" resize_options="200x180" >}}

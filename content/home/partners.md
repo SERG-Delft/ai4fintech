@@ -15,4 +15,4 @@ design:
         padding: ["0", "10vw", "0", "10vw"]
 ---
 
-{{<collage album="partners" resize_options="200x80" >}}
+{{<collage album="partners" resize_options="x80" >}}
