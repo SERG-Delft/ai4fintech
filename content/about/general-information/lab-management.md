@@ -20,5 +20,5 @@ design:
   show_interests: false
 
 avatar:
-    shape: "square"
+    shape: "circle"
 ---

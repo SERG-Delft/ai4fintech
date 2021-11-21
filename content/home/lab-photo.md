@@ -12,7 +12,7 @@ design:
   background:
     image: ai4fintech-group-photo.jpg
     image_parallax: false
-    image_position: top
+    image_position: center
     image_size: cover
   spacing:
     padding: ["12vw", "0", "12vw", "0"]

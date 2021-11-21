@@ -4,7 +4,7 @@ headless: true
 weight: 5
 active: true
 
-title: "Who are we ?"
+title: "Software Analytics"
 subtitle: ""
 
 design:
