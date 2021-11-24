@@ -14,5 +14,6 @@ hugo.exe
 hugo.darwin
 hugo.linux
 /isableFastRenders/
+/isableFastRender/
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo

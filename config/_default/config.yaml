@@ -67,7 +67,6 @@ outputs:
 
 # Permalinks
 permalinks:
-  authors: "/members/:slug/"
   publication_types: "/publication-type/:slug/"
 
 # Taxonomy definitions

@@ -69,7 +69,7 @@ main:
     url: "/publications"
     weight: 50
   - name: Events
-    url: "/events"
+    url: "/upcoming-events"
     weight: 60
   - name: About
     url: "/about"

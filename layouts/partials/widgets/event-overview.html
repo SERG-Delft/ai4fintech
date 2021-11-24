@@ -1,0 +1,106 @@
+{{/* Events Overview Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $icon := $page.Params.design.icon_name | default "fas fa-pencil-alt fa-8x" }}
+
+<style>
+  .event {
+    float: left;
+    text-align: left;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: all 0s;
+  }
+
+  .event:hover,
+  .event:hover i,
+  .event:hover a {
+    background-color: #FF6201;
+    color: white;
+    text-decoration: none;
+  }
+
+  .event i {
+    display: flex;
+    vertical-align: middle;
+    line-height: normal;  
+    padding: 1% 0% 0% 2%;
+    color: #FF6201;
+  }
+
+  .event p {
+    font-size: large;
+  }
+
+  .event-text h2{
+    color: #00A6D6;
+  }
+
+  .event-authors {
+    font-size: larger;
+    margin-bottom: 0;
+  }
+
+  .event-extra {
+    font-size: medium;
+    padding: 0 0 0 0;
+  }
+
+  .event-date {
+    font-size: large;
+  }
+
+  .event-summary {
+    font-size: medium;
+  }
+
+  a, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0s;
+ }
+</style>
+
+<div class="row justify-content-center">
+  {{ with $page.Title }}
+  <div class="col-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ $all_events := (where site.Pages "Section" "events") }}
+  {{ $selected_events := where $all_events ".Params.date_end" "gt" now.String }}
+  {{ $events := (sort $selected_events ".Params.date")}}
+  
+
+  {{ range $events }}
+
+  {{/* Get link to user's profile page. */}}
+  {{ $link := "" }}
+  {{ with site.GetPage (printf "/events/%s" (path.Base (path.Split .Path).Dir)) }}
+  {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="col-12 event">
+    <div class="row">
+      <i class="col-2 {{ $icon }}" style="border-radius: 20px;"></i>
+
+      <div class="col-10 event-text">
+        <h2>{{with $link}}<a href="{{ . }}">{{end}}<b>{{ .Title }}</b>{{if $link}}</a>{{end}}</h2>
+        <div class="event-authors"><b>{{ (delimit .Params.Authors ", " ", ") }}</b></div>
+        <div class="event-date"><b>{{ (time .Params.date).Format "02 Jan 06 15:04 MST" }}</b></div>
+        <div class="event-extra"><b>{{ .Params.Location }}</b></div>
+        <div class="event-summary">{{ .Params.abstract }}</div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>
