@@ -17,8 +17,8 @@ abstract: Few sentecnes about the event. Few sentecnes about the event. Few sent
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-11-25T07:55:33+01:00
-date_end: 2021-11-26T07:55:33+01:00
+date: 2022-11-25T07:55:33+01:00
+date_end: 2022-11-26T07:55:33+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
