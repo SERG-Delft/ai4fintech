@@ -14,10 +14,6 @@ main:
     parent: People
     url: "/team/management"
     weight: 21
-  - name: Stakeholders
-    parent: People
-    url: "/team/stakeholders"
-    weight: 22
   - name: Track Leaders
     parent: People
     url: "/team/track-leaders"

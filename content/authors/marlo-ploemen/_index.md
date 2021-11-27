@@ -8,7 +8,7 @@ role:
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
 member_start: 
-member_end: 01-01-2021
+member_end: 
 
 # Organizations/Affiliations
 organizations:
@@ -56,4 +56,5 @@ highlight_name: true
 #   - Assistant Professor
 #   - Full Professor
 user_groups:
+  - Alumni
 ---

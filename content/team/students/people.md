@@ -19,13 +19,15 @@ content:
   #   - BSc Students
   #   - Assistant Professor
   #   - Full Professor
+  #   - Alumni
   user_groups:
     - PhD Students
     - MSc Students
     - BSc Students
+    - Alumni
 
 design:
-  show_role: true
+  show_role: false
   show_organizations: false
   show_social: true
   show_interests: false
