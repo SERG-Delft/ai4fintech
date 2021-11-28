@@ -71,7 +71,6 @@ permalinks:
 
 # Taxonomy definitions
 taxonomies:
-  author: "authors"
   publication_type: "publication_types"
   projects: "projects"
 

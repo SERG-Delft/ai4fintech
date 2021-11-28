@@ -1,0 +1,78 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<style>
+  button {
+    width: 100%;
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+  }
+
+  .pdf {
+    background-color: #00A6D6;
+  }
+
+  .pdf:hover {
+    background-color: #008ab1;
+  }
+
+  .cite {
+    background-color: #FF6201;
+  }
+
+  .cite:hover {
+    background-color: #cf4f00;
+  }
+</style>
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+        
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+      {{ $num_groups := (len (.Data.Pages.GroupByDate "Jan 2006")) }}
+      {{ range $index, $val := .Data.Pages.GroupByDate "Jan 2006" }}
+      <div class="row" id="talk_list">
+          {{ range $val.Pages }}
+          <div class="col-lg-9 pt-9 pb-9">
+            {{ if eq $.Params.view 1 }}
+              {{ partial "li_list" . }}
+            {{ else if eq $.Params.view 3 }}
+              {{ partial "li_card" . }}
+            {{ else }}
+              {{ partial "li_compact" . }}
+            {{ end }}
+            </div>
+            <div class="col-lg-3 pt-3 pb-3">
+              {{if .Params.pdf}}
+              <form action="{{ .Params.pdf }}">
+                <button class="row pdf">
+                  Download PDF
+                </button>
+              </form>
+              {{ end }}
+              {{ if .Params.Citation }}
+              <button class="row cite" id="{{ .Params.Title }}" onclick="navigator.clipboard.writeText({{ .Params.citation }});document.getElementById('{{ .Params.Title}}').innerText = 'Copied!';">
+                Cite
+              </button>
+              {{ end }}
+            </div>
+          {{ end }}
+      </div>
+      {{ if (lt $index (sub $num_groups 1)) }}
+      <hr>
+      {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+
+</div>
+
+{{- end -}}

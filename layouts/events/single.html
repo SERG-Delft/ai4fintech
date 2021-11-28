@@ -28,6 +28,9 @@
   {{ partial "page_header.html" . }}
 
   <div class="article-container">
+    {{ if .Params.Authors}}
+      <h4 class="authors"> {{ delimit .Params.Authors ", " }} </h4>
+    {{ end }}
 
     {{ if .Params.summary }}
       <h3>Summary</h3>
