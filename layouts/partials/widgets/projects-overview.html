@@ -56,7 +56,11 @@
 
   {{ $all_projects := (where site.Pages "Section" "projects") }}
   {{ range $page.Params.content.tracks }}
-  {{ $selected_projects := where $all_projects ".Params.tracks" "intersect" (slice .) }}
+  {{ $selected_projects := $all_projects}}
+  {{ printf "%#v" "Hhello" }}
+  {{ if $page.Params.tracks }}
+    {{ $selected_projects := where $all_projects ".Params.tracks" "intersect" (slice .) }}
+  {{ end }}
   {{ $projects := where $selected_projects ".Params.active" "=" true }}
   {{ $projects := where $selected_projects ".Params.open" "="  $open }}
 

@@ -2,7 +2,7 @@
 widget: projects-overview
 weight: 15
 
-title: "Available projects"
+title: "Open projects"
 subtitle: ""
 
 design:
@@ -10,7 +10,5 @@ design:
   icon_name: "fas fa-search fa-8x"
 
 content:
-  tracks:
-    - Software Analytics
   open: true
 ---
