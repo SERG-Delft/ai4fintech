@@ -24,10 +24,9 @@ content:
     - PhD Students
     - MSc Students
     - BSc Students
-    - Alumni
 
 design:
-  show_role: false
+  show_role: true
   show_organizations: false
   show_social: true
   show_interests: false

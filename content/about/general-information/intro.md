@@ -30,5 +30,5 @@ Our research has two goals: to <span style="color:#FF6201"> **create** </span> i
 
 AFR consists of 11 research tracks, in which 11 PhD students work on topics such as software analytics, data integration, fairness in machine learning, model lifecycle management, regulatory compliance, search-based software engineering, and A/B testing.
 Each track involves ING engineers as well as researchers, professors and other students from TU Delft.
-AFR is bi-located at the ING’s head office <a href="https://www.ing.com/About-us/Profile.htm" style="color: #FF6201; text-decoration: underline;text-decoration-style: dotted;">Cedar WRONG LINK</a> in Amsterdam and on the TU Delft campus.
+AFR is bi-located at the ING’s head office <a href="https://www.google.com/maps/place/ING+Cedar/@52.3155919,4.9498284,15z/data=!4m5!3m4!1s0x0:0x64ee767a91985a24!8m2!3d52.3155919!4d4.9498284" style="color: #FF6201; text-decoration: underline;text-decoration-style: dotted;">Cedar</a> in Amsterdam and on the TU Delft campus.
 

@@ -3,12 +3,13 @@
 title: "Bart van Oort"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Alumni
+role: 
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
-member_start: 
-member_end: 
+member_start: 01.01.2020
+member_end: 01.01.2021
+
 
 # Organizations/Affiliations
 organizations:
@@ -56,5 +57,5 @@ highlight_name: true
 #   - Assistant Professor
 #   - Full Professor
 user_groups:
-  - Alumni
+  - MSc Students
 ---

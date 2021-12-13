@@ -65,17 +65,21 @@ main:
     url: "/publications"
     weight: 50
   - name: Events
-    url: "/upcoming-events"
+    url: "/events"
     weight: 60
+  - name: Vacancies
+    url: "/vacancies"
+    weight: 70
   - name: About
     url: "/about"
-    weight: 70
+    weight: 80
   - name: General Information
     parent: About
     url: "/about/general-information"
-    weight: 71
+    weight: 81
   - name: New Students
     parent: About
     url: "/about/new-students"
-    weight: 72
+    weight: 82
+  
 
