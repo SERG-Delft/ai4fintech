@@ -68,7 +68,7 @@ main:
     url: "/events"
     weight: 60
   - name: Vacancies
-    url: "/vacancies"
+    url: "/current-vacancies"
     weight: 70
   - name: About
     url: "/about"

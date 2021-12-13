@@ -229,6 +229,19 @@ projects:
   publication_view: 2
   talk_view: 2
 
+# List of possible research tracks
+tracks:
+  - Software Analytics
+  - Data Integration
+  - AI-based quality and testing
+  - Incident Management
+  - ML Model at scale
+  - Natural language processing
+  - Quuantum Computing
+  - Reinforcement Learning
+  - Software Analytics
+  - Trustworthy AI
+
 breadcrumb:
   page_types:
     book: true
