@@ -28,6 +28,7 @@ design:
   show_organizations: false
   show_social: true
   show_interests: false
+  role : 1
 
 avatar:
     shape: "circle"

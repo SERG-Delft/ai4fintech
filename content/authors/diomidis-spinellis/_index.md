@@ -3,7 +3,7 @@
 title: "Diomidis Spinellis"
 
 # Role/position (e.g., (Assistant/Associate/Full) Professor, Postdoctoral Researchers, Ph.D. Candidate)
-role: Incident Management
+roles: [Incident Management]
 
 # The start and end year of being part of this group.
 # If the author is an active member, leave member_end empty. Otherwise, fill in.
@@ -57,4 +57,6 @@ highlight_name: true
 #   - Full Professor
 user_groups:
   - Track Leaders
+  - Incident Management
+
 ---

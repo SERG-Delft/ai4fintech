@@ -34,6 +34,7 @@
   {{end}}
 
   {{ range $members }}
+  {{ $role := $page.Params.design.role | default 0}}
 
   {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
@@ -57,7 +58,8 @@
     <div class="portrait-title">
       <h2 style="color: #00A6D6;">{{with $link}}<a>{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
       {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
-      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+      {{ if (ge $role (len .Params.roles)) }} <h3>{{ (string (index .Params.roles 0)) }}</h3>{{ else }}
+      {{ if $show_role }}<h3>{{ (string (index .Params.roles $role)) }}</h3>{{ end }} {{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
