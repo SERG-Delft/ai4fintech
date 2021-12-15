@@ -2,7 +2,7 @@
 widget: projects-overview
 weight: 15
 
-title: "Open projects"
+title: "Vacancies"
 subtitle: ""
 
 design:
