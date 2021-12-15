@@ -3,7 +3,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 
 # Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
-role:
+roles: []
 
 # Organizations/Affiliations
 organizations:

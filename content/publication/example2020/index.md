@@ -17,7 +17,7 @@ publishDate: 2021-07-07
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Importance of example templates in a project"
@@ -34,7 +34,7 @@ tags:
   - Machine Learning
   - Search-based Software Engineering
   - EvoMaster
-categories: []
+categories: [Master thesis]
 featured: false
 
 # Custom links (optional).
@@ -49,19 +49,10 @@ url_pdf:
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://repository.tudelft.nl/islandora/object/uuid%3A29ab23e3-caa4-4a9d-8f3c-b8bd9ead26d6?collection=research
 url_slides:
 url_source:
 url_video:
-
-pdf: '/publications/example2020/test.pdf'
-citation: '@book{texbook,
-  author = {Mr. Example},
-  year = {2020},
-  title = {The Example Book},
-  publisher = {Example publisher}
-}'
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

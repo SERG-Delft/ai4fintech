@@ -68,11 +68,15 @@ outputs:
 # Permalinks
 permalinks:
   publication_types: "/publication-type/:slug/"
+  publication: "/publications/:slug/"
 
 # Taxonomy definitions
 taxonomies:
   publication_type: "publication_types"
+  publication: "publications"
   projects: "projects"
+  tag: "tags"
+  category: "categories"
 
 
 # Sitemap
