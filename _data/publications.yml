@@ -1,3 +1,12 @@
+- title: Experiences in Analysing the Software Quality of ML Projects with mllint
+  authors:
+    - Bart van Oort
+    - Luis Cruz
+    - Babak Loni
+    - Arie van Deursen
+  venue: 44th International Conference on Software Engineering (ICSE 2022). SEIP
+  year: 2022
+
 - title: Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations
   authors:
     - Leonhard Applis
