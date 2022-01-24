@@ -28,16 +28,19 @@
         <th scope="col">Name</th>
         <th scope="col">Period</th>
         <th scope="col">Thesis</th>
+        <th scope="col">Supervisor</th>
       </tr>
     </thead>
     <tbody>
       {{ range ($alumni.GroupByParam "member_end" "desc") }}
       {{ range .Pages.ByTitle }}
       {{ $thesis := (.Resources.GetMatch "*.pdf")}}
+      {{ $supervisor := .Params.supervisor}}
       <tr>
         <td scope="row">{{ .Title }}</td>
         <td>{{ .Params.member_start }} - {{ .Params.member_end }}</td>
-        <td>{{ if $thesis }}<a href="{{ $thesis.RelPermalink }}">{{ $thesis.Name }}</a>{{ end }}</td>
+        <td>{{ if $thesis }}<a href="{{ $thesis.RelPermalink }}">{{ .Params.thesis_name }}</a>{{ end }}</td>
+        <td>{{ if $supervisor }}{{ $supervisor }}{{ end }}</td>
       </tr>
       {{ end }}
       {{ end }}

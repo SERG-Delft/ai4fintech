@@ -45,6 +45,9 @@ interests:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+supervisor: "Name of supervisor"
+thesis_name: "Name of thesis"
+
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 
 #   - Management

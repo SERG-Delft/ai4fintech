@@ -50,6 +50,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+supervisor: "Name of supervisor"
+thesis_name: "Name of thesis"
+
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
 # Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,

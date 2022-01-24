@@ -11,7 +11,7 @@
 <div class="row justify-content-center people-widget">
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
-    <h1>{{ . | markdownify | emojify }}</h1>
+    <h1 style="padding-bottom: 1%;">{{ . | markdownify | emojify }}</h1>
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
@@ -29,7 +29,7 @@
 
   {{ if $members | and (gt (len $page.Params.content.user_groups) 1) }}
   <div class="col-md-12">
-    <h2 class="mb-4">{{ . | markdownify }}</h2>
+    <h2 class="mb-4" style="padding-bottom: 2%;">{{ . | markdownify }}</h2>
   </div>
   {{end}}
 

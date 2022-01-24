@@ -22,6 +22,10 @@ main:
     parent: People
     url: "/team/students"
     weight: 24
+  - name: Alumni
+    parent: People
+    url: "/team/alumni"
+    weight: 25
   - name: Research
     url: "/research"
     weight: 30
