@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Making State a First Class Citizen in Serverless Computing"
-event:
+event: Conference
 event_url:
 location: ING Analytics & Modelling Community Event
 address:
@@ -17,8 +17,8 @@ abstract: In the serverless model, users upload application code to a cloud plat
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-12-25T07:55:33+01:00
-date_end: 2022-12-26T07:55:33+01:00
+date: "2022-12-25T07:55:33+01:00"
+date_end: "2022-12-25T08:55:33+01:00"
 all_day: false
 
 # Schedule page publish date (NOT event date).

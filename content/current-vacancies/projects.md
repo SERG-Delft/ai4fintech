@@ -11,4 +11,5 @@ design:
 
 content:
   open: true
+  show_track: true
 ---

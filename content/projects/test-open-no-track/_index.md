@@ -1,6 +1,6 @@
 ---
 # Name of the project
-title: "Vacant project with no real track"
+title: "Vacant project example"
 
 # Short description of the project
 description: >
@@ -25,4 +25,6 @@ authors:
 
 # List off all tracks this project corresponds to
 tracks:
+  - Software Analytics
+  - Trustworthy AI
 ---

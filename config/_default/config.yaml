@@ -69,6 +69,7 @@ outputs:
 permalinks:
   publication_types: "/publication-type/:slug/"
   publication: "/publications/:slug/"
+  event: "/events/:slug/"
 
 # Taxonomy definitions
 taxonomies:
@@ -91,7 +92,7 @@ enableEmoji: true
 
 # Enable .GitInfo object for each page. This will then update the Lastmod parameter for each page
 # using the last git commit date for that content file.
-enableGitInfo: true
+enableGitInfo: false
 
 # Text to display for footnote return links.
 footnoteReturnLinkContents: "<sup>^</sup>"

@@ -57,4 +57,5 @@ highlight_name: true
 #   - Full Professor
 user_groups:
   - MSc Students
+  - Software Analytics
 ---

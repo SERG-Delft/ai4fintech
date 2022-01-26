@@ -3,7 +3,6 @@
 {{/* Initialise */}}
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $icon := $page.Params.design.icon_name | default "fas fa-pencil-alt fa-8x" }}
 {{ $open := $page.Params.content.open | default false }}
 
 <style>
@@ -18,8 +17,7 @@
     display: flex;
     vertical-align: middle;
     line-height: normal;  
-    padding-top: 2%;
-    color: #FF6201;
+    color: #00A6D6;
   }
 
   .project p {
@@ -32,7 +30,6 @@
 
   .project-authors {
     font-size: larger;
-    margin-bottom: 0;
   }
 
   .project-extra {
@@ -56,6 +53,8 @@
 
   {{ $all_projects := (where site.Pages "Section" "projects") }}
   {{ $tracks := $page.Params.content.tracks | default site.Params.tracks}}
+
+  {{/* Only displays project of specific track - No need to show the track*/}}
   {{ if $page.Params.content.tracks}}
     {{ range $tracks }}
     {{ $selected_projects := where $all_projects ".Params.tracks" "intersect" (slice .) }}
@@ -77,9 +76,8 @@
     {{ end }}
     <div class="col-12 project">
       <div class="row">
-        <i class="col-2 {{ $icon }}"></i>
 
-        <div class="col-10 project-text">
+        <div class="col-12 project-text">
           <h2>{{with $link}}<a>{{end}}<b>{{ .Title }}</b>{{if $link}}</a>{{end}}</h2>
           <p class="project-authors"><b>{{ (delimit .Params.Authors ", " "") }}</b></p>
           <p class="extra-information">{{ .Params.Bonus }}</p>
@@ -103,11 +101,10 @@
     {{ end }}
     <div class="col-12 project">
       <div class="row">
-        <i class="col-2 {{ $icon }}"></i>
-
-        <div class="col-10 project-text">
+        <div class="col-12 project-text">
           <h2>{{with $link}}<a>{{end}}<b>{{ .Title }}</b>{{if $link}}</a>{{end}}</h2>
-          <p class="project-authors"><b>{{ (delimit .Params.Authors ", " "") }}</b></p>
+          <p class="project-tracks"><i>{{ (delimit .Params.Tracks ", " ", ") }}</i></p>
+          <p class="project-authors"><b>{{ (delimit .Params.Authors ", " ", ") }}</b></p>
           <p class="extra-information">{{ .Params.Bonus }}</p>
           <p>{{with $link}}<a>{{end}}{{ .Description }}{{if $link}}</a>{{end}}</p>
         </div>
