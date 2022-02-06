@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 30
+weight: 35
 active: true
 
 title: "Our Mision"
@@ -11,13 +11,13 @@ height: 200px
 
 gallery_item:
 - album: mision
-  image: 1.png
+  image: 1icon-research.png
   caption: 1. Perform impactful research
 - album: mision
-  image: 2.png
+  image: 2icon-optimize-afr.png
   caption: 2. Optimize the world of FinTech
 - album: mision
-  image: 3.png
+  image: 3innovation-icon.png
   caption: 3. Make innovation available to society
 
 design:

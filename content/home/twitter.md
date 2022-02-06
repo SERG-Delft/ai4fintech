@@ -8,6 +8,9 @@ subtitle: ""
 design:
     spacing:
         margin: auto
+    background:
+        color: "#f7f7f7"
+    
 ---
 
 <a class="twitter-timeline" data-width="900" data-height="700" href="https://twitter.com/Ai4Fintech?ref_src=twsrc%5Etfw">Tweets by Ai4Fintech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
