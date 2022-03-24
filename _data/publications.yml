@@ -1,3 +1,13 @@
+- title: "Planning for potential: efficient safe reinforcement learning"
+  authors:
+    - Floris den Hengst
+    - Vincent François-Lavet
+    - Mark Hoogendoorn
+    - Frank van Harmelen
+  venue: Machine Learning. Springer
+  doi: 10.1007/s10994-022-06143-6
+  year: 2022
+
 - title: Experiences in Analysing the Software Quality of ML Projects with mllint
   authors:
     - Bart van Oort
