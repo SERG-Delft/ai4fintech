@@ -103,8 +103,8 @@
       <div class="row">
         <div class="col-12 project-text">
           <h2>{{with $link}}<a>{{end}}<b>{{ .Title }}</b>{{if $link}}</a>{{end}}</h2>
-          <p class="project-tracks"><i>{{ (delimit .Params.Tracks ", " ", ") }}</i></p>
-          <p class="project-authors"><b>{{ (delimit .Params.Authors ", " ", ") }}</b></p>
+          <p class="project-tracks"><i>{{ (delimit .Params.Tracks ", ") }}</i></p>
+          <p class="project-authors"><b>{{ (delimit .Params.Authors ", ") }}</b></p>
           <p class="extra-information">{{ .Params.Bonus }}</p>
           <p>{{with $link}}<a>{{end}}{{ .Description }}{{if $link}}</a>{{end}}</p>
         </div>
