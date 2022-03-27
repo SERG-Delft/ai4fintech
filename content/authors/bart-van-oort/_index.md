@@ -46,7 +46,7 @@ interests:
 highlight_name: true
 
 supervisor: "Name of supervisor"
-thesis_name: "Name of thesis"
+thesis_name: "Thesis about how superlong thesis name have an undesirable effect on websites Thesis about how superlong thesis name have an undesirable effect on websites"
 
 # Organizational groups that you belong to (for People widget)
 # Use one of the following values: 
