@@ -22,6 +22,30 @@ Steps:
 2. Update your information in **content/authors/<firstname-lastname>/_index.md**
 3. Replace **avatar.{jpg,jpeg,png,webp}** with your photo
 
+### Adding publications
+
+Steps:
+
+1. Create a new directory under **content/publication/**
+2. Copy files from any other publications found in **content/publication/** into your new directory
+3. Change the **index.md** accordingly
+4. Change the **cite.bib** and add the pdf of the publication within the same folder
+
+### Adding events
+
+Steps:
+
+1. Create a new directory under **content/events/**
+2. Copy files from any other event found in **content/events/** into your new directory
+3. Change the **index.md** accordingly
+4. If this event has any slides, add them to **content/slides/**, make sure to mark the filename correctly in **index.md**
+
+### Adding projects:
+
+1. Create a new directory under **content/projects/**
+2. Copy files from any other project found in **content/projects/** into your new directory
+3. Change the **index.md** accordingly
+
 ## Build and preview locally
 
 When making changes to the website, it is useful to build and preview the website locally before committing the changes to the repository.
