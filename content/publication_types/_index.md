@@ -1,5 +1,6 @@
 ---
 title: Publication Types
+url: publication-types
 
 # View.
 #   1 = List

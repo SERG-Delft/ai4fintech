@@ -67,14 +67,14 @@ outputs:
 
 # Permalinks
 permalinks:
-  publication_types: "/publication-type/:slug/"
+  publication_types: "/publication-types/:slug/"
   publication: "/publications/:slug/"
   event: "/events/:slug/"
 
 # Taxonomy definitions
 taxonomies:
   publication_type: "publication_types"
-  publication: "publications"
+  # publication: "publications"
   projects: "projects"
   tag: "tags"
   category: "categories"
