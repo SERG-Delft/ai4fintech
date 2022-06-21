@@ -27,6 +27,14 @@ Universiteit Amsterdam's groups [Knowledge Representation and Reasoning](https:/
 [Computational Intelligence](https://cs.vu.nl/ci/) groups.
 
 Related work:
+- Floris den Hengst, Vincent François-Lavet, Mark Hoogendoorn, Frank van
+  Harmelen: Reinforcement Learning with Option Machines
+  IJCAI-ECAI (2022). [pdf](https://florisdh.nl/publications/ijcai22-option-machines.pdf)
+
+- Floris den Hengst, Vincent François-Lavet, Mark Hoogendoorn, Frank van
+  Harmelen: Planning for potential: efficient safe reinforcement learning.
+  Machine Learning, Springer (2022). [doi](https://doi.org/10.1007/s10994-022-06143-6)
+
 - Floris den Hengst, Mark Hoogendoorn, Frank van Harmelen, Joost Bosman: Reinforcement Learning
   for Personalized Dialogue Management. IEEE/WIC/ACM International Conference on Web Intelligence:
   59-76 (2020) [doi](https://doi.org/10.1145/3350546.3352501)
