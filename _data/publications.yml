@@ -1,3 +1,13 @@
+- title: Reinforcement Learning with Option Machines
+  authors:
+    - Floris den Hengst
+    - Vincent François-Lavet
+    - Mark Hoogendoorn
+    - Frank van Harmelen
+  venue: International Joint Conference on Artificial Intelligence
+  preprint: https://florisdh.nl/publications/ijcai22-option-machines.pdf
+  year: 2022
+
 - title: "Planning for potential: efficient safe reinforcement learning"
   authors:
     - Floris den Hengst
