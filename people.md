@@ -39,6 +39,7 @@ Lorena Poenaru-Olaru    | TU Delft    | PhD candidate
 Patrick Altmeyer        | TU Delft    | PhD candidate
 Maliheh Izadi           | TU Delft    | Visiting PhD candidate
 Shemara van der Zwet	| TU Delft 	  | Management support
+Eileen Kapel            | TU Delft    | PhD candidate
 
 [Arie van Deursen]:https://avandeursen.com
 [Luís Cruz]:https://luiscruz.github.io
