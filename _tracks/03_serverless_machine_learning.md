@@ -3,6 +3,7 @@ layout: default
 track-id: 3
 title: Serverless Machine Learning
 leader: Asterios Katsifodimos
+inactive: true
 ---
 
 # Track 3: Serverless Machine Learning
