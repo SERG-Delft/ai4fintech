@@ -28,5 +28,10 @@ Questions for data scientists in software engineering: a replication. ESEC/SIGSO
 
 - Elvan Kula, Ayushi Rastogi, Hennie Huijgens, Arie van Deursen, Georgios Gousios: Releasing fast and slow: an exploratory case study at ING. ESEC/SIGSOFT FSE 2019: 785-795 ([preprint](https://research.tudelft.nl/en/publications/releasing-fast-and-slow-an-exploratory-case-study-at-ing)).
 
-- Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10 ([preprint](https://research.tudelft.nl/en/publications/factors-affecting-cloud-infra-service-development-lead-times-a-ca)).
+- Hennie Huijgens, Eric Greuter, Jerry Brons, Evert A. van Doorn, Ioannis Papadopoulos, Francisco Morales Martinez, Mauricio Finavaro Aniche, Otto Visser, Arie van Deursen:
+Factors affecting cloud infra-service development lead times: a case study at ING. ICSE (SEIP) 2019: 233-242 ([preprint](https://research.tudelft.nl/en/publications/factors-affecting-cloud-infra-service-development-lead-times-a-ca)).
+
+- Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10 ([preprint](https://research.tudelft.nl/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success)).
+
+
 
