@@ -1,11 +1,11 @@
 ---
-layout: index
+layout: default
 title: AI for Fintech Research
 ---
 
 # AI for Fintech Research
 
-AI for Fintech Research (AFR) is a collaboration between [ING] and [Delft University of Technology][tudelft]. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech.
+AI for Fintech Research (AFR) is a five year collaboration between [ING] and [Delft University of Technology][tudelft]. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech.
 AFR was launched in 2020. 
 
 With 36 million customers, activities in 42 countries, and a total of 50,000 employees of which 15,000 work in IT, software and data technology is at the heart of ING’s business and operations. In this context, AFR seeks to develop new AI-driven theories, methods, and tools in large scale data and software analytics.
@@ -16,7 +16,7 @@ AFR is bi-located at the TU Delft campus in Delft and at [Cumulus Park] – the 
 
 AFR participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) working in close collaboration with societal or industrial partners. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcomm, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.
 
-The scientific director of AFR is [Arie van Deursen][avandeursen], professor in the Software Engineering Research Group ([SERG]) at Delft University of Technology.
+The AFR Lab is led by scientific director [Arie van Deursen][avandeursen] and lab managers Elvan Kula (ING) and Luís Cruz (TU Delft).
 
 ----
 
