@@ -18,6 +18,12 @@ AFR participates in the Innovation Center for Artificial Intelligence ([ICAI]) a
 
 The scientific director of AFR is [Arie van Deursen][avandeursen], professor in the Software Engineering Research Group ([SERG]) at Delft University of Technology.
 
+----
+
+![](img/afr2020.jpg)
+
+----
+
 [icai]: https://icai.ai/
 [tudelft]: https://tudelft.nl
 [cumulus park]: https://www.cumuluspark.com
