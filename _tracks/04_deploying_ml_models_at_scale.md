@@ -6,7 +6,10 @@ leader: Jan Rellermeyer, Luís Cruz
 phd: Lorena Poenaru-Olaru
 ---
 
-The deployment of ML-applications brings in a unique set of engineering challenges. In particular if models are re-trained and re-deployed frequently, full automation of all relevant deployment tasks is needed. This includes monitoring and optimization in production, as well as data quality validation. For models requiring explainability, verification of not just outputs but also of the revised explanations will be necessary.
+The deployment of ML-applications brings in a unique set of engineering challenges. 
+If the underlying data changes, this may lead to _concept drift_. We explore the use of _drift detectors_ to identify such situations, to minimize the (typically costly) training phase. Such drift detectors are employed while operating machine learning models, giving rise to the field of _ML-Ops_.
+
+If models are re-trained and re-deployed frequently, full automation of all relevant deployment tasks is needed. This includes monitoring and optimization in production, as well as data quality validation. For models requiring explainability, verification of not just outputs but also of the revised explanations will be necessary.
 In this track we will seek to address such challenges at ING scale.
 
 ## Selected publications
