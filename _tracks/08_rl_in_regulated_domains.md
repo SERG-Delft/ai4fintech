@@ -1,11 +1,10 @@
 ---
-layout: default
-track-id: 11
+layout: track
+track-id: 8
 title: Reinforcement Learning in Regulated Domains
 leader: Frank van Harmelen
+phd: Floris den Hengst
 ---
-
-# Reinforcement Learning in Regulated Domains
 
 Reinforcement learning is a powerful learning paradigm that can be used to learn how to behave
 optimally from data. It has become increasingly popular over the past decades for various tasks,
@@ -26,7 +25,8 @@ This research is a collaboration with the Vrije
 Universiteit Amsterdam's groups [Knowledge Representation and Reasoning](https://krr.cs.vu.nl/) and
 [Computational Intelligence](https://cs.vu.nl/ci/) groups.
 
-Related work:
+## Selected Publications
+
 - Floris den Hengst, Vincent François-Lavet, Mark Hoogendoorn, Frank van
   Harmelen: Reinforcement Learning with Option Machines
   IJCAI-ECAI (2022). [pdf](https://florisdh.nl/publications/ijcai22-option-machines.pdf)
@@ -52,4 +52,3 @@ Related work:
   Conference on Human Information Interaction and Retrieval. (2020)
   [doi](https://doi.org/10.1145/3343413.3377998)
 
-**Track leader:** {{ page.leader }}
