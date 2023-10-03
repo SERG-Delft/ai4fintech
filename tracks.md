@@ -16,11 +16,11 @@ These themes recur in each of the tracks, yet in different proportions, with som
 
 The current tracks are:
 
-|     | Track  | PhD Candidate |
-|-----|--------|---------------|
+| Track  | PhD Candidate |
+|--------|---------------|
 {% for track in site.tracks -%}
 {%- unless track.inactive -%}
-{{ track.track-id }} | [{{track.title}}]({{track.url | relative_url}}) | {{track.phd}}
+| [{{track.title}}]({{track.url | relative_url}}) | {{track.phd}} |
  {%- endunless %}
 {% endfor %}
 
