@@ -18,11 +18,11 @@ In this track we will seek to address such challenges at ING scale.
 
 - Arumoy Shome, Luís Cruz, Arie van Deursen: Towards Understanding Machine Learning Testing in Practise. CAIN 2023: 117-118
 
-- Lorena Poenaru-Olaru, June Sallou, Luis Cruz, Jan S. Rellermeyer, Arie van Deursen: Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques. GREENS@ICSE 2023: 17-18
+- Lorena Poenaru-Olaru, June Sallou, Luis Cruz, Jan S. Rellermeyer, Arie van Deursen: Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques. GREENS@ICSE 2023: 17-18 ([preprint](https://research.tudelft.nl/en/publications/retrain-ai-systems-responsibly-use-sustainable-concept-drift-adap)).
 
 - Arumoy Shome, Luís Cruz, Arie van Deursen: Data smells in public datasets. CAIN 2022: 205-216
 
-- Lorena Poenaru-Olaru, Luis Cruz, Arie van Deursen, Jan S. Rellermeyer: Are Concept Drift Detectors Reliable Alarming Systems? - A Comparative Study. IEEE Big Data 2022: 3364-3373
+- Lorena Poenaru-Olaru, Luis Cruz, Arie van Deursen, Jan S. Rellermeyer: Are Concept Drift Detectors Reliable Alarming Systems? - A Comparative Study. IEEE Big Data 2022: 3364-3373 ([preprint](https://research.tudelft.nl/en/publications/are-concept-drift-detectors-reliable-alarming-systems-a-comparati)).
 
 - Haiyin Zhang, Luís Cruz, Arie van Deursen: Code smells for machine learning applications. CAIN 2022: 217-228
 
