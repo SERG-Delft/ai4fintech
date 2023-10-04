@@ -28,9 +28,6 @@ In this track we will seek to address such challenges at ING scale.
 
 - Bart van Oort, Luis Cruz, Babak Loni, Arie van Deursen: "Project smells" - Experiences in Analysing the Software Quality of ML Projects with mllint. ICSE (SEIP) 2022: 211-220
 
-- Ching-Chi Chuang, Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen:
-Removing dependencies from large software projects: are you really sure? SCAM 2022: 105-115
-
 - Lorena Poenaru-Olaru, Judith Redi, Arthur Hovanesyan, Huijuan Wang: Default Prediction Using Network Based Features. COMPLEX NETWORKS 2021: 732-743
 
 - Lorena Poenaru-Olaru: AutoML: towards automation of machine learning systems maintainability. Middleware Doctoral Symposium 2021: 4-5

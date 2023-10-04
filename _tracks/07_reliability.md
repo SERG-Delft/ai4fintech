@@ -1,7 +1,7 @@
 ---
 layout: track
 track-id: 7
-title: AI for IT Operations
+title: Incident Management
 leader: Luís Cruz, Diomidis Spinellis
 phd: Eileen Kapel
 ---
@@ -17,6 +17,9 @@ This track relates to a risk management AIOps framework utilising real-world cha
 
 ## Selected publications
 
-- Eileen Kapel. Incident Prevention Through Reliable Changes Deployment. ICSE Doctorol Symposium, Poster. 2023.
+- Eileen Kapel. Incident Prevention Through Reliable Changes Deployment. ICSE Doctoral Symposium, Poster. 2023.
 
 - Kapel, Eileen and Cruz, Luís and Spinellis, Diomidis and van Deursen, Arie, Incident Management in a Software-Defined Business: A Case Study. [SSRN](https://ssrn.com/abstract=4333515) abstract [4333515](http://dx.doi.org/10.2139/ssrn.4333515).
+
+- Ching-Chi Chuang, Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen:
+Removing dependencies from large software projects: are you really sure? SCAM 2022: 105-115 ([link](https://research.tudelft.nl/en/publications/removing-dependencies-from-large-software-projects-are-you-really)).
