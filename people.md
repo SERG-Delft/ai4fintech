@@ -9,15 +9,15 @@ layout: default
 Name | Organization | Role
 --|--|--
 [Arie van Deursen] 		    | TU Delft 	| Scientific director
-[Elvan Kula] 			    | ING 		| Lab manager, PhD candidate
 [Luís Cruz] 				| TU Delft 	| Scientific manager and researcher
-Marco Li Mandri				| ING 		| Lab sponsor
+Marco Li Mandri				| ING 		| Lab manager
+[Elvan Kula] 			    | ING 		| Lab manager, PhD candidate
 Rudolf Molkenboer			| ING   	| Lab sponsor
 Görkem Köseoğlu				| ING 		| Lab sponsor
 Shiler Khedri				| ING 		| Lab sponsor
 Kerem Tomak			        | ING		| Lab sponsor
 Jerry Brons			        | ING 	    | Lab sponsor
-Evert van Doorn				| ING 		| Track sponsor
+Evert-Jan van Doorn			| ING 		| Track sponsor
 Eric Greuter			    | ING 		| Track sponsor
 Robert Frank Hofland	    | ING 		| Track sponsor
 Niels Visser                | ING       | Track sponsor
@@ -29,6 +29,7 @@ Ruya Gokhan                 | ING       | Track sponsor
 Babak Loni 					| ING 		| Track sponsor
 Mojtaba Farmanbar			| ING 		| Track sponsor
 Serge Veenman 				| ING 		| Track sponsor
+Paul Braakman				| ING       | Track sponsor
 [Asterios Katsifodimos]	    | TU Delft 	| Track leader
 [Georgios Gousios]		    | TU Delft 	| Track leader
 [Jan Rellermeyer]			| TU Delft 	| Track leader
