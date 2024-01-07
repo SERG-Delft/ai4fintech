@@ -40,12 +40,12 @@ Paul Braakman				| ING       | Track sponsor
 [Diomidis Spinellis]		| TU Delft  | Track leader
 Kevin Anderson			    | ING 		| Researcher
 Floris den Hengst 			| ING and VU | PhD candidate
+Eileen Kapel            	| ING, TU Delft | PhD candidate
 Sara Salimzadeh 			| TU Delft 	| PhD candidate
 George Siachamis 			| TU Delft 	| PhD candidate
 Leonhard Applis         	| TU Delft  | PhD candidate
 Lorena Poenaru-Olaru 	    | TU Delft  | PhD candidate
 Patrick Altmeyer        	| TU Delft  | PhD candidate
-Eileen Kapel            	| TU Delft  | PhD candidate
 Hennie Huijgens				| TU Delft, ING | Lab initiator
 Mieke Nan					| ING 		| Lab initiator
 
