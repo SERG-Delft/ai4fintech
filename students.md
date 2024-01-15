@@ -21,6 +21,8 @@ If you study at a different university and you would like to write a research ma
 For general inquiries, please contact [Luís Cruz].
 
 
+<!--
+
 ## Current students
 
 Name | Period | Role | Topic | Advisors
@@ -30,6 +32,8 @@ Name | Period | Role | Topic | Advisors
 {{student.name}}     | {{student.status}} | {{student.level}} | {{student.topic}} | {{student.supervision}}
 {% endunless -%}
 {%- endfor %}
+
+-->
 
 <br/>
 
