@@ -1,3 +1,34 @@
+- title: Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques
+  authors:
+    - Lorena Poenaru-Olaru
+    - June Sallou
+    - Luís Cruz
+    - Jan Rellermeyer
+    - Arie van Deursen
+  venue: IEEE/ACM 7th International Workshop on Green And Sustainable Software, GREENS 2023
+  preprint: https://research.tudelft.nl/en/publications/retrain-ai-systems-responsibly-use-sustainable-concept-drift-adap
+  year: 2023
+
+- title: Maintaining and Monitoring AIOps Models Against Concept Drift
+  authors:
+    - Lorena Poenaru-Olaru
+    - Luís Cruz
+    - Jan Rellermeyer
+    - Arie van Deursen
+  venue: IEEE/ACM 2nd International Conference on AI Engineering - Software Engineering for AI, CAIN 2023
+  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/155974222/Maintaining_and_Monitoring_AIOps_Models_Against_Concept_Drift.pdf
+  year: 2023
+
+- title: Are Concept Drift Detectors Reliable Alarming Systems? A Comparative Study
+  authors:
+    - Lorena Poenaru-Olaru
+    - Luís Cruz
+    - Arie van Deursen
+    - Jan Rellermeyer
+  venue: IEEE International Conference on Big Data
+  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/146970534/Are_Concept_Drift_Detectors_Reliable_Alarming_Systems_A_Comparative_Study.pdf
+  year: 2022
+
 - title: Reinforcement Learning with Option Machines
   authors:
     - Floris den Hengst
