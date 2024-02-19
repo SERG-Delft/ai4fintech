@@ -108,6 +108,15 @@
   preprint: https://pure.tudelft.nl/ws/portalfiles/portal/146970534/Are_Concept_Drift_Detectors_Reliable_Alarming_Systems_A_Comparative_Study.pdf
   year: 2022
 
+- title: Explaining Black-Box Models through Counterfactuals
+  authors:
+    - Patrick Altmeyer
+    - Arie van Deursen
+    - Cynthia CS Liem
+  venue: Proceedings of JuliaCon
+  preprint: https://juliacon.github.io/proceedings-papers/jcon.00130/10.21105.jcon.00130.pdf
+  year: 2022
+  
 - title: Reinforcement Learning with Option Machines
   authors:
     - Floris den Hengst
