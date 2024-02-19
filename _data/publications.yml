@@ -18,6 +18,78 @@
   venue: IEEE/ACM 2nd International Conference on AI Engineering - Software Engineering for AI, CAIN 2023
   preprint: https://pure.tudelft.nl/ws/portalfiles/portal/155974222/Maintaining_and_Monitoring_AIOps_Models_Against_Concept_Drift.pdf
   year: 2023
+  
+- title: Endogenous Macrodynamics in Algorithmic Recourse
+  authors:
+    - Patrick Altmeyer
+    - Giovan Angela
+    - Aleksander Buszydlik
+    - Karol Dobiczek
+    - Arie van Deursen
+    - Cynthia CS Liem
+  venue: 2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
+  preprint: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10136130
+  year: 2023
+  
+- title: "A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making"
+  authors:
+    - Sara Salimzadeh
+    - Gaole He
+    - Ujwal Gadiraju
+  venue: Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization
+  preprint: https://dl.acm.org/doi/pdf/10.1145/3565472.3592959
+  year: 2023
+
+- title: "Towards Evaluating Stream Processing Autoscalers"
+  authors:
+    - George Siachamis
+    - Job Kanis
+    - Wybe Koper
+    - Kyriakos Psarakis
+    - Marios Fragkoulis
+    - Arie van Deursen
+    - Asterios Katsifodimos
+  venue: 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW)
+  year: 2023
+
+- title: "Adaptive distributed streaming similarity joins"
+  authors:
+    - George Siachamis
+    - Kyriakos Psarakis
+    - Marios Fragkoulis
+    - Odysseas Papapetrou
+    - Arie Van Deursen
+    - Asterios Katsifodimos
+  venue: Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems
+  preprint: https://dl.acm.org/doi/pdf/10.1145/3583678.3596891
+  year: 2023
+
+- title: "Log parsing evaluation in the era of modern software systems"
+  authors:
+    - Stefan Petrescu
+    - Floris Den Hengst
+    - Alexandru Uta
+    - Jan S Rellermeyer
+  venue: 2023 IEEE 34th International Symposium on Software Reliability Engineering (ISSRE)
+  preprint: https://research.vu.nl/ws/portalfiles/portal/249056361/2308.09003v1.pdf
+  year: 2023
+
+- title: "Searching for Quality: Genetic Algorithms and Metamorphic Testing for Software Engineering ML"
+  authors:
+    - Leonhard Applis
+    - Annibale Panichella
+    - Ruben Marang
+  venue: Proceedings of the Genetic and Evolutionary Computation Conference
+  preprint: https://dl.acm.org/doi/pdf/10.1145/3583131.3590379
+  year: 2023
+
+- title: "HasBugs-Handpicked Haskell Bugs"
+  authors:
+    - Leonhard Applis
+    - Annibale Panichella
+  venue: 2023 IEEE/ACM 20th International Conference on Mining Software Repositories (MSR)
+  preprint: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10174017
+  year: 2023
 
 - title: Are Concept Drift Detectors Reliable Alarming Systems? A Comparative Study
   authors:
