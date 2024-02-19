@@ -18,6 +18,13 @@
   venue: IEEE/ACM 2nd International Conference on AI Engineering - Software Engineering for AI, CAIN 2023
   preprint: https://pure.tudelft.nl/ws/portalfiles/portal/155974222/Maintaining_and_Monitoring_AIOps_Models_Against_Concept_Drift.pdf
   year: 2023
+
+- title: Incident Prevention Through Reliable Changes Deployment
+  authors:
+    - Eileen Kapel
+  venue: "IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)"
+  preprint: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172492&casa_token=jzbFaiICN-oAAAAA:CDEGeff4zOtQaJPpRVT6icpAruOEHaQgWX6jdsoh9yjiQ2RBaMzOyXFUMzKZWhT5AhJXWY2E&tag=1
+  year: 2023
   
 - title: Endogenous Macrodynamics in Algorithmic Recourse
   authors:
