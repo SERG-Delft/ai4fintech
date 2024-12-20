@@ -35,7 +35,7 @@ All publications of the AI for Fintech Research are available in (green) open ac
     [Preprint]({{publication.preprint}}).
   {%- endif -%}
   {%- if publication.doi %}
-    [DOI](https://doi.org/{{publication.doi}}).
+    [DOI:&nbsp;{{publication.doi}}](https://doi.org/{{publication.doi}}).
   {%- endif -%}
   {%- if publication.arxiv %}
     [Arxiv preprint]({{publication.arxiv}}).
@@ -51,6 +51,9 @@ All publications of the AI for Fintech Research are available in (green) open ac
   {%- endif -%}
   {%- if publication.video %}
     [Video]({{publication.video}}).
+  {%- endif -%}
+  {%- if publication.thesis %}
+    [Link to thesis]({{publication.thesis}}).
   {%- endif -%}
 {% endfor %}
 

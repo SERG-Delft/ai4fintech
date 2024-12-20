@@ -14,6 +14,8 @@ The research methods used in this track will include statistical analysis of dev
 
 ### Selected publications:
 
+- Elvan Kula, Arie van Deursen, Georgios Gousios. Context-Aware Automated Sprint Plan Generation for Agile Software Development. Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering. 2024. 🏆 ACM SIGSOFT Distinguished Paper Award. DOI: [10.1145/3691620.3695540](doi.org/Elvan Kula, Arie van Deursen, Georgios Gousios).
+
 - Elvan Kula, Eric Greuter, Arie van Deursen, Georgios Gousios:
 Dynamic Prediction of Delays in Software Projects Using Delay Patterns and Bayesian Modeling. FSE 2023 ([preprint](https://arxiv.org/abs/2309.12449)).
 

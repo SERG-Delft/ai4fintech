@@ -1,3 +1,32 @@
+- date: 2024-12-03
+  # url: https://nmclive.tudelft.nl/mediasite/play/9ba8b63eab584999bb2ffb7431d864771d
+  url: https://resolver.tudelft.nl/uuid:8eddbb29-47d2-4344-8b93-aef440c1628a
+  title: "Doctoral Defense - Living in the Age of AI: Understanding Contextual Factors that Shape Human-AI Decision-Making"
+  speaker: Sara Salimzadeh
+  start: 12:00
+  end: 15:00
+
+- date: 2024-11-26
+  url: https://www.tudelft.nl/en/evenementen/2024/tu-delft/11-nov/defence/doctoral-defence-g-siachamis
+  start: 12:30
+  end: 15:00
+  title: "Doctoral Defense - Adaptivity for Streaming Dataflow Engines"
+  speaker: George Siachamis
+  
+- date: 2024-10-29
+  url: "https://www.tudelft.nl/en/evenementen/2024/tu-delft/doctoral-defence-lh-applis"
+  start: 15:00
+  end: 17:00
+  title: "Doctoral Defense - Tool-Driven Quality Assurance For Functional Programming And Machine Learning"
+  speaker: Leonhard Applis
+
+- date: 2024-04-25
+  start: 16:00
+  end: 18:00
+  url: "https://www.icai.ai/event/spotlight-ai-for-fintech-research-lab"
+  title: "Spotlight: AI for FinTech Research Lab"
+  speaker: Eileen Kapel, Sara Salimzadeh, Lorena Poenaru-Olaru, Arie van Deursen, Luís Cruz
+
 - date: 2022-01-24
   start: 9h00
   end: 17h00

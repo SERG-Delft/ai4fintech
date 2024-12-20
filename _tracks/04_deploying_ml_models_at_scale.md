@@ -14,6 +14,8 @@ In this track we will seek to address such challenges at ING scale.
 
 ## Selected publications
 
+- Lorena Poenaru-Olaru, Natalia Karpova, Luis Cruz, Jan S Rellermeyer, Arie van Deursen. Is Your Anomaly Detector Ready for Change? Adapting AIOps Solutions to the Real World. Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI (CAIN), 2024. [Preprint](https://arxiv.org/pdf/2311.10421).
+
 - Lorena Poenaru-Olaru, Luis Cruz, Jan S. Rellermeyer, Arie van Deursen: Maintaining and Monitoring AIOps Models Against Concept Drift. CAIN 2023: 98-99
 
 - Arumoy Shome, Luís Cruz, Arie van Deursen: Towards Understanding Machine Learning Testing in Practise. CAIN 2023: 117-118

@@ -14,6 +14,8 @@ In this track, we approach trustworthy and explainable artificial intelligence f
 
 ## Selected Publications
 
+- Patrick Altmeyer, Mojtaba Farmanbar, Arie van Deursen, Cynthia CS Liem. Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. [Preprint](https://arxiv.org/pdf/2312.10648).
+
 - Patrick Altmeyer, Arie van Deursen, Cynthia C. S. Liem. Explaining Black-Box Models through Counterfactuals. JuliaCon Proceedings, 1(1), 130, 2023 ([preprint](https://doi.org/10.21105/jcon.00130)).
 
 - Endogenous Macrodynamics in Algorithmic Recourse. P Altmeyer, G Angela, A Buszydlik, K Dobiczek, A van Deursen, Cynthia S. Liem. IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 418-431, 2023 ([preprint](https://openreview.net/pdf?id=-LFT2YicI9v))

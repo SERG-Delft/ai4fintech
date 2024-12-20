@@ -5,9 +5,7 @@ title: events
 
 # Events
 
-Within AFR, events are regularly organized, including a weekly team meeting at Cumulus Park, as well as frequent meet-ups.
-
-Subscribe to our calendar: https://se.ewi.tudelft.nl/ai4fintech/AFR_calendar.ics
+Within AFR, events are regularly organized, including a weekly team meeting at ING, as well as frequent meet-ups.
 
 | When&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  Title           | Speaker           |
 | --------------- | --------------- | ----------------- |

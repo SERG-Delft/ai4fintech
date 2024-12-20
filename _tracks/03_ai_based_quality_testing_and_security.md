@@ -15,7 +15,11 @@ A well known research tool that reflects the state of the art is `evosuite.org`,
 In the context of AFR, search-based testing techniques offer unique opportunities to further advance automated testing approaches within ING.
 In particular, in this track we seek to lift search-based test generation techniques from the unit to the integration and system test levels. Furthermore, we will explore how search-based techniques can be used for the purpose of _security_ testing, bringing more intelligence, for example, to the current state of the art in fuzzing and penetration testing.
 
+🔔 **News:** Leonhard Applis has successfully defended his doctoral thesis in October 2024. Congratulations, Leonhard!
+
 ## Selected publications
+
+- Leonhard Applis. Tool-Driven Quality Assurance For Functional Programming And Machine Learning. 2024. Doctoral Thesis. [Link to thesis](https://resolver.tudelft.nl/uuid:4d048249-e59d-4a82-9e11-714b2b25163f).
 
 - Leonhard Applis, Ruben Marang, Annibale Panichella (2023). Searching for Quality: Genetic Algorithms and Metamorphic Testing for Software Engineering ML. The Genetic and Evolutionary Computation Conference (GECCO 2023) ([preprint](https://research.tudelft.nl/en/publications/searching-for-quality-genetic-algorithms-and-metamorphic-testing-)).
 

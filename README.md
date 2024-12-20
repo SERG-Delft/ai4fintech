@@ -24,19 +24,8 @@ bundle install
 
 bundle exec jekyll build --config _config.yml,_config_local.yml
 
-# Run jekyll as web server.
-# Automatically rebuilds after a file change
-bundle exec jekyll serve --livereload --config _config.yml,_config_local.yml
+# Run jekyll with Docker (recommended)
 ```
-
-#### Running with Docker
-
-You can use Docker to avoid installing Ruby and/or gems. More instructions
-[here](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)
-
-```shell
-export JEKYLL_VERSION=3.8.4
-
-# Build the web site
-docker run --rm -p4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll serve --livereload --config _config.yml,_config_local.yml
+docker build -t afr-site .
+docker run -p 4000:4000 -v $(pwd):/myapp -it afr-site
 ```

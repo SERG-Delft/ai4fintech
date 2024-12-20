@@ -1,0 +1,289 @@
+- track: Continuous Experimentation
+  name: Jurriaan den Toonder
+  level: MSc
+  topic: "S.C.A.L.E.: Scheduler for Carbon-Aware Load Execution in OpenShift at ING"
+  status: Graduated
+  supervision: Thomas Durieux
+  link: http://resolver.tudelft.nl/uuid:79406c06-ab43-4cba-9136-cb8243e891ed
+
+- track: Incident Management
+  name: J.L.F. Göbbels
+  level: MSc
+  topic: "Hawkes Processes in Large-Scale Service Systems"
+  status: Graduated (2023)
+  supervision: Luís Cruz, Floris den Hengst, Alexis Derumigny
+  link: https://resolver.tudelft.nl/uuid:1beb1ec6-c59d-478b-a60b-f2e146ff3f0d
+
+- track: Concept Drift and ML-Ops
+  name: Niels Bauman
+  level: MSc
+  topic: "Building a generalisable ML pipeline at ING"
+  status: Graduated (2022)
+  supervision: Luís Cruz, Arie van Deursen
+  link: https://resolver.tudelft.nl/uuid:35c850eb-1d03-4185-a8c5-4469b2112327
+
+- track: Concept Drift and ML-Ops
+  name: H. Zhang
+  level: MSc
+  topic: "Automated Detection of Code Smells for Machine Learning Applications"
+  status: Graduated (2022)
+  supervision: Luís Cruz
+  link: https://resolver.tudelft.nl/uuid:bd2b288e-08f9-4200-92c8-ee48bfff9408
+
+- track: Incident Management
+  name: C. Chuang
+  level: MSc
+  topic: "How to remove dependencies from large software projects with confidence"
+  status: Graduated (2023)
+  supervision: Luís Cruz, Robbert van Dalen, Vladimir Mikovsk
+  link: https://resolver.tudelft.nl/uuid:b2985d05-8663-4247-9678-ee8b5bba12ad
+
+- track: Incident Management
+  name: N.E. Hullegien
+  level: MSc
+  topic: "Detecting anti-patterns in a MSA using distributed tracing"
+  status: Graduated (2022)
+  supervision: Luís Cruz, Pieter Vallen, Kevin van der Vlist, Jonck van der Koge
+  link: https://resolver.tudelft.nl/uuid:4586d8eb-ee5a-44f5-95be-a8ae36e22c62
+
+- track: Concept Drift and ML-Ops
+  name: N. van der Plas
+  level: MSc
+  topic: "Detecting PII in Git commits"
+  status: Graduated (2022)
+  supervision: Luís Cruz, Luiz Oliveira, A. van Deursen 
+  link: https://resolver.tudelft.nl/uuid:fe195c17-ecf5-4811-a987-89f238a6802f
+
+
+- track: AI-based Quality & Testing
+  name: Leonhard Applis
+  level: PhD
+  topic: "CodeFix project, security vulnerability detection"
+  status: 2020-2024
+  supervision: Annibale Panichella, Arie van Deursen
+  link: null
+
+- track: Continuous Experimentation
+  name: Kevin Anderson
+  level: PhD
+  topic: Pitfalls in A/B testing
+  status: 2020-2024
+  supervision: null
+  link: null
+
+- track: Continuous Experimentation
+  name: Martijn Steenbergen
+  level: MSc
+  topic: "Reducing Human Error in Online Controlled Experiments"
+  status: Graduated
+  supervision: "Kevin Anderson, Arie van Deursen"
+  link: https://repository.tudelft.nl/islandora/object/uuid%3A2b3802d6-b0e6-4f2d-a5a6-f96198c6eb22
+- track: Continuous Experimentation
+  name: Ernst Mulders
+  level: MSc
+  topic: "Validating ING’s A/B testing platform"
+  status: Graduated
+  supervision: "Georgios Gousios, Hennie Huijgens"
+  link: https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education
+- track: Data Integration
+  name: Georgios Siachamis
+  level: PhD
+  topic: "Stream matching, bottleneck detection"
+  status: 2020-2024
+  supervision: null
+  link: null
+- track: Data Integration
+  name: Alex Boyko
+  level: MSc
+  topic: "Semantic linking for IT asset discovery"
+  status: Graduated (September 2021)
+  supervision: Floris den Hengst
+  link: null
+- track: Data Integration
+  name: Kanya Koesoemo
+  level: MSc
+  topic: "Streaming data applications"
+  status: Graduated (November 2021)
+  supervision: Asterios Katsifodimos
+  link: http://resolver.tudelft.nl/uuid:273adbff-ed2c-407c-b50d-22bbf7311dc1
+- track: Data Integration
+  name: Arthur Breurkes
+  level: MSc
+  topic: "Data profiling"
+  status: Graduated (May 2021)
+  supervision: Christoph Lofi
+  link: null
+- track: Data Integration
+  name: Kyriakos Psarakis
+  level: MSc
+  topic: "Holistic Schema Matching at Scale"
+  status: Graduated
+  supervision: "Christoph Lofi, Asterios Katsifodimos"
+  link: https://repository.tudelft.nl/islandora/object/uuid%3Af4ebeda3-6465-49da-813b-f1e6e0820c60
+- track: Data Integration
+  name: Andra-Denis Ionescu
+  level: MSc
+  topic: "Reproducing state-of-the-art schema matching algorithms"
+  status: Graduated (February 2020)
+  supervision: Christoph Lofi
+  link: http://resolver.tudelft.nl/uuid:9f8056e6-cfdf-4240-99e3-5f45947d1fa7
+- track: Natural Language Processing
+  name: Sara Salimzadeh
+  level: PhD
+  topic: "Text to SQL translation"
+  status: 2020-2024
+  supervision: Claudia Hoff
+  link: null
+- track: Natural Language Processing
+  name: Reinier Koops
+  level: MSc
+  topic: "Building Interactive Text-to-SQL Systems"
+  status: Graduated (May 2022)
+  supervision: "Sara Salimzadeh, Ujwal Gadiraju"
+  link: http://resolver.tudelft.nl/uuid:8ccc193c-35db-472f-a013-fe9aa87b44e7
+- track: ML Models at Scale
+  name: Lorena Poenaru-Olaru
+  level: PhD
+  topic: "Concept drift detection"
+  status: 2021-2024
+  supervision: Jan Rellermeyer
+  link: null
+
+- track: ML Models at Scale
+  name: Bart van Oort
+  level: MSc
+  topic: "Code smells in ML applications"
+  status: Graduated (October 2021)
+  supervision: "Luís Cruz, Maurício Aniche"
+  link: http://resolver.tudelft.nl/uuid:b20883f8-a921-487a-8a65-89374a1f3867
+- track: ML Models at Scale
+  name: Yuanhao Xie
+  level: MSc
+  topic: "AI Model Lifecycle Management: Systematic Mapping Study and Solution for AI Democratisation"
+  status: Graduated (November 2020)
+  supervision: "Luís Cruz, Jan Rellermeyer"
+  link: https://repository.tudelft.nl/islandora/object/uuid%3Ab1bf4324-a6ac-49d6-8ecb-ba4449b55d1f
+- track: ML Models at Scale
+  name: Mark Haakman
+  level: MSc
+  topic: "Studying the Machine Learning Lifecycle and Improving Code Quality of Machine Learning Applications"
+  status: Graduated (July 2020)
+  supervision: Luís Cruz
+  link: http://resolver.tudelft.nl/uuid:38ff4e9a-222a-4987-998c-ac9d87880907
+- track: ML Models at Scale
+  name: MyeongJung Park
+  level: MSc
+  topic: "A Monitoring System for Machine Learning Models in a Large-Scale Context"
+  status: Graduated (January 2020)
+  supervision: "Hennie Huijgens, Arie van Deursen"
+  link: http://resolver.tudelft.nl/uuid:42f9cb1d-18fa-4dd0-9436-39d4d202c2e3
+- track: Reinforcement Learning
+  name: Floris den Hengst
+  level: PhD
+  topic: "Safety-aware reinforcement learning"
+  status: 2017 - 2021
+  supervision: null
+  link: null
+- track: Serverless ML
+  name: Adil Akhter
+  level: PhD
+  topic: "CD4ML, Functional programming"
+  status: Start in January 2021
+  supervision: null
+  link: null
+- track: Serverless ML
+  name: Marlo Ploemen
+  level: MSc
+  topic: "Service versioning in Stateful FaaS"
+  status: Graduated (July 2021)
+  supervision: "Asterios Katsifodimos, Marios Fragkoulis"
+  link: http://resolver.tudelft.nl/uuid:33dd7402-b4fa-4646-84cb-118c39fa2eb4
+- track: Software Analytics
+  name: Elvan Kula
+  level: PhD
+  topic: "Delivery predictability, ML-based effort estimation"
+  status: 2019 - 2023
+  supervision: null
+  link: null
+- track: Software Analytics
+  name: Elvan Kula
+  level: MSc
+  topic: "Releasing Fast and Slow: Characterizing Rapid Releases in a Large Software-Driven Organization"
+  status: Graduated
+  supervision: Georgios Gousios
+  link: https://repository.tudelft.nl/islandora/object/uuid%3A9660c5a3-6ef8-4c6a-b5cf-3994b60d754b?collection=education
+- track: Software Analytics
+  name: Martijn van den Hoek
+  level: MSc
+  topic: "DevOps Metrics and KPIs"
+  status: Graduated (August 2020)
+  supervision: Sebastian Proksch
+  link: http://resolver.tudelft.nl/uuid:78393e53-bf86-41dd-8611-ad75c28265d6
+- track: Software Analytics
+  name: Pradyot Patil
+  level: MSc
+  topic: "Incident prediction, entropy of time series"
+  status: Graduated (March 2021)
+  supervision: "Elvan Kula, Georgios Gousios"
+  link: null
+- track: Software Analytics
+  name: Thomas Kolenbrander
+  level: MSc
+  topic: "Major incident detection"
+  status: Graduated (February 2021)
+  supervision: "Elvan Kula, Georgios Gousios"
+  link: null
+- track: Software Analytics
+  name: "Joaquin van Loon, Marius Birkhoff, Remco den Heijer"
+  level: BSc
+  topic: "ML-based story point estimation"
+  status: Finished
+  supervision: "Elvan Kula, Georgios Gousios"
+- track: Trustworthy AI
+  name: Manisha Sethia
+  level: MSc
+  topic: Fairness and accountability in ML
+  status: Graduated (September 2021)
+  supervision: "Agathe Balayn, Christoph Lofi"
+  link: "http://resolver.tudelft.nl/uuid:7b54c54e-10e3-49d8-82f3-e05c253fd07d"
+  
+- track: Trustworthy AI
+  name: Purvesh Baghele
+  level: MSc
+  topic: "Interpretability tools for ML models"
+  status: Graduated (August 2021)
+  supervision: Cynthia Liem
+  link: "http://resolver.tudelft.nl/uuid:762c5ee2-1094-4b67-9146-353d7c5ba6a4"
+
+- track: Software Analytics
+  name: Wim Spaargaren
+  level: MSc
+  topic: "Systematic literature reviews: A Case Study in FinTech and Automated Tool Support"
+  status: Graduated (May 2020)
+  supervision: Hennie Huigens, Arie van Deursen
+  link: "https://repository.tudelft.nl/islandora/object/uuid:10488220-f9dc-4888-bf67-15251fa3584e?collection=education"
+
+- track: Software Analytics
+  name: Ernst Mulders
+  level: MSc
+  topic: "Data Driven Decisions: Validating and Supporting a Continuous Experimentation Development Environment"
+  status: Graduated (December 2019)
+  supervision: Georgios Gousios, Hennie Huijgens
+  link: "https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education"
+
+- track: AI-based Quality & Testing
+  name: Ka-Wing Man
+  level: MSc
+  topic: Predicting software vulnerabilities with unsupervised learning techniques
+  status: Graduated (August 2020)
+  supervision: Sicco Verwer, Annibale Panichella
+  link: "https://repository.tudelft.nl/islandora/object/uuid%3A80c1b078-b8ca-4c29-b0ba-866fdc5f656b"
+
+- track: AI-based Quality & Testing
+  name: Dinesh Bissesar
+  level: MSc
+  topic: Predicting True Vulnerabilities from Static Analyzer Warnings in Industry
+  status: Graduated (December 2020)
+  supervision: Sicco Verwer, Annibale Panichella
+  link: "https://repository.tudelft.nl/islandora/object/uuid%3Aabfa9cc8-75ba-4dd0-84ed-3ce674445c0d"
+

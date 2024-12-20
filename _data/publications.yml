@@ -1,3 +1,113 @@
+- title: "Living in the Age of AI: Understanding Contextual Factors that Shape Human-AI Decision-Making"
+  authors:
+    - Sara Salimzadeh
+  journal: Doctoral Thesis
+  thesis: "https://resolver.tudelft.nl/uuid:8eddbb29-47d2-4344-8b93-aef440c1628a"
+  year: 2024
+
+- title: "Adaptivity for Streaming Dataflow Engines"
+  authors:
+    - George Siachamis
+  journal: Doctoral Thesis
+  thesis: "https://resolver.tudelft.nl/uuid:7d364f56-d84a-4cb0-84cb-4c317d275373"
+  year: 2024
+
+- title: "Tool-Driven Quality Assurance For Functional Programming And Machine Learning"
+  authors:
+    - Leonhard Applis
+  journal: Doctoral Thesis
+  thesis: "https://resolver.tudelft.nl/uuid:4d048249-e59d-4a82-9e11-714b2b25163f"
+  year: 2024
+
+- title: "Context-Aware Automated Sprint Plan Generation for Agile Software Development"
+  authors:
+    - Elvan Kula
+    - Arie van Deursen
+    - Georgios Gousios
+  venue: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering
+  doi: 10.1145/3691620.3695540
+  award: ACM SIGSOFT Distinguished Paper Award
+  year: 2024
+
+- title: Evaluating stream processing autoscalers
+  authors:
+    - George Siachamis
+    - George Christodoulou
+    - Kyriakos Psarakis
+    - Marios Fragkoulis
+    - Arie van Deursen
+    - Asterios Katsifodimos
+  venue: Proceedings of the 18th ACM International Conference on Distributed and Event-based Systems
+  preprint: "https://giorgoschristodoulou.github.io/George_Christodoulou_ESPA.pdf"
+  year: 2024
+    
+- title: "On the Difficulty of Identifying Incident-Inducing Changes"
+  authors:
+    - Eileen Kapel
+    - Luis Cruz
+    - Diomidis Spinellis
+    - Arie Van Deursen
+  venue: "Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
+  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/210936762/3639477.3639755.pdf
+  year: 2024
+
+- title: "Is Your Anomaly Detector Ready for Change? Adapting AIOps Solutions to the Real World"
+  authors:
+    - Lorena Poenaru-Olaru
+    - Natalia Karpova
+    - Luis Cruz
+    - Jan S Rellermeyer
+    - Arie van Deursen
+  venue: Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI
+  preprint: https://arxiv.org/pdf/2311.10421
+  year: 2024
+
+  
+- title: "Enhancing Incident Management: Insights from a Case Study at ING"
+  authors:
+    - Eileen Kapel
+    - Luís Cruz
+    - Diomidis Spinellis
+    - Arie Van Deursen
+  venue: "Proceedings of the 1st IEEE/ACM Workshop on Software Engineering Challenges in Financial Firms (FinanSE)"
+  year: 2024
+  doi: "10.1145/3643665.3648048"
+
+- title: "\"DecisionTime\": A Configurable Framework for Reproducible Human-AI Decision-Making Studies"
+  authors:
+    - Sara Salimzadeh
+    - Ujwal Gadiraju
+  venue: "Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization"
+  doi: "10.1145/3631700.3664885"
+  year: 2024
+
+- title: "When in Doubt! Understanding the Role of Task Characteristics on Peer Decision-Making with AI Assistance"
+  authors:
+    - Sara Salimzadeh
+    - Ujwal Gadiraju
+  venue: "Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization"
+  year: 2024
+  preprint: "https://pure.tudelft.nl/ws/portalfiles/portal/212873760/3627043.3659567.pdf"
+
+- title: "Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making"
+  authors:
+    - Sara Salimzadeh
+    - Gaole He
+    - Ujwal Gadiraju
+  venue: Proceedings of the CHI Conference on Human Factors in Computing Systems
+  year: 2024
+  preprint: "http://ujwalgadiraju.com/Publications/CHI2024a.pdf"
+  
+- title: Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals
+  authors:
+    - Patrick Altmeyer
+    - Mojtaba Farmanbar
+    - Arie van Deursen
+    - Cynthia CS Liem
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: 2024
+  preprint: "https://arxiv.org/pdf/2312.10648"
+
 - title: Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques
   authors:
     - Lorena Poenaru-Olaru
@@ -105,8 +215,28 @@
     - Arie van Deursen
     - Jan Rellermeyer
   venue: IEEE International Conference on Big Data
-  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/146970534/Are_Concept_Drift_Detectors_Reliable_Alarming_Systems_A_Comparative_Study.pdf
+  preprint: "https://pure.tudelft.nl/ws/portalfiles/portal/146970534/Are_Concept_Drift_Detectors_Reliable_Alarming_Systems_A_Comparative_Study.pdf"
   year: 2022
+
+- title: "Removing dependencies from large software projects: are you really sure?"
+  authors:
+    - Ching-Chi Chuang
+    - Luís Cruz
+    - Robbert Van Dalen
+    - Vladimir Mikovski
+    - Arie van Deursen
+  venue: "2022 IEEE 22nd International Working Conference on Source Code Analysis and Manipulation (SCAM)"
+  year: 2022
+  preprint: https://luiscruz.github.io/papers/chuang2022removing.pdf
+
+- title: Code smells for machine learning applications
+  authors:
+    - Haiyin Zhang
+    - Luís Cruz
+    - Arie van Deursen
+  venue: "Proceedings of the 1st international conference on AI engineering: software engineering for AI (CAIN)"
+  year: 2022
+  preprint: https://arxiv.org/pdf/2203.13746
 
 - title: Explaining Black-Box Models through Counterfactuals
   authors:
@@ -185,7 +315,7 @@
   venue: ESEC/FSE
   year: 2021
   doi: 10.1145/3468264.3473927
-  arxiv: https://arxiv.org/abs/2107.05396
+  preprint: https://arxiv.org/abs/2107.05396
 
 - title: AI Lifecycle Models Need to be Revised. An Exploratory Study in Fintech
   authors:
@@ -196,7 +326,7 @@
   journal: Empirical Software Engineering
   year: 2021.
   doi: 10.1007/s10664-021-09993-1
-  arxiv: https://arxiv.org/abs/2010.02716
+  preprint: https://arxiv.org/abs/2010.02716
 
 - title: "Valentine: Evaluating Matching Techniques for Dataset Discovery"
   authors:
@@ -221,7 +351,7 @@
   publisher: IEEE
   year: 2021
   doi: 10.1109/WAIN52551.2021.00011
-  arxiv: https://arxiv.org/abs/2103.04146
+  preprint: https://arxiv.org/abs/2103.04146
 
 - title: Systematic Mapping Study on the Machine Learning Lifecycle
   author: Yuanhao Xie, Luís Cruz, Petra Heck, Jan Rellermeyer
@@ -229,7 +359,7 @@
   publisher: IEEE
   year: 2021
   doi: 10.1109/WAIN52551.2021.00017
-  arxiv: https://arxiv.org/abs/2103.10248
+  preprint: https://arxiv.org/abs/2103.10248
 
 - title: "Reinforcement Learning for Personalization: A Systematic Literature Review"
   authors:
@@ -250,7 +380,7 @@
   year: 2019
   venue: IEEE/WIC/ACM International Conference on Web Intelligence (WI 2019)
   doi: 10.1145/3350546.3352501
-  arxiv: https://arxiv.org/pdf/1908.00286.pdf
+  preprint: https://arxiv.org/pdf/1908.00286.pdf
 
 - title: "Releasing Fast and Slow: An Exploratory Case Study at ING" 
   authors:
