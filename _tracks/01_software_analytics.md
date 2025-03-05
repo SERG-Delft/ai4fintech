@@ -2,17 +2,22 @@
 layout: track
 track-id: 1
 title: Software Analytics
-leader: Georgios Gousios
+leader: Georgios Gousios, Arie van Deursen
 phd: Elvan Kula
 ---
 
+
+<img src="../img/release-planning.png" alt="" width="100%" />
+
+
 The research area of software analytics seeks to leverage data collected from software engineering processes to improve the effectiveness and efficiency of these processes. Data collected for these purposes include issues, log data, source code repositories, epic descriptions, etc. Thanks to the abundance of data, it becomes increasingly viable to apply machine learning techniques (e.g., random forests, support vector machines, neural networks) to use historic development information to support current development activities.
 
-In the ING context, this is particularly relevant for the over 600 squads involved in software development. A key concern is epic predictability, which will be addressed within this track. Another area of interest is dependency management, between squads, software libraries used, and in the context of larger software ecosystems.
+In the ING context, this is particularly relevant for the over 600 teams involved in software development. A key concern is epic predictability and epic delay which are addressed within this track. The research has focused on delay factors, dynamic delay prediction, team dynamics, and automated sprint optimization. 
 
-The research methods used in this track will include statistical analysis of development (CDaaS) data, enriched with survey data collected from development teams. Outcomes will include prototype tools as well as guidelines on how to make the software development process itself data-driven.
 
 ### Selected publications:
+
+- Elvan Kula. Modeling Effort Estimation and Planning in Large-Scale Agile Software Development. PhD thesis, Delft University of Technology, April 2025.
 
 - Elvan Kula, Arie van Deursen, Georgios Gousios. Context-Aware Automated Sprint Plan Generation for Agile Software Development. Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering. 2024. 🏆 ACM SIGSOFT Distinguished Paper Award. DOI: [10.1145/3691620.3695540](doi.org/Elvan Kula, Arie van Deursen, Georgios Gousios).
 
@@ -34,6 +39,4 @@ Questions for data scientists in software engineering: a replication. ESEC/SIGSO
 Factors affecting cloud infra-service development lead times: a case study at ING. ICSE (SEIP) 2019: 233-242 ([preprint](https://research.tudelft.nl/en/publications/factors-affecting-cloud-infra-service-development-lead-times-a-ca)).
 
 - Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10 ([preprint](https://research.tudelft.nl/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success)).
-
-
 
