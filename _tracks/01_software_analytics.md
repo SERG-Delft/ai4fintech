@@ -17,9 +17,9 @@ In the ING context, this is particularly relevant for the over 600 teams involve
 
 ### Selected publications:
 
-- Elvan Kula. Modeling Effort Estimation and Planning in Large-Scale Agile Software Development. PhD thesis, Delft University of Technology, April 2025.
+- Elvan Kula. Modeling Effort Estimation and Planning in Large-Scale Agile Software Development. PhD thesis, Delft University of Technology, April 2025 ([pdf](https://doi.org/10.4233/uuid:bac03d30-f65e-49f9-9feb-aae8f67122b6)).
 
-- Elvan Kula, Arie van Deursen, Georgios Gousios. Context-Aware Automated Sprint Plan Generation for Agile Software Development. Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering. 2024. 🏆 ACM SIGSOFT Distinguished Paper Award. DOI: [10.1145/3691620.3695540](doi.org/Elvan Kula, Arie van Deursen, Georgios Gousios).
+- Elvan Kula, Arie van Deursen, Georgios Gousios. Context-Aware Automated Sprint Plan Generation for Agile Software Development. Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering. 2024. 🏆 ACM SIGSOFT Distinguished Paper Award. ([DOI](https://doi.org/10.1145/3691620.3695540)).
 
 - Elvan Kula, Eric Greuter, Arie van Deursen, Georgios Gousios:
 Dynamic Prediction of Delays in Software Projects Using Delay Patterns and Bayesian Modeling. FSE 2023 ([preprint](https://arxiv.org/abs/2309.12449)).
