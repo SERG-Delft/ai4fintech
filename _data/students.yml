@@ -71,20 +71,6 @@
   supervision: null
   link: null
 
-- track: Continuous Experimentation
-  name: Martijn Steenbergen
-  level: MSc
-  topic: "Reducing Human Error in Online Controlled Experiments"
-  status: Graduated
-  supervision: "Kevin Anderson, Arie van Deursen"
-  link: https://repository.tudelft.nl/islandora/object/uuid%3A2b3802d6-b0e6-4f2d-a5a6-f96198c6eb22
-- track: Continuous Experimentation
-  name: Ernst Mulders
-  level: MSc
-  topic: "Validating ING’s A/B testing platform"
-  status: Graduated
-  supervision: "Georgios Gousios, Hennie Huijgens"
-  link: https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education
 - track: Data Integration
   name: Georgios Siachamis
   level: PhD
@@ -120,6 +106,13 @@
   status: Graduated
   supervision: "Christoph Lofi, Asterios Katsifodimos"
   link: https://repository.tudelft.nl/islandora/object/uuid%3Af4ebeda3-6465-49da-813b-f1e6e0820c60
+- track: Continuous Experimentation
+  name: Martijn Steenbergen
+  level: MSc
+  topic: "Reducing Human Error in Online Controlled Experiments"
+  status: Graduated (2020)
+  supervision: "Kevin Anderson, Arie van Deursen"
+  link: https://repository.tudelft.nl/islandora/object/uuid%3A2b3802d6-b0e6-4f2d-a5a6-f96198c6eb22
 - track: Data Integration
   name: Andra-Denis Ionescu
   level: MSc
@@ -203,15 +196,8 @@
   level: PhD
   topic: "Delivery predictability, ML-based effort estimation"
   status: 2019 - 2023
-  supervision: null
+  supervision: Arie van Deursen, Georgios Gousios, Eric Greuter
   link: null
-- track: Software Analytics
-  name: Elvan Kula
-  level: MSc
-  topic: "Releasing Fast and Slow: Characterizing Rapid Releases in a Large Software-Driven Organization"
-  status: Graduated
-  supervision: Georgios Gousios
-  link: https://repository.tudelft.nl/islandora/object/uuid%3A9660c5a3-6ef8-4c6a-b5cf-3994b60d754b?collection=education
 - track: Software Analytics
   name: Martijn van den Hoek
   level: MSc
@@ -286,4 +272,18 @@
   status: Graduated (December 2020)
   supervision: Sicco Verwer, Annibale Panichella
   link: "https://repository.tudelft.nl/islandora/object/uuid%3Aabfa9cc8-75ba-4dd0-84ed-3ce674445c0d"
+- track: Continuous Experimentation
+  name: Ernst Mulders
+  level: MSc
+  topic: "Validating ING’s A/B testing platform"
+  status: Graduated
+  supervision: "Georgios Gousios, Hennie Huijgens"
+  link: https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education
 
+- track: Software Analytics
+  name: Elvan Kula
+  level: MSc
+  topic: "Releasing Fast and Slow: Characterizing Rapid Releases in a Large Software-Driven Organization"
+  status: Graduated
+  supervision: Georgios Gousios
+  link: https://repository.tudelft.nl/islandora/object/uuid%3A9660c5a3-6ef8-4c6a-b5cf-3994b60d754b?collection=education
