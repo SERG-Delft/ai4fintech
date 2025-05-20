@@ -15,7 +15,7 @@ This track relates to a risk management AIOps framework utilising real-world cha
 3. testing the generalisability of the framework for reducing the risk of change deployment in the context of ING.
 
 
-## Selected publications
+### Selected publications
 
 - On the Difficulty of Identifying Incident-Inducing Changes. Eileen Kapel, Luis Cruz, Diomidis Spinellis, Arie Van Deursen. Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2024. [Preprint](https://pure.tudelft.nl/ws/portalfiles/portal/210936762/3639477.3639755.pdf).
 
@@ -28,7 +28,7 @@ This track relates to a risk management AIOps framework utilising real-world cha
 - Ching-Chi Chuang, Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen:
 Removing dependencies from large software projects: are you really sure? SCAM 2022: 105-115 ([link](https://research.tudelft.nl/en/publications/removing-dependencies-from-large-software-projects-are-you-really)).
 
-## Other
+### Other Activities
 
 - MSc Thesis. Joshua Azimullah, supervised by Eileen Kapel, Marlo Ploemen, Niels Greep and Arie van Deursen
 - Research Project 2024/25. "What can we learn from incident reports?", supervised by Eileen Kapel and Diomidis Spinellis.
@@ -37,3 +37,4 @@ Removing dependencies from large software projects: are you really sure? SCAM 20
 - Talk. Eileen Kapel (2024). Lightning talk and Poster Presentation. [SEN Symposium 2024](https://www.sen-symposium.nl/history/2024/program/)
 - Talk. Eileen Kapel (2024) ''Incident Prevention Through Reliable Change Deployment''. [ICAI Spotlight: AI for Fintech Research Lab](https://www.icai.ai/event/spotlight-ai-for-fintech-research-lab)
 - Talk. Eileen Kapel and Jan Lennartz (2023). ''Enhancing Incident Prevention: Reliable Change-Incident Links and AI-Driven Risk assessment'' with . ING Bank's internal Data Science Community Conference (DSCC) 2023
+- MSc Thesis. Ching-Chi Chuang (2022). Supervised by Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen.
