@@ -28,3 +28,12 @@ This track relates to a risk management AIOps framework utilising real-world cha
 - Ching-Chi Chuang, Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen:
 Removing dependencies from large software projects: are you really sure? SCAM 2022: 105-115 ([link](https://research.tudelft.nl/en/publications/removing-dependencies-from-large-software-projects-are-you-really)).
 
+## Other
+
+- MSc Thesis. Joshua Azimullah, supervised by Eileen Kapel, Marlo Ploemen, Niels Greep and Arie van Deursen
+- Research Project 2024/25. "What can we learn from incident reports?", supervised by Eileen Kapel and Diomidis Spinellis.
+- Talk. Eileen Kapel (2024). ''Incident Prevention Through Reliable Change Deployment'' [Delft FinTech Summit: Pioneering Finance by Collaboration and Learning](https://www.tudelft.nl/evenementen/2024/delft-ai/delft-fintech-summit-2024-pioneering-finance-by-collaboration-and-learning). 
+- Talk. Eileen Kapel (2022–24). ING's internal Reliability Event 2024, 2023 and 2022
+- Talk. Eileen Kapel (2024). Lightning talk and Poster Presentation. [SEN Symposium 2024](https://www.sen-symposium.nl/history/2024/program/)
+- Talk. Eileen Kapel (2024) ''Incident Prevention Through Reliable Change Deployment''. [ICAI Spotlight: AI for Fintech Research Lab](https://www.icai.ai/event/spotlight-ai-for-fintech-research-lab)
+- Talk. Eileen Kapel and Jan Lennartz (2023). ''Enhancing Incident Prevention: Reliable Change-Incident Links and AI-Driven Risk assessment'' with . ING Bank's internal Data Science Community Conference (DSCC) 2023
