@@ -14,7 +14,11 @@ In this track we will seek to address such challenges at ING scale.
 
 ## Selected publications
 
+- Lorena Poenaru-Olaru, June Sallou, Luís Cruz, Jan Rellermeyer, Arie van Deursen (2025). Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy. ICT4S
+
 - Lorena Poenaru-Olaru, Natalia Karpova, Luis Cruz, Jan S Rellermeyer, Arie van Deursen. Is Your Anomaly Detector Ready for Change? Adapting AIOps Solutions to the Real World. Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI (CAIN), 2024. [Preprint](https://arxiv.org/pdf/2311.10421).
+
+- Jurriaan Den Toonder, Paul Braakman, Thomas Durieux. S.C.A.L.E: A CO2-Aware Scheduler for OpenShift at ING. FSE 2024: Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering. [Open Access](https://dl-acm-org.tudelft.idm.oclc.org/doi/10.1145/3663529.3663862)
 
 - Lorena Poenaru-Olaru, Luis Cruz, Jan S. Rellermeyer, Arie van Deursen: Maintaining and Monitoring AIOps Models Against Concept Drift. CAIN 2023: 98-99
 
@@ -39,3 +43,4 @@ In this track we will seek to address such challenges at ING scale.
 - Yuanhao Xie, Luis Cruz, Petra Heck, Jan S. Rellermeyer: Systematic Mapping Study on the Machine Learning Lifecycle. WAIN@ICSE 2021: 70-73
 
 - Mark Haakman, Luis Cruz, Hennie Huijgens, Arie van Deursen: AI lifecycle models need to be revised. Empir. Softw. Eng. 26(5): 95 (2021) [arxiv.org/abs/2010.02716](https://arxiv.org/abs/2010.02716).
+
