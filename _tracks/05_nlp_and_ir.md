@@ -31,3 +31,7 @@ The route explored in the context of AFR is to use NLP to distill the requiremen
 - Sara Salimzadeh, Ujwal Gadiraju, Claudia Hauff, Arie van Deursen: Exploring the Feasibility of Crowd-Powered Decomposition of Complex User Questions in Text-to-SQL Tasks. HT 2022: 154-165 ([preprint](https://research.tudelft.nl/en/publications/exploring-the-feasibility-of-crowd-powered-decomposition-of-compl))
 
 - Sara Salimzadeh, David Maxwell, Claudia Hauff: The Impact of Entity Cards on Learning-Oriented Search Tasks. ICTIR 2021: 63-72 ([preprint](https://research.tudelft.nl/en/publications/the-impact-of-entity-cards-on-learning-oriented-search-tasks)).
+
+### Other Activities
+
+- **Award.** Sara Salimzadeh (2021) 🏆 Honorable Mention for Best Student Paper. International Conference on Theory of Information Retrieval (ICTIR)
