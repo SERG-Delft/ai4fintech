@@ -31,7 +31,7 @@ In this track, we approach trustworthy and explainable artificial intelligence f
 -	**Award.** Patrick Altmeyer (2023). 2nd prize in Pluto Notebook Competition, JuliaCon2023.
 -	**Award.** Patrick Altmeyer (2023). 1st Prize Winner at ING Experiment Week 2023.
 -	**Toolset.** Trustworthy Artificial Intelligence in Julia (Taija). This track has resulted into a number of packages in Julia, available at <https://www.taija.org>.
--	**Tool.** Patrick Altmeyer et al. (2023–). ConformalPrediction. https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl (Note: over 100 stars on Github)
--	**Tool.** Patrick Altmeyer et al. (2023–). CounterfactualExplanations. https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl (Note: 100+ stars and 10+ contributors on Github)
--	**Talk.** Patrick Altmeyer (2024). Multiple talks at JuliaCon 2024. https://pretalx.com/juliacon2024/speaker/8DGYCX/
+-	**Tool.** Patrick Altmeyer et al. (2023–). ConformalPrediction. <https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl> (Note: over 100 stars on Github)
+-	**Tool.** Patrick Altmeyer et al. (2023–). CounterfactualExplanations. <https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl> (Note: 100+ stars and 10+ contributors on Github)
+-	**Talk.** Patrick Altmeyer (2024). Multiple talks at JuliaCon 2024. <https://pretalx.com/juliacon2024/speaker/8DGYCX/>
 

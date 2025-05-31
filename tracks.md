@@ -14,7 +14,7 @@ Given this FinTech context, all tracks have three overarching themes in common:
 
 These themes recur in each of the tracks, yet in different proportions, with some tracks having a strong focus on the software side, and others a stronger focus on the data human side.
 
-The current tracks are:
+The AFR tracks are listed in the table.
 
 | Track  | PhD Candidate |
 |--------|---------------|

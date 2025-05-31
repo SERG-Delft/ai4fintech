@@ -2,7 +2,7 @@
 layout: track
 track-id: 5
 title: Human-AI Decision Making
-leader: Ujwali Gadiraju
+leader: Ujwal Gadiraju
 phd: Sara Salimzadeh
 ---
 
