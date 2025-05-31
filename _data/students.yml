@@ -1,9 +1,16 @@
+- track: AI-based Quality & Testing
+  name: Joshua Azimullah
+  level: MSc
+  topic: "Rest-ING: LLM-Based testing of RESTful APIs"
+  status: Graduated (2025)
+  supervision: Arie van Deursen, Eileen Kapel, Marlo Ploemen
+
 - track: Continuous Experimentation
   name: Jurriaan den Toonder
   level: MSc
   topic: "S.C.A.L.E.: Scheduler for Carbon-Aware Load Execution in OpenShift at ING"
   status: Graduated
-  supervision: Thomas Durieux
+  supervision: Thomas Durieux, Paul Braakman
   link: http://resolver.tudelft.nl/uuid:79406c06-ab43-4cba-9136-cb8243e891ed
 
 - track: Incident Management
@@ -90,7 +97,7 @@
   level: MSc
   topic: "Streaming data applications"
   status: Graduated (November 2021)
-  supervision: Asterios Katsifodimos
+  supervision: Asterios Katsifodimos, Jerry Brons
   link: http://resolver.tudelft.nl/uuid:273adbff-ed2c-407c-b50d-22bbf7311dc1
 - track: Data Integration
   name: Arthur Breurkes
@@ -100,7 +107,7 @@
   supervision: Christoph Lofi
   link: null
 - track: Data Integration
-  name: Kyriakos Psarakis
+  name: Kyriakos Psarakis, Jerry Brons
   level: MSc
   topic: "Holistic Schema Matching at Scale"
   status: Graduated

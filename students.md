@@ -18,7 +18,7 @@ For all projects, it is required to spend at least 4 days per week at the ING Cu
 
 If you study at a different university and you would like to write a research master thesis in the context of one of the AFR tracks, you should ask your university supervisor to contact us. We have limited places available, but are always interested in new research opportunities.
 
-For general inquiries, please contact [Luís Cruz].
+For general inquiries, please contact [Arie van Deursen].
 
 
 <!--
@@ -51,3 +51,4 @@ Name | Period | Role | Thesis       | Advisors
 
 
 [Luís Cruz]: https://luiscruz.github.io
+[Arie van Deursen]: https://avandeursen.com/about
