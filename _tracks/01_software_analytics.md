@@ -10,8 +10,16 @@ phd: Elvan Kula
 
 The research area of software analytics seeks to leverage data collected from software engineering processes to improve the effectiveness and efficiency of these processes. Data collected for these purposes include issues, log data, source code repositories, epic descriptions, etc. Thanks to the abundance of data, it becomes increasingly viable to apply machine learning techniques (e.g., random forests, support vector machines, neural networks) to use historic development information to support current development activities.
 
-In the ING context, this is particularly relevant for the over 600 teams involved in software development. A key concern is epic predictability and epic delay which are addressed within this track. The research has focused on delay factors, dynamic delay prediction, team dynamics, and automated sprint optimization. 
+In the ING context, this is particularly relevant for the over 600 teams involved in software development. A key concern is epic predictability and epic delay which have been addressed within this track. 
+Results include 
 
+- The identification of _delay factors_ in epics;
+- A novel approach to predict epic delay _dynamically_;
+- A novel model of team dynamics to support the prediction of delays of user stories;
+- An new optimization-based approach to plan generation for agile teams.
+
+The results have been presented at top conferences and journals in the area of software engineering.
+All results have been developed on ING data directly, and have been shown to be effective in an ING context. The results are collectively described in the dissertation of PhD candidate Elvan Kula (defense date: April 2025).
 
 ### Selected publications:
 
@@ -38,3 +46,13 @@ Factors affecting cloud infra-service development lead times: a case study at IN
 
 - Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen: Software analytics in continuous delivery: a case study on success factors. ESEM 2018: 25:1-25:10 ([preprint](https://research.tudelft.nl/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success)).
 
+
+## Other Activities
+
+- Arie van Deursen. Explainable Fintech: A Trans-Disciplinary Perspective. Keynote address, F3C25, the FutureFintech Federated Conference, March, 2025, Luxembourg. Slides: <https://speakerdeck.com/avandeursen/explainable-fintech-a-transdisciplinary-perspective>
+
+- Arie van Deursen. Valuable Software Engineering. Keynote address, MODELS 2024, Linz, Austria. Slides: <https://speakerdeck.com/avandeursen/valuable-software-engineering>
+
+- Arie van Deursen. Explainable Software Engineering. Keynote address at Bit & Chips, October 2023, Eindhoven, The Netherlands. Slides: <https://speakerdeck.com/avandeursen/explainable-software-engineering>
+
+- Arie van Deursen. FinTech: A Fertile Ground for Software Engineering Research. Presentation at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), Luxembourg. June 2023.
