@@ -10,13 +10,22 @@ phd: George Siachamis
 ![](../img/stream-processing.png)
 
 The data integration track recognizes the importance of data for almost any application of artificial intelligence at ING.
-ING is a data-rich organization. Its data lake constitutes a federation of different data storage types. The relationships between the many different data sources evolve over time, and are hard to predict and manage.
+ING is a data-rich organization. Its data lake constitutes a federation of different data storage types. A plethora of applications exchange data streams. The relationships between the many different data sources evolve over time, and are hard to predict and manage.
 
 The goal of this track is to use semantics-based data matching to recognize such data relationships automatically. In particular, we apply machine learning for the purpose of meta-data matching, automated schema discovery, schema evolution, and schema alignment. The results can be used to support data engineers to make data integration decisions by means of dataset exploration, discovery, and integration recommendation.
 
 The context is the ING cloud infra-service platform, which continuously collects operational data from a large range of private cloud services operated by ING across layers.
 
-🔔 **News:** George Siachamis has successfully defended his doctoral thesis in November 2024. Congratulations, George!
+Research results include:
+
+- Valentine, a framework for matching tabular data at scale.
+- An adaptive distributed streaming solution for similarity joins. It employs a stream partitioning scheme that provides fine-grained partitions, which ensure the completeness of the results while reducing the number of unnecessary computations.
+- An open-source streaming dataflow testbed that allows for accurate and isolated comparison of different checkpointing protocols and can be easily extended to compare other stream processing mechanisms.
+- The first principled evaluation framework for stream processing autoscalers
+
+The results have been presented at top conferences and journals in the area of databases.
+The results are collectively described in the dissertation of PhD candidate George Siachamis (defense date: November 2024).
+
 
 ## Selected publications
 
@@ -35,7 +44,3 @@ The context is the ING cloud infra-service platform, which continuously collects
 1. Christos Koutras, Kyriakos Psarakis, George Siachamis, Andra Ionescu, Marios Fragkoulis, Angela Bonifati, Asterios Katsifodimos (2021), Valentine in Action: Matching Tabular Data at Scale, In Proceedings of the VLDB Endowment Volume 14 p.2871–2874 ([preprint](https://research.tudelft.nl/en/publications/valentine-in-action-matching-tabular-data-at-scale) and [dataset](https://delftdata.github.io/valentine/)).
 
 1. Christos Koutras, George Siachamis, Andra Ionescu, Kyriakos Psarakis, Jerry Brons, Marios Fragkoulis, Christoph Lofi, Angela Bonifati, Asterios Katsifodimos (2021), Valentine: Evaluating Matching Techniques for Dataset Discovery, In Proceedings - 2021 IEEE 37th International Conference on Data Engineering, ICDE 2021 p.468-479, IEEE ([preprint](https://research.tudelft.nl/en/publications/valentine-evaluating-matching-techniques-for-dataset-discovery) and [dataset](https://delftdata.github.io/valentine/)).
- 
-
-More publications listed in [Publications]({{"/publications" | relative_url}}).
-
