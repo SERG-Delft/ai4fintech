@@ -71,7 +71,18 @@
   preprint: https://arxiv.org/pdf/2311.10421
   year: 2024
 
-  
+- title: "CheckMate: Evaluating Checkpointing Protocols for Streaming Dataflows"
+  authors:
+    - Siachamis, G.
+    - Psarakis, K.
+    - Fragkoulis, M.
+    - Deursen, A. V.
+    - Carbone, P.
+    - Katsifodimos, A.
+  venue: "IEEE 40th International Conference on Data Engineering (ICDE)"
+  year: 2024
+  preprint: https://arxiv.org/pdf/2403.13629  
+
 - title: "Enhancing Incident Management: Insights from a Case Study at ING"
   authors:
     - Eileen Kapel
@@ -165,6 +176,16 @@
   venue: Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization
   preprint: https://dl.acm.org/doi/pdf/10.1145/3565472.3592959
   year: 2023
+
+- title: "Integrating Massive Data Streams"
+  authors:
+    - Siachamis, G.
+    - Houben, G. J. P. M.
+    - Deursen, A. V.
+    - Katsifodimos, A.
+  venue: "Proceedings of the VLDB 2021 PhD Workshop, CEUR-WS Volume 2971"
+  year: 2021
+  preprint: "https://research.tudelft.nl/en/publications/integrating-massive-data-streams"
 
 - title: "Towards Evaluating Stream Processing Autoscalers"
   authors:
@@ -374,6 +395,20 @@
   doi: 10.1109/ICDE51399.2021.00047
   dataset: https://zenodo.org/record/5084605
   source: https://github.com/delftdata/valentine
+
+- title: "Valentine in Action: Matching Tabular Data at Scale"
+  authors:
+    - Koutras, C.
+    - Psarakis, K.
+    - Siachamis, G.
+    - Ionescu, A.
+    - Fragkoulis, M.
+    - Bonifati, A.
+    - Katsifodimos, A.
+  venue: "Proceedings of the VLDB Endowment Volume 14"
+  pages: "2871–2874"
+  year: 2021
+  preprint: "https://research.tudelft.nl/en/publications/valentine-in-action-matching-tabular-data-at-scale"
 
 - title: The Prevalence of Code Smells in Machine Learning projects
   author: Bart van Oort, Luís Cruz, Maurício Aniche, Arie van Deursen

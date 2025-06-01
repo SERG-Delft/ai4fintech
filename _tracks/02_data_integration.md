@@ -1,11 +1,13 @@
 ---
 layout: track
 track-id: 2
-title: Data Integration
+title: Data Integration in Stream Processing
 leader: Asterios Katsifodimos
 phd: George Siachamis
 ---
 
+
+![](../img/stream-processing.png)
 
 The data integration track recognizes the importance of data for almost any application of artificial intelligence at ING.
 ING is a data-rich organization. Its data lake constitutes a federation of different data storage types. The relationships between the many different data sources evolve over time, and are hard to predict and manage.
