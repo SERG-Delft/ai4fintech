@@ -28,3 +28,9 @@ In particular, in this track we seek to lift search-based test generation techni
 - Matthías Páll Gissurarson, Leonhard Applis, Annibale Panichella, Arie van Deursen, David Sands (2022). PropR: Property-Based Automatic Program Repair. The 44th IEEE/ACM International Conference on Software Engineering (ICSE 2022)  ([preprint](https://research.tudelft.nl/en/publications/propr-property-based-automatic-program-repair)).
 
 - Leonhard Applis, Annibale Panichella, Arie van Deursen (2021). Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations. The 36th IEEE/ACM International Conference on Automated Software Engineering - New Ideas and Emerging Results (ASE-NIER 2021) ([preprint](https://research.tudelft.nl/en/publications/assessing-robustness-of-ml-based-program-analysis-tools-using-met)).
+
+## Other Activities
+
+-   **Talk.** Arie van Deursen. Explainable Software Engineering. Keynote address at Bit & Chips, October 2023, Eindhoven, The Netherlands. Slides: <https://speakerdeck.com/avandeursen/explainable-software-engineering>
+
+-   **Talk.** Arie van Deursen. FinTech: A Fertile Ground for Software Engineering Research. Presentation at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), Luxembourg. June 2023.

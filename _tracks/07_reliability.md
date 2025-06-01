@@ -32,6 +32,7 @@ Removing dependencies from large software projects: are you really sure? SCAM 20
 
 - **MSc Thesis.** Joshua Azimullah, supervised by Eileen Kapel, Marlo Ploemen, Niels Greep and Arie van Deursen
 - **Research Project 2024/25.** "What can we learn from incident reports?", supervised by Eileen Kapel and Diomidis Spinellis.
+- **Talk.** Arie van Deursen. Explainable Fintech: A Trans-Disciplinary Perspective. Keynote address, F3C25, the FutureFintech Federated Conference, March, 2025, Luxembourg. Slides: <https://speakerdeck.com/avandeursen/explainable-fintech-a-transdisciplinary-perspective>
 - **Talk.** Eileen Kapel (2024). ''Incident Prevention Through Reliable Change Deployment'' [Delft FinTech Summit: Pioneering Finance by Collaboration and Learning](https://www.tudelft.nl/evenementen/2024/delft-ai/delft-fintech-summit-2024-pioneering-finance-by-collaboration-and-learning). 
 - **Talk.** Eileen Kapel (2022–24). ING's internal Reliability Event 2024, 2023 and 2022
 - **Talk.** Eileen Kapel (2024). Lightning talk and Poster Presentation. [SEN Symposium 2024](https://www.sen-symposium.nl/history/2024/program/)

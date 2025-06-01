@@ -1,3 +1,13 @@
+- date: 2025-04-10
+  url: https://repository.tudelft.nl/record/uuid:bac03d30-f65e-49f9-9feb-aae8f67122b6
+  title: "Doctoral Defense - Modeling Effort Estimation and Planning in Large-Scale Agile Software Development"
+  speaker: Elvan Kula
+
+- date: 2025-03-13
+  url: https://speakerdeck.com/avandeursen/explainable-fintech-a-transdisciplinary-perspective
+  title: "Keynote: Explainable Fintech: A Trans-Disciplinary Perspective. Keynote address, F3C25, the FutureFintech Federated Conference, March, 2025, Luxembourg"
+  speaker: Arie van Deursen
+
 - date: 2024-12-03
   # url: https://nmclive.tudelft.nl/mediasite/play/9ba8b63eab584999bb2ffb7431d864771d
   url: https://resolver.tudelft.nl/uuid:8eddbb29-47d2-4344-8b93-aef440c1628a
@@ -20,12 +30,31 @@
   title: "Doctoral Defense - Tool-Driven Quality Assurance For Functional Programming And Machine Learning"
   speaker: Leonhard Applis
 
+- date: 2024-09-26
+  speaker: Arie van Deursen.
+  title: "Keynote: Valuable Software Engineering. Keynote address, MODELS 2024, Linz, Austria."
+  url: https://speakerdeck.com/avandeursen/valuable-software-engineering
+
+- date: 2024-06-26
+  speaker: AFR members
+  title: "Delft FinTech Summit 2024: Pioneering Finance by Collaboration and Learning"
+  url: https://www.tudelft.nl/evenementen/2024/delft-ai/delft-fintech-summit-2024-pioneering-finance-by-collaboration-and-learning
+
 - date: 2024-04-25
   start: 16:00
   end: 18:00
   url: "https://www.icai.ai/event/spotlight-ai-for-fintech-research-lab"
   title: "Spotlight: AI for FinTech Research Lab"
   speaker: Eileen Kapel, Sara Salimzadeh, Lorena Poenaru-Olaru, Arie van Deursen, Luís Cruz
+
+- date: 2023-10-04
+  speaker: Arie van Deursen. 
+  title: "Keynote: Explainable Software Engineering. Keynote address at Bit & Chips, October 2023, Eindhoven, The Netherlands."
+  url: "https://speakerdeck.com/avandeursen/explainable-software-engineering"
+
+- date: 2023-06-29
+  speaker: Arie van Deursen. 
+  title: "FinTech: A Fertile Ground for Software Engineering Research. Presentation at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), Luxembourg. June 2023."
 
 - date: 2022-01-24
   start: 9h00

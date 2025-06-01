@@ -34,4 +34,6 @@ In this track, we approach trustworthy and explainable artificial intelligence f
 -	**Tool.** Patrick Altmeyer et al. (2023–). ConformalPrediction. <https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl> (Note: over 100 stars on Github)
 -	**Tool.** Patrick Altmeyer et al. (2023–). CounterfactualExplanations. <https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl> (Note: 100+ stars and 10+ contributors on Github)
 -	**Talk.** Patrick Altmeyer (2024). Multiple talks at JuliaCon 2024. <https://pretalx.com/juliacon2024/speaker/8DGYCX/>
+-   **Talk.** Arie van Deursen. Explainable Software Engineering. Keynote address at Bit & Chips, October 2023, Eindhoven, The Netherlands. Slides: <https://speakerdeck.com/avandeursen/explainable-software-engineering>
+-   **Talk.** Arie van Deursen. FinTech: A Fertile Ground for Software Engineering Research. Presentation at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), Luxembourg. June 2023.
 
