@@ -1,3 +1,12 @@
+- title: Modeling Effort Estimation and Planning in Large-Scale Agile Software Development
+  authors:
+    - Elvan Kula
+  venue: Delft University of Technology
+  year: 2025
+  type: PhD thesis
+  month: April
+  preprint: https://doi.org/10.4233/uuid:bac03d30-f65e-49f9-9feb-aae8f67122b6
+
 - title: "Living in the Age of AI: Understanding Contextual Factors that Shape Human-AI Decision-Making"
   authors:
     - Sara Salimzadeh
@@ -208,6 +217,27 @@
   preprint: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10174017
   year: 2023
 
+- title: Dynamic Prediction of Delays in Software Projects Using Delay Patterns and Bayesian Modeling
+  authors:
+    - Kula, E.
+    - Greuter, E.
+    - van Deursen, A.
+    - Gousios, G.
+  venue: Proceedings of the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)
+  publisher: ACM
+  year: 2023
+  preprint: https://arxiv.org/abs/2309.12449
+
+- title: Factors Affecting On-Time Delivery in Large-Scale Agile Software Development
+  authors:
+    - Kula, E.
+    - Greuter, E.
+    - van Deursen, A. 
+    - Gousios, G.
+  venue: "IEEE Transactions on Software Engineering 48(9): 3573–3592"
+  year: 2022
+  preprint: https://doi.org/10.1109/TSE.2021.3101192
+
 - title: Are Concept Drift Detectors Reliable Alarming Systems? A Comparative Study
   authors:
     - Lorena Poenaru-Olaru
@@ -371,6 +401,18 @@
   year: 2020
   doi: 10.3233/DS-200028
 
+- title: "Questions for Data Scientists in Software Engineering: A Replication"
+  authors:
+    - Huijgens, H.
+    - Rastogi, A.
+    - Mulders, E.
+    - Gousios, G.
+    - Deursen, A. V.
+  venue: "ESEC/SIGSOFT FSE 2020: 568–579"
+  year: 2020
+  preprint: https://research.tudelft.nl/en/publications/questions-for-data-scientists-in-software-engineering-a-replicati
+
+
 - title: Reinforcement Learning for Personalized Dialogue Management
   authors:
     - den Hengst, Floris
@@ -419,7 +461,12 @@
   doi: 10.14778/3352063.3352092
   
 - title: "Software Analytics in Continuous Delivery: A Case Study on Success Factors"
-  author: Huijgens, H., Spadini, D., Stevens, D., Visser, N., & van Deursen, A
+  author: 
+    - Huijgens, H., 
+    - Spadini, D., 
+    - Stevens, D., 
+    - Visser, N., 
+    - van Deursen, A
   journal: "ESEM' 18: Proceedings of the 12th International Symposium on Empirical Software Engineering and Measurement"
   year: 2018
   doi: 10.1145/3239235.3240505

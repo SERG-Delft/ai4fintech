@@ -16,7 +16,7 @@ In this track, we approach trustworthy and explainable artificial intelligence f
 
 - Patrick Altmeyer, Mojtaba Farmanbar, Arie van Deursen, Cynthia CS Liem. Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. [Preprint](https://arxiv.org/pdf/2312.10648).
 
-- Floris Hengst, Ralf Wolter, Patrick Altmeyer, Arda Kaygan. Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition. Findings of the Association for Computational Linguistics: NAACL 2024. [Publication](https://aclanthology.org/2024.findings-naacl.156/)
+- Floris den Hengst, Ralf Wolter, Patrick Altmeyer, Arda Kaygan. Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition. Findings of the Association for Computational Linguistics: NAACL 2024. [Publication](https://aclanthology.org/2024.findings-naacl.156/)
 
 - Patrick Altmeyer, Andrew M. Demetriou, Antony Bartlett, Cynthia C. S. Liem. Position: Stop Making Unscientific AGI Performance Claims. Proceedings of the 41st International Conference on Machine Learning. [Preprint](https://arxiv.org/pdf/2402.03962)
 

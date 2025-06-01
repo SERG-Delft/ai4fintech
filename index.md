@@ -10,7 +10,7 @@ AFR was launched in 2020.
 
 With 36 million customers, activities in 42 countries, and a total of 50,000 employees of which 15,000 work in IT, software and data technology is at the heart of ING’s business and operations. In this context, AFR seeks to develop new AI-driven theories, methods, and tools in large scale data and software analytics.
 
-The core of the AFR consists of eight [research tracks](tracks.html), in which PhD students work on a range of topics, such as software analytics, data integration, fairness in machine learning, model life cycle management, regulatory compliance, search-based software engineering, and concept drift. In each track, researchers from TU Delft and engineers from ING are involved, as well as bachelor and master students from TU Delft.
+The core of the AFR consists of eight research tracks, in which PhD students work on a range of topics, such as software analytics, data integration, fairness in machine learning, model life cycle management, regulatory compliance, search-based software engineering, and concept drift. In each track, researchers from TU Delft and engineers from ING are involved, as well as bachelor and master students from TU Delft.
 
 AFR is bi-located at the TU Delft campus in Delft and at [Cumulus Park] – the collaborative innovation district in Amsterdam Southeast – bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations. During the COVID-19 pandemic in 2020 and 2021, all collabaration was virtual, with hybrid meetings returning in 2022.
 
