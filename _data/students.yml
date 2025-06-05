@@ -108,11 +108,11 @@
   supervision: Christoph Lofi
   link: null
 - track: Data Integration
-  name: Kyriakos Psarakis, Jerry Brons
+  name: Kyriakos Psarakis
   level: MSc
   topic: "Holistic Schema Matching at Scale"
   status: Graduated
-  supervision: "Christoph Lofi, Asterios Katsifodimos"
+  supervision: "Christoph Lofi, Asterios Katsifodimos, Jerry Brons"
   link: https://repository.tudelft.nl/islandora/object/uuid%3Af4ebeda3-6465-49da-813b-f1e6e0820c60
 - track: Continuous Experimentation
   name: Martijn Steenbergen
@@ -228,7 +228,19 @@
   supervision: "Elvan Kula, Georgios Gousios"
   link: null
 - track: Software Analytics
-  name: "Joaquin van Loon, Marius Birkhoff, Remco den Heijer"
+  name: "Joaquin van Loon"
+  level: BSc
+  topic: "ML-based story point estimation"
+  status: Finished
+  supervision: "Elvan Kula, Georgios Gousios"
+- track: Software Analytics
+  name: "JMarius Birkhoff"
+  level: BSc
+  topic: "ML-based story point estimation"
+  status: Finished
+  supervision: "Elvan Kula, Georgios Gousios"
+- track: Software Analytics
+  name: "Remco den Heijer"
   level: BSc
   topic: "ML-based story point estimation"
   status: Finished
@@ -285,7 +297,7 @@
   level: MSc
   topic: "Validating ING’s A/B testing platform"
   status: Graduated
-  supervision: "Georgios Gousios, Hennie Huijgens"
+  supervision: "Georgios Gousios, Hennie Huijgens, Kevin Anderson"
   link: https://repository.tudelft.nl/islandora/object/uuid%3A08f2c0b4-2aa8-4e12-9b58-073dcdfb4553?collection=education
 
 - track: Software Analytics
