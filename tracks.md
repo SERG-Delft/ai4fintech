@@ -16,12 +16,12 @@ These themes recur in each of the tracks, yet in different proportions, with som
 
 The AFR tracks are listed in the table.
 
-| Track  | PhD Candidate |
-|--------|---------------|
+| Id | Track  | PhD Candidate | Track leads |
+|-|--------|---------------|----| 
 {% for track in site.tracks -%}
 {%- unless track.inactive -%}
-| [{{track.title}}]({{track.url | relative_url}}) | {{track.phd}} |
- {%- endunless %}
+| {{track.track-id}} | [{{track.title}}]({{track.url | relative_url}}) | {{track.phd}} | {{track.leader}} |
+{%- endunless %}
 {% endfor %}
 
 <br/>
