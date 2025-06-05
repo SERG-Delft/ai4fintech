@@ -6,6 +6,8 @@ leader: Frank van Harmelen
 phd: Floris den Hengst
 ---
 
+![](../img/floris-experiment-week.jpeg)
+
 Reinforcement learning is a powerful learning paradigm that can be used to learn how to behave
 optimally from data. It has become increasingly popular over the past decades for various tasks,
 including personalization. However, enforcing safety requirements onto the learned behaviors

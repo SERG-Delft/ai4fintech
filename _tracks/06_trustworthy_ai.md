@@ -12,19 +12,29 @@ In several previous applications of machine learning (and statistical modeling),
 
 In this track, we approach trustworthy and explainable artificial intelligence from the perspective of _counterfactuals_: small perturbations to input values that lead to different model outcomes. Such counterfactuals can provide _recourse_, offering people means to strategically alter their behavior so that models do give desired outcomes.
 
+Key research results include:
+
+- Julia
+- SATML
+- Energy
+- Position / LLM
+
+
+The results have been presented at international workshops and conferences in the area AI. The results are collectively described in the dissertation of PhD candidate Patrick Altmeyer (defense date: fall 2025).
+
+
 ### Selected Publications
 
-- Patrick Altmeyer, Mojtaba Farmanbar, Arie van Deursen, Cynthia CS Liem. Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. [Preprint](https://arxiv.org/pdf/2312.10648).
+1. Patrick Altmeyer, Mojtaba Farmanbar, Arie van Deursen, Cynthia CS Liem. Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. [Preprint](https://arxiv.org/pdf/2312.10648).
 
-- Floris den Hengst, Ralf Wolter, Patrick Altmeyer, Arda Kaygan. Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition. Findings of the Association for Computational Linguistics: NAACL 2024. [Publication](https://aclanthology.org/2024.findings-naacl.156/)
+1. Floris den Hengst, Ralf Wolter, Patrick Altmeyer, Arda Kaygan. Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition. Findings of the Association for Computational Linguistics: NAACL 2024. [Publication](https://aclanthology.org/2024.findings-naacl.156/)
 
-- Patrick Altmeyer, Andrew M. Demetriou, Antony Bartlett, Cynthia C. S. Liem. Position: Stop Making Unscientific AGI Performance Claims. Proceedings of the 41st International Conference on Machine Learning. [Preprint](https://arxiv.org/pdf/2402.03962)
+1. Patrick Altmeyer, Andrew M. Demetriou, Antony Bartlett, Cynthia C. S. Liem. Position: Stop Making Unscientific AGI Performance Claims. Proceedings of the 41st International Conference on Machine Learning. [Preprint](https://arxiv.org/pdf/2402.03962)
 
-- Patrick Altmeyer, Arie van Deursen, Cynthia C. S. Liem. Explaining Black-Box Models through Counterfactuals. JuliaCon Proceedings, 1(1), 130, 2023 ([preprint](https://doi.org/10.21105/jcon.00130)).
+1. Patrick Altmeyer, Arie van Deursen, Cynthia C. S. Liem. Explaining Black-Box Models through Counterfactuals. JuliaCon Proceedings, 1(1), 130, 2023 ([preprint](https://doi.org/10.21105/jcon.00130)).
 
-- Endogenous Macrodynamics in Algorithmic Recourse. P Altmeyer, G Angela, A Buszydlik, K Dobiczek, A van Deursen, Cynthia S. Liem. IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 418-431, 2023 ([preprint](https://openreview.net/pdf?id=-LFT2YicI9v))
+1. Endogenous Macrodynamics in Algorithmic Recourse. P Altmeyer, G Angela, A Buszydlik, K Dobiczek, A van Deursen, Cynthia S. Liem. IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 418-431, 2023 ([preprint](https://openreview.net/pdf?id=-LFT2YicI9v))
 
-- Cynthia C. S. Liem and Chris Mostert, “Can't Trust the Feeling? How Open Data Reveals Unexpected Behavior of High-level Music Descriptors,” in ISMIR 2020.
 
 ### Other Activities
 
@@ -34,6 +44,8 @@ In this track, we approach trustworthy and explainable artificial intelligence f
 -	**Tool.** Patrick Altmeyer et al. (2023–). ConformalPrediction. <https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl> (Note: over 100 stars on Github)
 -	**Tool.** Patrick Altmeyer et al. (2023–). CounterfactualExplanations. <https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl> (Note: 100+ stars and 10+ contributors on Github)
 -	**Talk.** Patrick Altmeyer (2024). Multiple talks at JuliaCon 2024. <https://pretalx.com/juliacon2024/speaker/8DGYCX/>
+-	**Talk.** Mojtaba Farmanbar (2024). Uncertainty quantification: How much can you trust your machine learning models. PyData Amsterdam.
+-	**Talk.** Patrick Altmeyer. Against Spurious Sparks - Dovelating Inflated AI Claims 🕊️. ECONDAT 2024, London.
 -   **Talk.** Arie van Deursen. Explainable Software Engineering. Keynote address at Bit & Chips, October 2023, Eindhoven, The Netherlands. Slides: <https://speakerdeck.com/avandeursen/explainable-software-engineering>
 -   **Talk.** Arie van Deursen. FinTech: A Fertile Ground for Software Engineering Research. Presentation at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), Luxembourg. June 2023.
 
