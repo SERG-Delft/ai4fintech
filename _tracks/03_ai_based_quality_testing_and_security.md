@@ -1,7 +1,7 @@
 ---
 layout: track
 track-id: 3
-title: AI-Based Quality, Testing, and Repair
+title: AI-Based Software Quality, Testing, and Repair
 leader: Annibale Panichella
 phd: Leonhard Applis
 ---

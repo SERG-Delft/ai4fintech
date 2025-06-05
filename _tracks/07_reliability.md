@@ -6,6 +6,8 @@ leader: Luís Cruz, Diomidis Spinellis
 phd: Eileen Kapel
 ---
 
+![](../img/eileen-sensym-2024.jpeg)
+
 Ensuring the reliability of changes deployment is essential to prevent incidents in businesses that strongly depend on software and services. Incidents should be avoided since they may lead to customer dissatisfaction, financial losses and reputational damage. Currently, the majority of outages are being caused by changes, so we believe there is a need for a higher focus on the risk management pre-change deployment. 
 
 This track relates to a risk management AIOps framework utilising real-world change, CI/CD pipeline and incident data for incident prevention through reliable changes deployment. This research explores
