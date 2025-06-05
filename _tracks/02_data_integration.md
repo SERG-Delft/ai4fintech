@@ -23,7 +23,7 @@ Research results include:
 - An open-source streaming dataflow testbed that allows for accurate and isolated comparison of different checkpointing protocols and can be easily extended to compare other stream processing mechanisms.
 - The first principled evaluation framework for stream processing autoscalers
 
-The results have been presented at top conferences and journals in the area of databases.
+The results have been presented at top conferences in the area of databases.
 The results are collectively described in the dissertation of PhD candidate George Siachamis (defense date: November 2024).
 
 

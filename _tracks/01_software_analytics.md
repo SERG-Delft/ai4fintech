@@ -18,7 +18,7 @@ Results include
 - A novel model of team dynamics to support the prediction of delays of user stories;
 - An new optimization-based approach to plan generation for agile teams.
 
-The results have been presented at top conferences and journals in the area of software engineering.
+The results have been presented at top conferences and journals in the area of software engineering, and have yielded an ACM SIGSOFT Distinguished Paper Award at the prestigious _Automated Software Engineering_ conference.
 All results have been developed on ING data directly, and have been shown to be effective in an ING context. The results are collectively described in the dissertation of PhD candidate Elvan Kula (defense date: April 2025).
 
 ### Selected publications:

@@ -1,23 +1,30 @@
 ---
 layout: track
 track-id: 3
-title: AI-Based Quality, Testing, and Security
+title: AI-Based Quality, Testing, and Repair
 leader: Annibale Panichella
 phd: Leonhard Applis
 ---
 
 ![](../img/lampion.png)
 
-Over the past few years, the software engineering research community has booked substantial progress in reformulating many software engineering processes as _search-based problems_. 
+Over the past years, the software engineering research community has booked substantial progress in applying a variety of AI techniques to challenges of the software development process.
 
-In particular, _testing_ can be considered as a _search_ for a set of test _cases_ that together meet a given _adequacy_ criterion, such as line coverage.
-The search can start from randomly generated test inputs. These can then be _combined_ in such ways that the chances of increasing the coverage become higher and higher. This, then, gives rise to the application of _evolutionary algorithms_ for the purpose of software testing.
-A well known research tool that reflects the state of the art is [EvoSuite](https://evosuite.org), an search-based test generation tool for Java to which TU Delft has contributed as well.
+In many cases such ML-based software engineering tools give useful and meaningful results, for instance in the areas of program summarization or vulnerability detection. But how robust are such approaches? In this track we explore the use of _metamorphic transformations_ to understand whether such language model based tools maintain the required levels of performance when semantics-preserving transformations (such as refactorings or variable renamings) are applied the program under analysis.
 
-In the context of AFR, search-based testing techniques offer unique opportunities to further advance automated testing approaches within ING.
-In particular, in this track we seek to lift search-based test generation techniques from the unit to the integration and system test levels. Furthermore, we will explore how search-based techniques can be used for the purpose of _security_ testing, bringing more intelligence, for example, to the current state of the art in fuzzing and penetration testing.
+A second successful line in AI-based software engineering relates to reformulating software engineering processes as _search-based problems_. 
+In particular, _program repair_ can be considered as a _search_ for the right fix in a set of prossible code changes.
+This requires a notion of correctness (a test suite that a correct fix should pass) as well as a fitness function that can guide the search process to a candidate fix that gets closer and closer to a proper fix.
+In this track, we explore how such search-based program repair can leverage new types of test suites (such as property-based test suites) and sophisticated compiler infrastructure such as available in functional programming.
 
-🔔 **News:** Leonhard Applis has successfully defended his doctoral thesis in October 2024. Congratulations, Leonhard!
+Research results include:
+
+- Lampion, a framework for meta-morphic testing of machine-learning based program analysis tools
+- A search-based approach to assess the robustness of ML-based program analysis tools
+- PropR, a tool for property-based automated program repair for functional programming languages relying evolutionary search.
+- A novel approach to conduct spectrum-based fault localization in functional programming
+
+The results have been presented at top conferences in the area of software engineering. The results are collectively described in the dissertation of PhD candidate Leonhard Applis (defense date: September 2024).
 
 ## Selected publications
 
