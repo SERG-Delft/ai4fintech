@@ -12,3 +12,7 @@ Within AFR, events are regularly organized, including a weekly team meeting at I
 {% for event in site.data.events -%}
 | {{event.date}}  | {%- if event.url %}[{{event.title}}]({{event.url}}){:target="_blank"}{%- else %}{{event.title}} {%- endif %}. {%- if event.slides %} [(Slides)]({{event.slides}}){:target="_blank"} {%- endif %} | {{event.speaker}} |
 {% endfor  %}
+
+<br/>
+
+![](img/afr-launch-2019.jpeg)
