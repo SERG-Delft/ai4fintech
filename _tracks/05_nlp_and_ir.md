@@ -6,6 +6,8 @@ leader: Ujwal Gadiraju
 phd: Sara Salimzadeh
 ---
 
+![](../img/sara-defense.jpeg)
+
 Application of artificial intelligence in high stakes domains centers around human-AI decision making in which human stakeholders interact with AI.
 Examples in the financial sector include Know Your Customer (KYC) and Customer Due Dilligence (CDD) processes set in place to prevent banks from being used, intentionally or unintentionally, by criminal elements for money laundering activities.
 
