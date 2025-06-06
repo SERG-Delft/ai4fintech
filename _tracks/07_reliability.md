@@ -6,8 +6,6 @@ leader: Luís Cruz, Diomidis Spinellis
 phd: Eileen Kapel
 ---
 
-![](../img/eileen-sensym-2024.jpeg)
-
 Ensuring the reliability of changes deployment is essential to prevent incidents in businesses that strongly depend on software and services. Incidents should be avoided since they may lead to customer dissatisfaction, financial losses and reputational damage. Currently, the majority of outages are being caused by changes, so we believe there is a need for a higher focus on the risk management pre-change deployment. 
 
 This track relates to a risk management AIOps framework utilising real-world change, CI/CD pipeline and incident data for incident prevention through reliable changes deployment. This research explores
@@ -15,6 +13,16 @@ This track relates to a risk management AIOps framework utilising real-world cha
 1. obtaining background information on the current state of practice of service management with a case study on a software-defined business;
 2. a risk management AIOps framework that utilises the traces of change, incident and CI/CD pipeline code for predicting the risk of changes deployment; and
 3. testing the generalisability of the framework for reducing the risk of change deployment in the context of ING.
+
+Key research results include:
+
+- An empirical analysis of incident management processes in the financial sector, and ING in particular
+- A rigorous identification of key challenges need to be addressed in order to support reliable change deployment
+- An incident probability scoring technique to reduce the risk of incident-inducing changes being taken into production, trained and evaluated on ING operational data.
+
+The results have been presented at international workshops and conferences in software engineering. The results are collectively described in the dissertation of PhD candidate Eileen Kapel (defense date: fall 2025).
+
+![](../img/eileen-sensym-2024.jpeg)
 
 
 ### Selected publications
