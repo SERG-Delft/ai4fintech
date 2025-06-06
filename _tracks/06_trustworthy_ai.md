@@ -24,7 +24,6 @@ Key research results include:
 - An exploration of the macrodynamics of algorithmic recourse, when classification boundaries are shifting due to recourse being followed.
 - A critique of Artificial General Intelligence claims presently popular in the realm of Large Language Models.
 
-
 The results have been presented at international workshops and conferences in the area AI. The results are collectively described in the dissertation of PhD candidate Patrick Altmeyer (defense date: fall 2025).
 
 

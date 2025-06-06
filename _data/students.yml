@@ -149,7 +149,13 @@
   status: 2021-2024
   supervision: Jan Rellermeyer
   link: null
-
+- track: ML Reinforcement Learning
+  name: Stefan Petrescu
+  level: MSc
+  topic: "Rethinking log parsing in the context of modern software ecosystems"
+  status: Graduated (2022)
+  link: https://resolver.tudelft.nl/uuid:3f9a3b7b-ac70-40f7-bef5-94465f34aaa2
+  supervision: Jan Rellermeyer, Luis Cruz, Floris den Hengst
 - track: ML Models at Scale
   name: Bart van Oort
   level: MSc

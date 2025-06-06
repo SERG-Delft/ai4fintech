@@ -27,15 +27,15 @@ The results have been presented at international workshops and conferences in so
 
 ### Selected publications
 
-- On the Difficulty of Identifying Incident-Inducing Changes. Eileen Kapel, Luis Cruz, Diomidis Spinellis, Arie Van Deursen. Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2024. [Preprint](https://pure.tudelft.nl/ws/portalfiles/portal/210936762/3639477.3639755.pdf).
+1. On the Difficulty of Identifying Incident-Inducing Changes. Eileen Kapel, Luis Cruz, Diomidis Spinellis, Arie Van Deursen. Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2024. [Preprint](https://pure.tudelft.nl/ws/portalfiles/portal/210936762/3639477.3639755.pdf).
 
-- Enhancing Incident Management: Insights from a Case Study at ING. Eileen Kapel, Luís Cruz, Diomidis Spinellis, Arie Van Deursen. Proceedings of the 1st IEEE/ACM Workshop on Software Engineering Challenges in Financial Firms (FinanSE), 2024. [DOI: 10.1145/3643665.3648048](https://doi.org/10.1145/3643665.3648048).
+1. Enhancing Incident Management: Insights from a Case Study at ING. Eileen Kapel, Luís Cruz, Diomidis Spinellis, Arie Van Deursen. Proceedings of the 1st IEEE/ACM Workshop on Software Engineering Challenges in Financial Firms (FinanSE), 2024. [DOI: 10.1145/3643665.3648048](https://doi.org/10.1145/3643665.3648048).
 
-- Incident Prevention Through Reliable Changes Deployment. Eileen Kapel. IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2023. Poster. [DOI: 10.1109/ICSE-Companion58688.2023.00055](https://doi.org/10.1109/ICSE-Companion58688.2023.00055).
+1. Incident Prevention Through Reliable Changes Deployment. Eileen Kapel. IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2023. Poster. [DOI: 10.1109/ICSE-Companion58688.2023.00055](https://doi.org/10.1109/ICSE-Companion58688.2023.00055).
 
-- Kapel, Eileen and Cruz, Luís and Spinellis, Diomidis and van Deursen, Arie, Incident Management in a Software-Defined Business: A Case Study. [SSRN](https://ssrn.com/abstract=4333515) abstract [4333515](https://doi.org/10.2139/ssrn.4333515).
+1. Kapel, Eileen and Cruz, Luís and Spinellis, Diomidis and van Deursen, Arie, Incident Management in a Software-Defined Business: A Case Study. [SSRN](https://ssrn.com/abstract=4333515) abstract [4333515](https://doi.org/10.2139/ssrn.4333515).
 
-- Ching-Chi Chuang, Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen:
+1. Ching-Chi Chuang, Luís Cruz, Robbert van Dalen, Vladimir Mikovski, Arie van Deursen:
 Removing dependencies from large software projects: are you really sure? SCAM 2022: 105-115 ([link](https://research.tudelft.nl/en/publications/removing-dependencies-from-large-software-projects-are-you-really)).
 
 ### Other Activities
