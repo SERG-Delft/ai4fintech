@@ -59,6 +59,6 @@ The results have been presented at international workshops and conferences in th
 ## Other Activities
 
 - **ICAI Spotlight**: PhD student Lorena about her experiences in the AI4FinTech Research Lab. <https://www.icai.ai/news/phd-student-lorena-about-her-experiences-in-the-ai4fintech-research-lab>
-- Talk at **Data Science Community Conference** within ING Netherlands (2022) - Automating Machine Learning Model Maintenance and Monitoring.
-- Talk at **MLOps Community Meetup Amsterdam** 2024 - Towards Understanding the Behavior of Deployed Models Over Time: A Study Case on AIOps.
-- Talk at Data Science Guild within Exact Netherlands 2024 - Handling Large Complex Software using AIOps Techniques.
+- **Talk**. Lorena Poenaru-Olaru. Automating Machine Learning Model Maintenance and Monitoring. Data Science Community Conference within ING Netherlands, 2022.
+- **Talk**. Lorena Poenaru-Olaru. *wards Understanding the Behavior of Deployed Models Over Time: A Study Case on AIOps. MLOps Community Meetup Amsterdam, 2024.
+- **Talk**. Handling Large Complex Software using AIOps Techniques. Data Science Guild within Exact Netherlands, 2024.
