@@ -224,27 +224,30 @@
   name: Thomas Kolenbrander
   level: MSc
   topic: "Major incident detection"
-  status: Graduated (February 2021)
+  status: BSc graduated (February 2021)
   supervision: "Elvan Kula, Georgios Gousios"
   link: null
 - track: Software Analytics
   name: "Joaquin van Loon"
   level: BSc
   topic: "ML-based story point estimation"
-  status: Finished
+  status: BSc graduated (July 2021)
   supervision: "Elvan Kula, Georgios Gousios"
+  link: null
 - track: Software Analytics
-  name: "JMarius Birkhoff"
+  name: "Marius Birkhoff"
   level: BSc
   topic: "ML-based story point estimation"
-  status: Finished
+  status: BSc graduated (July 2021)
   supervision: "Elvan Kula, Georgios Gousios"
+  link: null
 - track: Software Analytics
   name: "Remco den Heijer"
   level: BSc
   topic: "ML-based story point estimation"
-  status: Finished
+  status: Garduated (July 2021)
   supervision: "Elvan Kula, Georgios Gousios"
+  link: null
 - track: Trustworthy AI
   name: Manisha Sethia
   level: MSc
