@@ -1,0 +1,46 @@
+---
+title: "AI for Fintech Research: Report 2020-2024"
+author: "Arie van Deursen and Luís Cruz"
+date: 2025-05-16
+date-format: long
+
+format:
+  pdf:
+    include-in-header:
+      - preamble.tex
+---
+
+\ 
+\vfill
+\thispagestyle{empty}
+\includegraphics[width=\hsize]{img/afr_logo.pdf}
+\ \newpage
+
+# Executive Summary
+
+This report presents the results of five years of collaboration between ING and Delft University of Technology, in the context of AFR, the AI-For-Fintech Research laboratory which started in January 2020.
+
+The report provides a general overview, results for each of the _tracks_, and a list of the students who conduct their BSc or MSc research projects with ING.
+
+In the five years of AFR, five PhD candidates have successfully defended their PhD. Furthermore, three additional candidates are in the process of completing their thesis, and will graduate in 2025 or 2026, bringing the total of PhD graduates from AFR to eight.
+Five of these eight were employed at TU Delft, and another three were ING employees pursuing their PhD with TU Delft.
+Over 35 MSc students have conducted an internship at ING in the context of AFR.
+Five of them subsequently joined ING as data scientist, software engineer, ML expert, or in other capacities.
+
+Key research results from the tracks include:
+
+1. Methods to predict delay in agile epic and user story delivery, validated in ING context
+1. A low latency approach to similarity joins in distributed data streams that are subject to concept drift.
+1. A framework for assessing the robustness of program analysis tools that rely on (large) language models or other types of machine learning models
+1. An empirical comparison of ML drift detectors in terms of accuracy, retraining cost, and energy consumption, in the context of ING infrastructure operational monitoring
+1. A rigorous empirical analysis of the impact of task complexity and uncertainty in human-AI decision making
+1. [Taija](https://taija.org), an open source suite of Julia packages for trustworthy artificial intelligence, covering model explainability, algorithmic recourse, predictive uncertainty quantification, Bayesian deep learning, and hybrid learning.
+1. An incident probability scoring technique to reduce the risk of incident-inducing changes being taken into production, trained and evaluated on ING operational data.
+1. A novel approach to deep reinforcement learning that is both safe and efficient
+
+These results have been described in over 60 peer reviewed scientific publications. Moreover, they have been presented at numerous conferences, both in academic and industrial settings, within ING as well as outside ING.
+
+At the time of writing, May 2025, ING and TU Delft are in the process of consolidating AFR and its results. Three of the PhD candidates (who started their PhD journey later in the AFR timeline) will complete their PhD in 2025 or 2026. Furthermore, several TU Delft MSc students will start an internship in 2025 (in projects connected to the AFR tracks).
+Lastly, in September 2024 AFR scientific director Arie van Deursen has joined the _[Advisory Board of ING Bank Netherlands](https://www.ing.nl/en/bank/about-ing/advisory-board)_.
+
+This report provides an overview of the lab, description of the eight tracks and their key results, as well as the list of all students who conducted an internship at ING.

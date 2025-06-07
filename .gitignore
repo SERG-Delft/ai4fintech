@@ -79,3 +79,7 @@ $RECYCLE.BIN/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+# report generation
+final-report/out
+final-report/venv
+final-report/img

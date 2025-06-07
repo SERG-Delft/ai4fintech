@@ -1,4 +1,4 @@
-exclude: [".gitignore", "README.md", "Rakefile", ]
+exclude: [".gitignore", "README.md", "Rakefile", "final-report"]
 highlighter: rouge
 future: true
 

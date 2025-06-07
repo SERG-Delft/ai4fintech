@@ -1,0 +1,41 @@
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{mathpazo}
+\usepackage{tgpagella}
+\usepackage[utf8]{inputenc}
+
+\usepackage{a4wide}
+%\setlength{\textheight}{210mm}
+
+% Create enough margin for headers
+\usepackage[margin=2.5cm,top=3cm,headheight=2cm]{geometry}
+
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+
+\newcommand{\leftlogo}{\includegraphics[height=0.5cm]{img/ing.png}}
+\newcommand{\rightlogo}{\includegraphics[height=1.5cm]{img/TUDelft_logo_cmyk.png}\vspace{-.7cm}}
+
+\newcommand{\mytitle}{AFR Report 2020--2024}
+
+% Define the page style with fancyhdr
+\pagestyle{fancy}
+
+% Clear the default headers and footers
+\fancyhf{}
+
+% Set the left header
+\fancyhead[L]{\leftlogo}
+
+% Set the right header
+\fancyhead[R]{\rightlogo}
+
+% Set the center header (title)
+\fancyhead[C]{\mytitle}
+
+% Set the page number in the footer (optional)
+\fancyfoot[C]{\thepage}
+
+%\AtBeginDocument{%
+%\thispagestyle{empty}
+%
