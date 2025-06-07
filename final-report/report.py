@@ -46,14 +46,12 @@ def do_root():
 def do_intro():
     lines = read_qmd(afr_src + 'index.md')
     (yaml, content) = process_qmd(lines)
-    # print(yaml)
     print(lines_to_string(content))
 
 def do_track_list():
     lines = read_qmd(afr_src + 'tracks.md')
     (yaml, content) = process_qmd(lines)
-    # print(yaml)
-    # last 9 lines are jekyll for loop to show tracks
+   # last 9 lines are jekyll for loop to show tracks
     print(lines_to_string(content[:-9]))
 
 def load_qmd(file_name):
@@ -103,15 +101,11 @@ def do_track_content(tracks):
 
 def do_students():
     section = "\n\\newpage\n# Bachelor and Master Students\n"
-    header = "| Name | Topic | Graduation | Supervision |"
-    bar = "|--|--|--|--|"
     print(section)
-    #print(header)
-    #print(bar)
-
+ 
     with open(afr_src + "_data/students.yml", "r") as file:
         data = yaml.safe_load(file)
-    #fmt = "| {} | {} | {} | {} |"
+ 
     fmt = "1. {}. _[{}]({})_. {}. Advisors: {}"
     for student in data:
     	if student['level'] != 'PhD':
@@ -126,17 +120,9 @@ def do_students():
 
 def main():
     do_root()
-    print("\n<!-- INTRO -->\n")
     do_intro()
-    print("\n<!-- TRACK OVERVIEW -->\n")
     do_track_list()
-    print("\n<!-- TRACK LIST -->\n")
     do_tracks()
-    print("\n<!-- STUDENTS -->\n")
     do_students()
-    #lines = read_qmd(root)
-    #(yaml, content) = process_qmd(lines)
-    #print(yaml)
-    #print(content)
 
 main()
