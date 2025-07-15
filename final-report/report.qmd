@@ -1,7 +1,7 @@
 ---
 title: "AI for Fintech Research: Report 2020-2024"
-author: "Arie van Deursen and Luís Cruz"
-date: 2025-05-16
+author: "Arie van Deursen and Luís Cruz, TU Delft"
+date: 2025-07-01
 date-format: long
 
 format:

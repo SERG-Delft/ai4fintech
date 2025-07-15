@@ -1,3 +1,11 @@
+- track: Data Integration
+  name: Vincent van Vliet
+  level: MSc
+  topic: "Data deletion policies"
+  status: "Started (2025)"
+  supervision: Arie van Deursen, Paul Braakman
+  link: null
+
 - track: AI-based Quality & Testing
   name: Joshua Azimullah
   level: MSc
@@ -10,7 +18,7 @@
   name: Jurriaan den Toonder
   level: MSc
   topic: "S.C.A.L.E.: Scheduler for Carbon-Aware Load Execution in OpenShift at ING"
-  status: Graduated
+  status: Graduated (2024)
   supervision: Thomas Durieux, Paul Braakman
   link: http://resolver.tudelft.nl/uuid:79406c06-ab43-4cba-9136-cb8243e891ed
 

@@ -4,6 +4,8 @@ layout: default
 
 # People in AFR
 
+People who have played a role in AFR include the following.
+
 <br/>
 
 Name | Organization | Role

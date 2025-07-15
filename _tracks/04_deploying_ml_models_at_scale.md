@@ -26,7 +26,7 @@ The results have been presented at international workshops and conferences in th
 
 ## Selected publications
 
-1. Lorena Poenaru-Olaru, June Sallou, Luís Cruz, Jan Rellermeyer, Arie van Deursen (2025). Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy. ICT4S
+1. Lorena Poenaru-Olaru, June Sallou, Luís Cruz, Jan Rellermeyer, Arie van Deursen (2025). Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy. Proceedings ICT for Sustainability (ICT4S), IEEE, 2025. [Preprint](https://arxiv.org/abs/2506.13838).
 
 1. Lorena Poenaru-Olaru, Natalia Karpova, Luis Cruz, Jan S Rellermeyer, Arie van Deursen. Is Your Anomaly Detector Ready for Change? Adapting AIOps Solutions to the Real World. Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI (CAIN), 2024. [Preprint](https://arxiv.org/pdf/2311.10421).
 
